@@ -17,3 +17,4 @@ Executive Performance
 Customer Growth & Retention
 Marketing Performance
 Delivered actionable insights into revenue growth, profitability, customer retention, and marketing ROI to support strategic business decisions.
+https://github.com/Oumaymabamoh/SaaS-revenue-churn-analytics/blob/main/dashboard-1.png
