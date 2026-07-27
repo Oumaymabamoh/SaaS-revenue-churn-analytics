@@ -1,6 +1,6 @@
 ## End-to-End SaaS revenue & churn analytics
 
-### Business Objective/Problem
+#### Business Objective/Problem
 SaaS companies generate large amounts of data across subscriptions, payments, marketing campaigns, and customer activity. However, this data is often spread across multiple systems, making it difficult to monitor business performance and support strategic decision-making.
 
 ### Project Goal
