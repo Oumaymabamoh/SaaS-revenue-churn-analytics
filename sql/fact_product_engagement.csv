@@ -1,0 +1,662 @@
+company_id,company_name,industry,company_size,customer_segment,plan,total_revenue,total_profit,profit_margin,churn_flag,total_events,active_users,engagement_score,engagement_level,last_activity_date
+CMP_000001,"Rodriguez, Figueroa and Sanchez",Healthcare,Enterprise,Mid-Market,Enterprise,15000.00,13050.00,87.00,0,13678,202,125222,High,2026-07-27
+CMP_000002,Doyle Ltd,Finance,Startup,SMB,Starter,588.00,270.36,45.98,0,401,5,3637,High,2026-07-16
+CMP_000003,"Mcclain, Miller and Henderson",Professional Services,Startup,Enterprise,Starter,490.00,225.30,45.98,0,591,4,5502,High,2026-07-23
+CMP_000004,Davis and Sons,Finance,Small Business,SMB,Starter,5821.20,5371.52,92.28,0,950,15,8253,High,2026-07-15
+CMP_000005,"Guzman, Hoffman and Baldwin",Retail,Small Business,Enterprise,Professional,1791.00,1287.27,71.87,0,728,13,6534,High,2026-07-13
+CMP_000006,"Gardner, Robinson and Lawrence",Technology,Enterprise,Enterprise,Business,5489.00,5049.33,91.99,0,24628,324,225277,High,2026-07-27
+CMP_000007,Blake and Sons,Retail,Small Business,SMB,Starter,588.00,270.36,45.98,0,312,6,2708,High,2026-07-06
+CMP_000009,Garcia-James,Education,Enterprise,Mid-Market,Starter,588.00,270.36,45.98,0,22089,303,201648,High,2026-07-26
+CMP_000011,Blair PLC,Technology,Mid-Market,SMB,Business,5489.00,5049.33,91.99,0,7501,98,68939,High,2026-07-24
+CMP_000012,Dudley Group,Healthcare,Startup,SMB,Business,5489.00,5049.33,91.99,0,424,5,3944,High,2026-07-20
+CMP_000013,Arnold Ltd,Professional Services,Small Business,Enterprise,Enterprise,18000.00,15660.00,87.00,0,608,7,5395,High,2026-07-17
+CMP_000016,Galloway-Wyatt,Education,Startup,SMB,Business,48502.80,46822.68,96.54,0,30,1,293,Medium,2026-05-25
+CMP_000017,James Group,Professional Services,Startup,SMB,Starter,490.00,225.30,45.98,0,118,2,1106,High,2026-05-29
+CMP_000018,"Flowers, Martin and Kelly",Healthcare,Startup,Enterprise,Enterprise,18000.00,15660.00,87.00,0,206,4,1817,High,2026-07-10
+CMP_000019,"Adams, Zuniga and Wong",Technology,Mid-Market,SMB,Starter,539.00,247.83,45.98,0,7223,96,66439,High,2026-07-27
+CMP_000021,Gray-Mayo,Technology,Small Business,SMB,Professional,2189.00,1573.33,71.87,0,762,10,7152,High,2026-07-19
+CMP_000022,"Watts, Robinson and Nguyen",Technology,Startup,SMB,Business,5489.00,5049.33,91.99,0,219,3,1837,High,2026-07-19
+CMP_000023,Perez Inc,Healthcare,Small Business,SMB,Business,5988.00,5508.36,91.99,0,1523,20,14042,High,2026-07-24
+CMP_000024,Morales-Jones,Finance,Startup,SMB,Professional,23641.20,22381.92,94.67,0,77,1,714,High,2026-06-22
+CMP_000025,"Walter, Edwards and Rios",Finance,Small Business,SMB,Professional,2388.00,1716.36,71.87,0,376,5,3485,High,2026-07-18
+CMP_000027,Baker and Sons,Education,Startup,SMB,Enterprise,0,0,0,1,56,2,487,Medium,2026-06-13
+CMP_000029,"Ross, Robinson and Bright",Healthcare,Small Business,Mid-Market,Starter,294.00,135.18,45.98,0,166,3,1683,High,2026-05-27
+CMP_000030,"Snyder, Campos and Callahan",Professional Services,Mid-Market,SMB,Professional,1990.00,1430.30,71.87,0,6403,86,58478,High,2026-07-25
+CMP_000031,Burton Ltd,Technology,Startup,Mid-Market,Professional,2189.00,1573.33,71.87,0,96,2,940,High,2026-06-19
+CMP_000034,Frazier Inc,Professional Services,Startup,SMB,Starter,6350.40,5859.84,92.28,0,157,2,1374,High,2026-07-21
+CMP_000036,Rodriguez-Graham,Retail,Small Business,SMB,Business,5988.00,5508.36,91.99,0,890,14,8320,High,2026-07-09
+CMP_000038,"Baker, Mason and White",Retail,Small Business,SMB,Starter,49.00,22.53,45.98,1,107,3,947,High,2026-06-01
+CMP_000040,"Romero, Gonzalez and Brooks",Healthcare,Startup,Enterprise,Starter,5821.20,5371.52,92.28,0,298,4,2695,High,2026-07-22
+CMP_000041,Ryan PLC,Technology,Startup,SMB,Starter,5292.00,4883.20,92.28,0,199,4,2014,High,2026-05-31
+CMP_000044,Allen-Allen,Technology,Mid-Market,SMB,Starter,588.00,270.36,45.98,0,5920,78,54330,High,2026-07-24
+CMP_000045,"Arroyo, Miller and Tucker",Technology,Startup,SMB,Starter,588.00,270.36,45.98,0,49,2,425,Medium,2026-06-16
+CMP_000046,Spence PLC,Education,Mid-Market,SMB,Professional,2189.00,1573.33,71.87,0,2110,28,19309,High,2026-07-24
+CMP_000048,"Martin, Rose and Obrien",Professional Services,Small Business,Mid-Market,Business,4491.00,4131.27,91.99,0,491,6,4393,High,2026-07-23
+CMP_000049,Hickman Ltd,Education,Enterprise,SMB,Professional,2388.00,1716.36,71.87,0,22260,308,203283,High,2026-07-27
+CMP_000051,"Brooks, Lam and Hayes",Finance,Startup,SMB,Starter,0,0,0,1,334,3,3226,High,2026-07-18
+CMP_000052,Walker LLC,Finance,Small Business,SMB,Business,4990.00,4590.30,91.99,0,536,5,4900,High,2026-07-16
+CMP_000054,"Robinson, Jones and Welch",Professional Services,Startup,SMB,Starter,490.00,225.30,45.98,0,258,2,2248,High,2026-07-23
+CMP_000056,Jones-Young,Retail,Small Business,Mid-Market,Professional,1990.00,1430.30,71.87,0,1392,20,12363,High,2026-07-20
+CMP_000058,"Johnston, Sanchez and Kennedy",Retail,Small Business,SMB,Professional,2388.00,1716.36,71.87,0,579,10,5268,High,2026-07-27
+CMP_000059,Lee-Davis,Retail,Startup,SMB,Starter,539.00,247.83,45.98,0,226,3,1953,High,2026-07-13
+CMP_000063,Wright and Sons,Education,Startup,Enterprise,Starter,441.00,202.77,45.98,0,236,3,2261,High,2026-07-16
+CMP_000064,"West, Henderson and Ramirez",Education,Startup,SMB,Professional,2189.00,1573.33,71.87,0,128,2,1177,High,2026-06-17
+CMP_000067,Williams PLC,Healthcare,Startup,SMB,Starter,392.00,180.24,45.98,0,190,3,1709,High,2026-05-31
+CMP_000068,Novak and Sons,Technology,Small Business,SMB,Starter,490.00,225.30,45.98,0,674,10,6346,High,2026-07-17
+CMP_000069,Russell Group,Education,Enterprise,SMB,Professional,1990.00,1430.30,71.87,0,36221,492,329843,High,2026-07-26
+CMP_000070,Hancock Inc,Finance,Startup,SMB,Professional,1791.00,1287.27,71.87,0,262,3,2586,High,2026-07-25
+CMP_000071,Gray Group,Technology,Small Business,Mid-Market,Starter,490.00,225.30,45.98,0,388,6,3745,High,2026-07-15
+CMP_000072,House-Glover,Professional Services,Mid-Market,SMB,Professional,1592.00,1144.24,71.87,0,1830,37,15940,High,2026-07-24
+CMP_000075,Novak PLC,Technology,Small Business,SMB,Starter,0,0,0,1,223,4,1947,High,2026-07-06
+CMP_000076,"Daniels, Adkins and Brown",Technology,Mid-Market,SMB,Professional,995.00,715.15,71.87,1,3009,41,26928,High,2026-07-23
+CMP_000077,"Woods, Calhoun and Schmidt",Retail,Startup,SMB,Business,5988.00,5508.36,91.99,0,115,2,1096,High,2026-06-15
+CMP_000078,Yu Inc,Retail,Small Business,Enterprise,Starter,539.00,247.83,45.98,0,886,12,8070,High,2026-07-22
+CMP_000079,Jones Inc,Manufacturing,Small Business,SMB,Starter,441.00,202.77,45.98,0,994,13,9160,High,2026-07-21
+CMP_000080,"Hensley, Powell and David",Healthcare,Small Business,SMB,Enterprise,18000.00,15660.00,87.00,0,848,13,8124,High,2026-07-20
+CMP_000081,"Sanchez, Wheeler and Harvey",Healthcare,Small Business,SMB,Starter,588.00,270.36,45.98,0,463,7,4240,High,2026-07-21
+CMP_000084,"Edwards, Baker and Anderson",Technology,Small Business,SMB,Starter,539.00,247.83,45.98,0,771,11,7053,High,2026-07-13
+CMP_000085,"Evans, Stewart and Walton",Technology,Startup,SMB,Starter,0,0,0,1,58,1,569,High,2026-05-30
+CMP_000086,Smith PLC,Finance,Mid-Market,Enterprise,Professional,2388.00,1716.36,71.87,0,4212,63,37946,High,2026-07-24
+CMP_000088,Anderson-Bailey,Technology,Mid-Market,Mid-Market,Professional,2388.00,1716.36,71.87,0,6955,86,62976,High,2026-07-26
+CMP_000095,Campbell-Clark,Finance,Startup,SMB,Starter,6350.40,5859.84,92.28,0,243,5,2143,High,2026-06-10
+CMP_000097,Wagner-King,Retail,Startup,Mid-Market,Starter,5821.20,5371.52,92.28,0,58,2,486,Medium,2026-05-30
+CMP_000099,Williams-Cook,Healthcare,Startup,SMB,Starter,539.00,247.83,45.98,0,81,1,673,High,2026-07-10
+CMP_000100,Walsh LLC,Technology,Startup,Mid-Market,Professional,1990.00,1430.30,71.87,0,12,1,113,Medium,2025-12-03
+CMP_000102,"Patterson, Smith and Jones",Retail,Mid-Market,Mid-Market,Professional,2388.00,1716.36,71.87,0,4559,59,42065,High,2026-07-23
+CMP_000103,"Mckee, Gardner and Davenport",Finance,Startup,SMB,Enterprise,178200.00,171204.00,96.07,0,87,2,797,High,2026-06-14
+CMP_000104,"Tran, Jordan and Williams",Technology,Startup,SMB,Enterprise,13500.00,11745.00,87.00,0,129,2,1389,High,2026-06-10
+CMP_000106,Nolan and Sons,Technology,Startup,SMB,Professional,0,0,0,1,230,2,1975,High,2026-07-16
+CMP_000107,"Wright, Garcia and Deleon",Healthcare,Enterprise,SMB,Professional,2388.00,1716.36,71.87,0,10044,134,91682,High,2026-07-26
+CMP_000110,Johnson-Doyle,Manufacturing,Mid-Market,SMB,Starter,539.00,247.83,45.98,0,4279,73,39132,High,2026-07-24
+CMP_000112,"Shields, Cochran and Adams",Finance,Small Business,SMB,Professional,0,0,0,1,610,8,5791,High,2026-07-08
+CMP_000114,Gonzalez Group,Finance,Small Business,SMB,Enterprise,16500.00,14355.00,87.00,0,1245,20,11653,High,2026-07-25
+CMP_000116,Walker Ltd,Manufacturing,Mid-Market,SMB,Professional,2388.00,1716.36,71.87,0,6479,96,59248,High,2026-07-27
+CMP_000119,May-Ross,Healthcare,Small Business,SMB,Professional,2189.00,1573.33,71.87,0,1412,19,12864,High,2026-07-25
+CMP_000121,White-Estes,Technology,Small Business,SMB,Starter,490.00,225.30,45.98,0,797,10,7107,High,2026-07-16
+CMP_000122,Johnson-Carlson,Manufacturing,Small Business,Mid-Market,Professional,1791.00,1287.27,71.87,0,1047,12,9597,High,2026-07-12
+CMP_000124,"Joyce, Wilson and Lam",Manufacturing,Startup,Mid-Market,Starter,490.00,225.30,45.98,0,70,1,636,High,2026-06-20
+CMP_000126,Smith-Frost,Finance,Startup,SMB,Enterprise,16500.00,14355.00,87.00,0,241,3,2250,High,2026-07-21
+CMP_000127,"Mcdaniel, Bentley and Mclaughlin",Technology,Small Business,SMB,Professional,1990.00,1430.30,71.87,0,1345,20,12387,High,2026-07-23
+CMP_000128,Diaz Inc,Retail,Startup,Mid-Market,Business,5489.00,5049.33,91.99,0,317,5,2953,High,2026-06-23
+CMP_000129,"Mccall, Hanson and Alvarado",Education,Startup,SMB,Starter,539.00,247.83,45.98,0,132,3,1099,High,2026-06-13
+CMP_000130,Cortez LLC,Professional Services,Enterprise,SMB,Starter,588.00,270.36,45.98,0,31311,418,284973,High,2026-07-26
+CMP_000131,"Parker, Ortiz and Powell",Technology,Mid-Market,SMB,Enterprise,18000.00,15660.00,87.00,0,3768,50,33932,High,2026-07-25
+CMP_000132,Spencer-Lee,Healthcare,Startup,SMB,Starter,588.00,270.36,45.98,0,32,2,324,Medium,2026-01-20
+CMP_000133,"Bentley, Byrd and Orr",Professional Services,Small Business,SMB,Starter,539.00,247.83,45.98,0,1176,17,10679,High,2026-07-25
+CMP_000135,Mitchell-Jordan,Retail,Startup,SMB,Starter,588.00,270.36,45.98,0,149,3,1429,High,2026-07-06
+CMP_000136,"Lawson, Morris and Ramos",Finance,Small Business,SMB,Professional,1990.00,1430.30,71.87,0,1110,20,9928,High,2026-07-21
+CMP_000137,"Lewis, Kennedy and Santana",Technology,Small Business,SMB,Professional,1990.00,1430.30,71.87,0,1325,14,12220,High,2026-07-23
+CMP_000138,"Jackson, Miller and Robertson",Finance,Small Business,SMB,Starter,588.00,270.36,45.98,0,554,8,5078,High,2026-07-12
+CMP_000139,"Harvey, Davis and Crane",Technology,Mid-Market,Enterprise,Starter,0,0,0,1,5200,77,47896,High,2026-07-25
+CMP_000140,Chambers and Sons,Technology,Startup,Mid-Market,Professional,2189.00,1573.33,71.87,0,244,4,2160,High,2026-07-25
+CMP_000142,Riggs PLC,Retail,Mid-Market,Mid-Market,Starter,588.00,270.36,45.98,0,2450,36,22583,High,2026-07-22
+CMP_000143,Gibson Ltd,Manufacturing,Small Business,SMB,Professional,0,0,0,1,253,4,2173,High,2026-07-13
+CMP_000144,"Lee, Horton and Snyder",Technology,Startup,SMB,Professional,0,0,0,1,60,2,576,High,2026-06-06
+CMP_000145,Hernandez Ltd,Manufacturing,Mid-Market,SMB,Professional,1990.00,1430.30,71.87,0,2433,31,22253,High,2026-07-20
+CMP_000147,Robinson-Brock,Technology,Mid-Market,SMB,Starter,490.00,225.30,45.98,0,4950,59,44826,High,2026-07-22
+CMP_000149,Bryant Group,Technology,Mid-Market,Enterprise,Professional,0,0,0,1,2765,38,25575,High,2026-07-26
+CMP_000150,"Schmidt, Hansen and Stewart",Technology,Enterprise,SMB,Starter,343.00,157.71,45.98,0,15812,229,143330,High,2026-07-26
+CMP_000151,Salazar-Ball,Retail,Mid-Market,SMB,Professional,2388.00,1716.36,71.87,0,7433,100,67300,High,2026-07-26
+CMP_000152,"Simmons, Meadows and Griffin",Education,Startup,SMB,Business,1497.00,1377.09,91.99,1,396,5,3651,High,2026-07-18
+CMP_000153,Manning Group,Finance,Small Business,SMB,Business,5489.00,5049.33,91.99,0,608,8,5473,High,2026-07-25
+CMP_000154,Green-Wright,Technology,Small Business,SMB,Business,4990.00,4590.30,91.99,0,942,17,8836,High,2026-07-24
+CMP_000155,"Ramirez, Strickland and Washington",Education,Startup,SMB,Professional,2189.00,1573.33,71.87,0,344,5,3340,High,2026-07-21
+CMP_000156,Hill Inc,Finance,Startup,SMB,Professional,1791.00,1287.27,71.87,0,260,4,2272,High,2026-06-24
+CMP_000157,"Mitchell, Nelson and Flores",Technology,Small Business,SMB,Starter,539.00,247.83,45.98,0,166,4,1466,High,2026-07-07
+CMP_000158,"Miller, Hernandez and Reyes",Finance,Small Business,SMB,Enterprise,13500.00,11745.00,87.00,0,1036,14,9686,High,2026-07-22
+CMP_000159,Mccarthy Inc,Technology,Enterprise,SMB,Business,0,0,0,1,21666,305,196966,High,2026-07-26
+CMP_000160,Russell-Daniels,Technology,Enterprise,SMB,Business,5489.00,5049.33,91.99,0,12543,151,114476,High,2026-07-26
+CMP_000161,Brown-Wall,Retail,Mid-Market,Mid-Market,Professional,2388.00,1716.36,71.87,0,1176,20,10687,High,2026-07-16
+CMP_000162,Stein-Silva,Finance,Startup,Enterprise,Professional,25790.40,24416.64,94.67,0,174,1,1560,High,2026-07-13
+CMP_000163,"Smith, Gilmore and Johnston",Retail,Enterprise,SMB,Starter,588.00,270.36,45.98,0,19601,250,180002,High,2026-07-25
+CMP_000166,Medina-Navarro,Technology,Startup,SMB,Professional,2189.00,1573.33,71.87,0,213,3,1926,High,2026-06-15
+CMP_000168,Johnson-Rogers,Retail,Startup,SMB,Starter,490.00,225.30,45.98,0,18,1,161,Medium,2026-05-01
+CMP_000169,"Yates, Ramsey and Pittman",Professional Services,Mid-Market,Enterprise,Professional,1990.00,1430.30,71.87,0,1890,23,17673,High,2026-07-25
+CMP_000170,Hooper PLC,Retail,Mid-Market,Enterprise,Starter,5821.20,5371.52,92.28,0,1351,20,12041,High,2026-07-20
+CMP_000172,"Alvarado, Miller and Patterson",Technology,Startup,SMB,Starter,490.00,225.30,45.98,0,124,3,1194,High,2026-06-09
+CMP_000173,White-Green,Healthcare,Startup,Enterprise,Starter,490.00,225.30,45.98,0,334,3,3142,High,2026-07-12
+CMP_000174,Lewis-Murphy,Professional Services,Mid-Market,SMB,Enterprise,16500.00,14355.00,87.00,0,5490,69,50179,High,2026-07-23
+CMP_000175,Ramirez-Bean,Professional Services,Startup,Enterprise,Starter,539.00,247.83,45.98,0,237,2,2257,High,2026-07-17
+CMP_000176,King-Miller,Technology,Startup,SMB,Starter,588.00,270.36,45.98,0,21,1,207,Medium,2026-03-07
+CMP_000177,Curry Inc,Technology,Enterprise,Mid-Market,Professional,2189.00,1573.33,71.87,0,24638,331,225192,High,2026-07-27
+CMP_000180,Howell and Sons,Technology,Mid-Market,SMB,Starter,588.00,270.36,45.98,0,5385,79,48569,High,2026-07-25
+CMP_000182,"Gould, Marshall and Scott",Technology,Startup,SMB,Professional,2189.00,1573.33,71.87,0,308,4,2737,High,2026-07-24
+CMP_000183,Jackson-Lawson,Manufacturing,Small Business,Enterprise,Professional,2388.00,1716.36,71.87,0,1229,20,10960,High,2026-07-23
+CMP_000187,Sanders-Espinoza,Technology,Startup,Mid-Market,Professional,2189.00,1573.33,71.87,0,169,4,1512,High,2026-07-15
+CMP_000188,Vargas Ltd,Education,Startup,SMB,Starter,490.00,225.30,45.98,0,118,2,998,High,2026-06-29
+CMP_000189,Garcia LLC,Technology,Small Business,SMB,Business,5489.00,5049.33,91.99,0,1564,14,14597,High,2026-07-25
+CMP_000190,"Burke, Martinez and Riggs",Finance,Enterprise,SMB,Professional,21492.00,20347.20,94.67,0,27842,384,254254,High,2026-07-27
+CMP_000191,Reed Group,Technology,Mid-Market,Enterprise,Enterprise,15000.00,13050.00,87.00,0,6568,89,59360,High,2026-07-22
+CMP_000192,"Wood, Hunter and Peterson",Retail,Startup,SMB,Starter,5292.00,4883.20,92.28,0,379,4,3482,High,2026-07-16
+CMP_000196,"Nelson, Morton and Medina",Technology,Startup,SMB,Business,5988.00,5508.36,91.99,0,158,2,1444,High,2026-06-20
+CMP_000197,Marshall-Petersen,Technology,Mid-Market,Enterprise,Starter,6350.40,5859.84,92.28,0,3002,43,27271,High,2026-07-27
+CMP_000198,"Adams, Christian and Rivas",Professional Services,Small Business,Mid-Market,Professional,19342.80,18312.48,94.67,0,1004,12,9040,High,2026-07-25
+CMP_000199,Ramirez Group,Retail,Small Business,Mid-Market,Starter,490.00,225.30,45.98,0,338,4,3043,High,2026-07-23
+CMP_000201,"Barnett, Rogers and Snyder",Education,Startup,Enterprise,Business,4990.00,4590.30,91.99,0,248,3,2073,High,2026-07-12
+CMP_000204,"Beard, Peters and Black",Finance,Small Business,SMB,Starter,539.00,247.83,45.98,0,1299,18,12114,High,2026-07-12
+CMP_000205,Miller Ltd,Technology,Small Business,SMB,Professional,1990.00,1430.30,71.87,0,1226,14,11081,High,2026-07-27
+CMP_000207,"Alvarez, Joseph and West",Finance,Startup,SMB,Starter,588.00,270.36,45.98,0,257,3,2251,High,2026-06-23
+CMP_000208,Davis and Sons,Retail,Small Business,Mid-Market,Starter,6350.40,5859.84,92.28,0,1315,17,12192,High,2026-07-22
+CMP_000209,Holt-Torres,Retail,Mid-Market,SMB,Professional,0,0,0,1,3587,41,32978,High,2026-07-24
+CMP_000211,"Pierce, Bell and Chavez",Retail,Small Business,SMB,Professional,2388.00,1716.36,71.87,0,835,12,7426,High,2026-07-25
+CMP_000212,King-Martinez,Technology,Small Business,Mid-Market,Professional,0,0,0,1,1004,12,9039,High,2026-07-19
+CMP_000213,Stewart Ltd,Retail,Startup,SMB,Business,4990.00,4590.30,91.99,0,176,2,1633,High,2026-07-24
+CMP_000214,"Tapia, Vaughn and Lee",Education,Startup,Enterprise,Professional,23641.20,22381.92,94.67,0,346,4,2925,High,2026-07-09
+CMP_000215,"Washington, Hardy and Bray",Finance,Startup,SMB,Starter,539.00,247.83,45.98,0,167,5,1399,High,2026-07-04
+CMP_000216,"Carlson, Hooper and Wall",Manufacturing,Mid-Market,Mid-Market,Business,5489.00,5049.33,91.99,0,4458,58,40128,High,2026-07-26
+CMP_000217,Perez-White,Education,Small Business,SMB,Business,59281.20,57227.72,96.54,0,1031,12,9412,High,2026-07-21
+CMP_000218,Erickson and Sons,Finance,Mid-Market,Enterprise,Professional,0,0,0,1,2735,41,25043,High,2026-07-22
+CMP_000219,Williams-Brown,Healthcare,Small Business,Mid-Market,Starter,588.00,270.36,45.98,0,235,4,2204,High,2026-07-16
+CMP_000220,Terry-Martinez,Professional Services,Startup,SMB,Business,4990.00,4590.30,91.99,0,383,5,3427,High,2026-07-10
+CMP_000222,Harrison-Alexander,Technology,Small Business,SMB,Professional,0,0,0,1,234,3,2281,High,2026-07-05
+CMP_000223,Sheppard LLC,Healthcare,Mid-Market,SMB,Professional,2388.00,1716.36,71.87,0,3654,52,32933,High,2026-07-23
+CMP_000224,Wilson-Jones,Manufacturing,Small Business,SMB,Starter,0,0,0,1,335,6,3141,High,2026-07-07
+CMP_000225,Jones-Soto,Finance,Startup,SMB,Professional,2189.00,1573.33,71.87,0,251,4,2373,High,2026-07-10
+CMP_000227,Miller-Wright,Technology,Startup,SMB,Starter,539.00,247.83,45.98,0,209,4,1876,High,2026-05-29
+CMP_000228,"Duran, Obrien and Gibbs",Technology,Small Business,Enterprise,Starter,441.00,202.77,45.98,0,1458,20,13346,High,2026-07-26
+CMP_000230,Kerr-Evans,Professional Services,Small Business,SMB,Starter,588.00,270.36,45.98,0,280,3,2490,High,2026-07-09
+CMP_000231,"Branch, Torres and Oliver",Technology,Startup,SMB,Enterprise,145800.00,140076.00,96.07,0,173,4,1519,High,2026-05-15
+CMP_000232,"Choi, Garcia and Farmer",Professional Services,Startup,SMB,Professional,2189.00,1573.33,71.87,0,249,4,2387,High,2026-06-26
+CMP_000234,Arnold and Sons,Manufacturing,Mid-Market,SMB,Business,4990.00,4590.30,91.99,0,7410,97,68102,High,2026-07-25
+CMP_000237,Warner-Gibson,Technology,Small Business,Mid-Market,Business,53892.00,52025.20,96.54,0,1342,20,12164,High,2026-07-20
+CMP_000238,"Hall, Baker and Moody",Education,Mid-Market,SMB,Business,64670.40,62430.24,96.54,0,5777,83,52030,High,2026-07-27
+CMP_000239,"Guerrero, Peck and Coleman",Technology,Startup,SMB,Starter,490.00,225.30,45.98,0,10,1,75,Low,2026-02-10
+CMP_000240,"Walker, Hernandez and Baker",Technology,Small Business,SMB,Starter,539.00,247.83,45.98,0,255,3,2430,High,2026-07-15
+CMP_000242,Larson-Holloway,Professional Services,Mid-Market,SMB,Professional,0,0,0,1,6477,98,58759,High,2026-07-27
+CMP_000244,Lyons-Bender,Technology,Small Business,Mid-Market,Professional,2388.00,1716.36,71.87,0,1316,20,11822,High,2026-07-19
+CMP_000247,Davis Ltd,Healthcare,Small Business,SMB,Business,4990.00,4590.30,91.99,0,1264,19,11626,High,2026-07-21
+CMP_000248,"Matthews, Smith and Hubbard",Technology,Startup,Mid-Market,Starter,588.00,270.36,45.98,0,247,4,2328,High,2026-07-05
+CMP_000249,Johnston-Hines,Technology,Mid-Market,SMB,Business,4990.00,4590.30,91.99,0,2188,36,19759,High,2026-07-20
+CMP_000250,Ruiz Ltd,Retail,Mid-Market,Mid-Market,Business,0,0,0,1,6064,82,55783,High,2026-07-23
+CMP_000251,Moon-White,Professional Services,Small Business,SMB,Enterprise,194400.00,186768.00,96.07,0,707,9,6403,High,2026-07-17
+CMP_000254,"Garcia, Martin and Jenkins",Retail,Small Business,SMB,Professional,2189.00,1573.33,71.87,0,1172,16,10398,High,2026-07-22
+CMP_000258,"Bryan, Smith and Booth",Technology,Small Business,SMB,Starter,5821.20,5371.52,92.28,0,577,8,5199,High,2026-07-11
+CMP_000259,Gutierrez-Lopez,Technology,Small Business,SMB,Professional,1990.00,1430.30,71.87,0,1020,14,9496,High,2026-07-24
+CMP_000260,Dean-Jimenez,Healthcare,Startup,SMB,Professional,1990.00,1430.30,71.87,0,243,3,2322,High,2026-07-22
+CMP_000261,Wolf-Harris,Professional Services,Small Business,SMB,Professional,23641.20,22381.92,94.67,0,286,5,2727,High,2026-07-24
+CMP_000264,"Lloyd, Mckinney and Collins",Technology,Mid-Market,Mid-Market,Professional,1990.00,1430.30,71.87,0,1763,23,16175,High,2026-07-22
+CMP_000265,Tran Inc,Healthcare,Mid-Market,Mid-Market,Professional,2388.00,1716.36,71.87,0,3649,49,33444,High,2026-07-26
+CMP_000266,Gay Inc,Technology,Startup,SMB,Starter,539.00,247.83,45.98,0,308,5,2904,High,2026-07-16
+CMP_000269,Hicks-Hill,Finance,Small Business,SMB,Professional,0,0,0,1,967,14,9085,High,2026-07-18
+CMP_000274,Hoover-Campbell,Finance,Startup,SMB,Business,64670.40,62430.24,96.54,0,373,5,3136,High,2026-06-29
+CMP_000275,Monroe-Carpenter,Manufacturing,Startup,Mid-Market,Starter,490.00,225.30,45.98,0,25,1,204,Medium,2026-03-27
+CMP_000276,"Burns, Hernandez and Ryan",Retail,Startup,SMB,Business,64670.40,62430.24,96.54,0,139,3,1316,High,2026-06-14
+CMP_000277,Cook-Hines,Finance,Mid-Market,SMB,Starter,588.00,270.36,45.98,0,2747,37,25049,High,2026-07-23
+CMP_000280,"Reyes, Chase and Jenkins",Finance,Startup,Mid-Market,Professional,2388.00,1716.36,71.87,0,347,4,2926,High,2026-07-10
+CMP_000282,Hughes-Alvarado,Healthcare,Mid-Market,SMB,Business,4990.00,4590.30,91.99,0,2484,34,22645,High,2026-07-27
+CMP_000283,"Pollard, Simpson and Johnson",Retail,Startup,SMB,Professional,2189.00,1573.33,71.87,0,277,4,2325,High,2026-07-21
+CMP_000284,"Sanford, Rivera and Garcia",Finance,Small Business,Mid-Market,Starter,6350.40,5859.84,92.28,0,885,13,8021,High,2026-07-19
+CMP_000286,Bowen Group,Manufacturing,Enterprise,Mid-Market,Business,5489.00,5049.33,91.99,0,24652,347,225623,High,2026-07-27
+CMP_000287,"Booker, Jones and Harrington",Manufacturing,Startup,Enterprise,Business,4990.00,4590.30,91.99,0,58,2,606,High,2026-05-26
+CMP_000288,Morgan-Schwartz,Healthcare,Small Business,SMB,Professional,1990.00,1430.30,71.87,0,564,9,5204,High,2026-07-24
+CMP_000290,"James, Stewart and Higgins",Manufacturing,Startup,SMB,Business,53892.00,52025.20,96.54,0,373,3,3273,High,2026-07-11
+CMP_000291,Brennan-Johnson,Healthcare,Mid-Market,SMB,Starter,588.00,270.36,45.98,0,5813,85,52846,High,2026-07-27
+CMP_000292,Young Ltd,Healthcare,Startup,SMB,Professional,1791.00,1287.27,71.87,0,24,1,212,Medium,2026-03-22
+CMP_000293,Bright-Francis,Retail,Small Business,SMB,Business,5988.00,5508.36,91.99,0,169,4,1612,High,2026-06-16
+CMP_000294,Good-Hodges,Retail,Small Business,SMB,Enterprise,16500.00,14355.00,87.00,0,1447,16,13405,High,2026-07-17
+CMP_000295,"Brennan, Wallace and Benson",Finance,Startup,SMB,Business,4990.00,4590.30,91.99,0,152,3,1346,High,2026-07-09
+CMP_000296,Williams Inc,Technology,Startup,Enterprise,Professional,2189.00,1573.33,71.87,0,289,3,2743,High,2026-07-05
+CMP_000297,Howard-Jordan,Professional Services,Startup,SMB,Professional,1990.00,1430.30,71.87,0,117,3,1071,High,2026-06-04
+CMP_000299,"Sparks, Jackson and Miller",Technology,Enterprise,Mid-Market,Starter,490.00,225.30,45.98,0,24595,326,223847,High,2026-07-25
+CMP_000304,Jones LLC,Education,Enterprise,SMB,Professional,0,0,0,1,27674,383,252342,High,2026-07-26
+CMP_000308,Armstrong-Andrews,Technology,Small Business,SMB,Starter,588.00,270.36,45.98,0,318,3,2742,High,2026-07-15
+CMP_000311,"Beltran, Lozano and Mcgee",Technology,Small Business,SMB,Professional,0,0,0,1,1129,17,10626,High,2026-07-16
+CMP_000312,Parsons-Hall,Retail,Startup,SMB,Business,5988.00,5508.36,91.99,0,29,1,265,Medium,2026-03-08
+CMP_000313,Robinson-Lee,Finance,Small Business,SMB,Starter,539.00,247.83,45.98,0,732,9,6838,High,2026-07-23
+CMP_000314,Byrd-Le,Healthcare,Startup,Mid-Market,Starter,588.00,270.36,45.98,0,415,5,3680,High,2026-07-13
+CMP_000315,"Becker, Taylor and Davis",Retail,Small Business,SMB,Business,5489.00,5049.33,91.99,0,284,5,2728,High,2026-06-20
+CMP_000316,"Lucas, Parker and Alexander",Education,Enterprise,SMB,Professional,1990.00,1430.30,71.87,0,34190,462,313076,High,2026-07-27
+CMP_000318,Burgess-Thompson,Manufacturing,Startup,SMB,Business,48502.80,46822.68,96.54,0,70,1,649,High,2026-06-24
+CMP_000319,Buchanan LLC,Professional Services,Mid-Market,SMB,Business,5988.00,5508.36,91.99,0,4144,49,37998,High,2026-07-27
+CMP_000320,"Shaw, Nelson and Martin",Finance,Mid-Market,Mid-Market,Business,5489.00,5049.33,91.99,0,6023,82,55969,High,2026-07-26
+CMP_000323,Taylor and Sons,Technology,Mid-Market,SMB,Starter,49.00,22.53,45.98,1,5180,76,47809,High,2026-07-25
+CMP_000324,"Ramsey, Whitney and Coffey",Healthcare,Mid-Market,SMB,Starter,490.00,225.30,45.98,0,2539,29,23158,High,2026-07-25
+CMP_000325,"Diaz, Gibbs and Smith",Professional Services,Small Business,Enterprise,Business,0,0,0,1,392,8,3631,High,2026-07-20
+CMP_000327,Richards-Carson,Healthcare,Startup,SMB,Starter,588.00,270.36,45.98,0,331,2,2945,High,2026-06-30
+CMP_000330,Herman-Walker,Finance,Startup,SMB,Professional,2189.00,1573.33,71.87,0,172,3,1568,High,2026-06-14
+CMP_000331,Reid Group,Finance,Small Business,SMB,Starter,539.00,247.83,45.98,0,792,10,7079,High,2026-07-19
+CMP_000332,"Turner, Ortiz and Taylor",Professional Services,Mid-Market,SMB,Starter,588.00,270.36,45.98,0,6845,91,63213,High,2026-07-27
+CMP_000333,Torres Group,Education,Small Business,SMB,Professional,23641.20,22381.92,94.67,0,175,3,1680,High,2026-07-23
+CMP_000334,Davis PLC,Retail,Mid-Market,SMB,Business,4990.00,4590.30,91.99,0,6168,91,56300,High,2026-07-27
+CMP_000335,Price LLC,Professional Services,Small Business,SMB,Starter,539.00,247.83,45.98,0,1149,15,10515,High,2026-07-15
+CMP_000336,"Avery, Horton and Fernandez",Technology,Small Business,SMB,Professional,2189.00,1573.33,71.87,0,1283,20,11748,High,2026-07-23
+CMP_000337,"Newton, Moore and Perry",Retail,Small Business,Mid-Market,Professional,0,0,0,1,339,4,3121,High,2026-07-06
+CMP_000338,Bass PLC,Finance,Small Business,SMB,Enterprise,15000.00,13050.00,87.00,0,1219,17,11176,High,2026-07-24
+CMP_000339,Crosby-Ramirez,Professional Services,Startup,Enterprise,Business,5988.00,5508.36,91.99,0,69,1,585,High,2026-05-27
+CMP_000340,"Wood, Ramos and Sampson",Manufacturing,Small Business,SMB,Enterprise,16500.00,14355.00,87.00,0,538,9,4905,High,2026-06-30
+CMP_000341,Garcia-Jennings,Manufacturing,Small Business,Enterprise,Starter,6350.40,5859.84,92.28,0,986,10,8964,High,2026-07-19
+CMP_000342,"Winters, Newman and Brown",Healthcare,Enterprise,Enterprise,Starter,588.00,270.36,45.98,0,29381,403,267577,High,2026-07-27
+CMP_000343,Lopez-Martinez,Finance,Mid-Market,Mid-Market,Starter,490.00,225.30,45.98,0,4072,60,37253,High,2026-07-26
+CMP_000345,"Harper, Smith and Buchanan",Retail,Startup,SMB,Professional,1990.00,1430.30,71.87,0,152,4,1396,High,2026-06-26
+CMP_000346,Zhang PLC,Education,Mid-Market,SMB,Business,0,0,0,1,5937,79,54407,High,2026-07-24
+CMP_000348,Willis and Sons,Finance,Enterprise,SMB,Enterprise,162000.00,155640.00,96.07,0,26270,376,239499,High,2026-07-26
+CMP_000349,Schroeder-Kramer,Technology,Small Business,SMB,Starter,0,0,0,1,626,5,5801,High,2026-07-24
+CMP_000350,"Smith, Garrison and Thomas",Retail,Small Business,SMB,Professional,2189.00,1573.33,71.87,0,758,12,7049,High,2026-07-19
+CMP_000351,Fernandez and Sons,Education,Enterprise,SMB,Starter,539.00,247.83,45.98,0,11265,173,103125,High,2026-07-25
+CMP_000352,Guerrero Inc,Healthcare,Enterprise,SMB,Professional,1990.00,1430.30,71.87,0,8749,133,79175,High,2026-07-25
+CMP_000353,Smith and Sons,Finance,Mid-Market,SMB,Enterprise,15000.00,13050.00,87.00,0,4509,56,41335,High,2026-07-27
+CMP_000354,"Morris, Thompson and Williams",Technology,Mid-Market,Enterprise,Business,4990.00,4590.30,91.99,0,6526,88,60032,High,2026-07-24
+CMP_000357,Hayes and Sons,Technology,Small Business,SMB,Starter,539.00,247.83,45.98,0,1244,17,11642,High,2026-07-26
+CMP_000358,"Williams, Logan and Camacho",Technology,Enterprise,Mid-Market,Professional,2189.00,1573.33,71.87,0,14385,185,131176,High,2026-07-25
+CMP_000360,Boone-Simmons,Retail,Small Business,SMB,Professional,2189.00,1573.33,71.87,0,605,8,5508,High,2026-07-14
+CMP_000361,Henry Group,Professional Services,Small Business,Mid-Market,Professional,25790.40,24416.64,94.67,0,1057,14,9650,High,2026-07-23
+CMP_000363,"Hernandez, Martinez and Weber",Professional Services,Small Business,Mid-Market,Starter,490.00,225.30,45.98,0,487,9,4444,High,2026-07-26
+CMP_000364,"Kelley, Nguyen and Vang",Healthcare,Small Business,SMB,Business,4990.00,4590.30,91.99,0,1231,16,11002,High,2026-07-18
+CMP_000365,"Phillips, Wagner and Jordan",Finance,Small Business,SMB,Business,0,0,0,1,627,10,5856,High,2026-07-20
+CMP_000366,"Wilson, Pena and Rich",Retail,Enterprise,SMB,Business,59281.20,57227.72,96.54,0,31198,422,285169,High,2026-07-27
+CMP_000367,"Le, Lewis and Hayes",Retail,Small Business,SMB,Professional,25790.40,24416.64,94.67,0,839,13,7783,High,2026-07-20
+CMP_000369,Perry-Davis,Manufacturing,Small Business,SMB,Professional,2388.00,1716.36,71.87,0,312,4,2705,High,2026-07-11
+CMP_000370,Edwards-Scott,Healthcare,Mid-Market,SMB,Starter,539.00,247.83,45.98,0,5926,94,53943,High,2026-07-25
+CMP_000373,Reynolds Ltd,Healthcare,Mid-Market,Enterprise,Starter,539.00,247.83,45.98,0,4426,58,40685,High,2026-07-27
+CMP_000374,"Watson, Anderson and Brown",Technology,Startup,SMB,Professional,199.00,143.03,71.87,1,116,2,991,High,2026-06-23
+CMP_000375,"Hoffman, Santiago and Jenkins",Retail,Mid-Market,SMB,Starter,0,0,0,1,1670,22,15024,High,2026-07-14
+CMP_000376,"Pugh, Henderson and Moon",Education,Startup,SMB,Professional,1990.00,1430.30,71.87,0,122,4,1141,High,2026-06-26
+CMP_000377,Schmitt PLC,Retail,Mid-Market,SMB,Starter,588.00,270.36,45.98,0,5326,80,48173,High,2026-07-25
+CMP_000380,Boone LLC,Finance,Small Business,SMB,Starter,0,0,0,1,1209,14,11119,High,2026-07-25
+CMP_000381,"Richardson, Farmer and Andrews",Manufacturing,Small Business,SMB,Starter,294.00,135.18,45.98,1,1298,16,11952,High,2026-07-17
+CMP_000383,"Austin, Day and Johnson",Manufacturing,Startup,SMB,Professional,2388.00,1716.36,71.87,0,233,4,2146,High,2026-07-10
+CMP_000384,"Gallegos, Adams and White",Technology,Small Business,SMB,Professional,2388.00,1716.36,71.87,0,978,20,9254,High,2026-07-23
+CMP_000385,"Farmer, Dorsey and Bell",Retail,Small Business,SMB,Starter,490.00,225.30,45.98,0,385,7,3548,High,2026-07-09
+CMP_000386,Kane PLC,Retail,Small Business,SMB,Professional,2388.00,1716.36,71.87,0,495,6,4569,High,2026-07-20
+CMP_000387,"Morales, Thomas and Schultz",Technology,Startup,Enterprise,Business,5489.00,5049.33,91.99,0,263,2,2407,High,2026-07-20
+CMP_000388,Davis PLC,Healthcare,Startup,SMB,Starter,392.00,180.24,45.98,0,76,1,646,High,2026-06-04
+CMP_000390,Moore-Collins,Finance,Small Business,Enterprise,Professional,2388.00,1716.36,71.87,0,727,14,6705,High,2026-07-05
+CMP_000393,Webster Inc,Manufacturing,Mid-Market,SMB,Professional,23641.20,22381.92,94.67,0,1262,21,11727,High,2026-07-23
+CMP_000394,"Miller, Ramos and Coleman",Manufacturing,Small Business,SMB,Starter,539.00,247.83,45.98,0,944,13,8272,High,2026-07-15
+CMP_000395,"Ramos, Nelson and Fischer",Finance,Small Business,Enterprise,Professional,1990.00,1430.30,71.87,0,429,9,3899,High,2026-07-15
+CMP_000396,Reed Inc,Education,Startup,Mid-Market,Professional,1592.00,1144.24,71.87,0,470,4,4559,High,2026-07-27
+CMP_000397,Gregory-Watkins,Education,Small Business,Mid-Market,Starter,392.00,180.24,45.98,0,1029,12,9425,High,2026-07-25
+CMP_000398,"Estrada, Williams and Foster",Education,Startup,Mid-Market,Starter,539.00,247.83,45.98,0,247,4,2405,High,2026-07-24
+CMP_000399,"Brown, Harris and Dougherty",Technology,Mid-Market,SMB,Professional,0,0,0,1,2908,39,26788,High,2026-07-23
+CMP_000400,Duran LLC,Technology,Mid-Market,SMB,Professional,2189.00,1573.33,71.87,0,4490,63,41640,High,2026-07-27
+CMP_000401,Wilson-Jimenez,Education,Mid-Market,SMB,Enterprise,12000.00,10440.00,87.00,0,4459,55,40660,High,2026-07-26
+CMP_000402,Thompson-James,Manufacturing,Small Business,Enterprise,Starter,0,0,0,1,1509,15,13834,High,2026-07-21
+CMP_000404,Jones-Hensley,Retail,Enterprise,SMB,Professional,1990.00,1430.30,71.87,0,24783,325,225159,High,2026-07-27
+CMP_000406,Atkins PLC,Healthcare,Startup,Enterprise,Starter,539.00,247.83,45.98,0,256,3,2264,High,2026-07-18
+CMP_000408,Roberts-Sullivan,Education,Startup,Mid-Market,Starter,539.00,247.83,45.98,0,189,2,1824,High,2026-07-24
+CMP_000410,Collier-Gillespie,Finance,Startup,SMB,Professional,2189.00,1573.33,71.87,0,266,5,2439,High,2026-07-21
+CMP_000411,Kim Inc,Technology,Startup,Mid-Market,Business,5988.00,5508.36,91.99,0,159,1,1489,High,2026-07-16
+CMP_000412,Graham Group,Education,Mid-Market,SMB,Professional,1990.00,1430.30,71.87,0,6251,87,56951,High,2026-07-25
+CMP_000413,"Miller, Harrell and Reese",Technology,Mid-Market,SMB,Starter,5292.00,4883.20,92.28,0,5876,86,54366,High,2026-07-26
+CMP_000414,Cook and Sons,Finance,Startup,SMB,Starter,5821.20,5371.52,92.28,0,387,4,3584,High,2026-07-16
+CMP_000415,Dixon Inc,Education,Mid-Market,SMB,Starter,5821.20,5371.52,92.28,0,3778,51,35009,High,2026-07-26
+CMP_000418,Thomas and Sons,Education,Startup,SMB,Professional,1990.00,1430.30,71.87,0,198,4,1830,High,2026-06-22
+CMP_000419,Morrison Ltd,Healthcare,Mid-Market,SMB,Professional,2189.00,1573.33,71.87,0,3516,50,32630,High,2026-07-25
+CMP_000420,Thompson Ltd,Education,Startup,SMB,Starter,5292.00,4883.20,92.28,0,254,4,2213,High,2026-07-22
+CMP_000421,Marshall-Elliott,Healthcare,Mid-Market,Mid-Market,Starter,0,0,0,1,6276,82,57142,High,2026-07-26
+CMP_000424,Hernandez-Jones,Retail,Enterprise,SMB,Professional,0,0,0,1,34926,460,320155,High,2026-07-26
+CMP_000425,Welch-Hogan,Healthcare,Enterprise,SMB,Starter,6350.40,5859.84,92.28,0,30839,429,280576,High,2026-07-27
+CMP_000426,"Brown, Romero and Collins",Retail,Mid-Market,SMB,Starter,539.00,247.83,45.98,0,2249,31,20523,High,2026-07-23
+CMP_000428,Jones-Lin,Education,Mid-Market,SMB,Business,5988.00,5508.36,91.99,0,2910,37,26441,High,2026-07-26
+CMP_000429,Gilbert PLC,Education,Startup,SMB,Starter,0,0,0,1,190,3,1789,High,2026-06-29
+CMP_000431,"Huang, Cole and Pacheco",Technology,Small Business,SMB,Professional,1990.00,1430.30,71.87,0,987,14,9251,High,2026-07-18
+CMP_000432,"Lopez, Jacobs and Mason",Finance,Small Business,SMB,Enterprise,16500.00,14355.00,87.00,0,1068,14,9724,High,2026-07-22
+CMP_000434,"Miller, Lucas and Williams",Finance,Enterprise,SMB,Starter,441.00,202.77,45.98,0,27934,384,255491,High,2026-07-27
+CMP_000435,"Kim, Gonzales and Mills",Technology,Startup,SMB,Starter,0,0,0,1,143,1,1293,High,2026-07-03
+CMP_000439,Davis-Gregory,Technology,Enterprise,Enterprise,Starter,5821.20,5371.52,92.28,0,13605,184,125665,High,2026-07-24
+CMP_000441,"Marks, Cook and Aguilar",Healthcare,Startup,Enterprise,Starter,490.00,225.30,45.98,0,55,1,482,Medium,2026-04-28
+CMP_000442,Rangel LLC,Healthcare,Startup,Enterprise,Professional,21492.00,20347.20,94.67,0,215,5,1947,High,2026-07-06
+CMP_000443,"Hale, Myers and Larson",Retail,Small Business,Enterprise,Professional,2189.00,1573.33,71.87,0,435,8,4008,High,2026-07-08
+CMP_000446,"Osborn, Gaines and Davis",Technology,Small Business,SMB,Starter,6350.40,5859.84,92.28,0,1008,14,9121,High,2026-07-21
+CMP_000447,"Henderson, Cox and Cox",Professional Services,Small Business,SMB,Starter,5292.00,4883.20,92.28,0,576,7,5353,High,2026-07-12
+CMP_000448,Bean LLC,Professional Services,Enterprise,Mid-Market,Business,59281.20,57227.72,96.54,0,33837,474,309562,High,2026-07-27
+CMP_000449,Lee-Cooke,Retail,Startup,SMB,Professional,0,0,0,1,512,4,4588,High,2026-07-19
+CMP_000450,Jones Inc,Retail,Small Business,Enterprise,Starter,0,0,0,1,916,13,8289,High,2026-07-12
+CMP_000451,"Wise, Conley and Stephenson",Finance,Mid-Market,SMB,Enterprise,16500.00,14355.00,87.00,0,7706,99,70404,High,2026-07-24
+CMP_000453,Harper and Sons,Technology,Mid-Market,SMB,Starter,539.00,247.83,45.98,0,5558,79,50888,High,2026-07-24
+CMP_000454,White Ltd,Technology,Small Business,Mid-Market,Starter,588.00,270.36,45.98,0,480,11,4268,High,2026-07-14
+CMP_000455,"Lamb, Martin and Kim",Professional Services,Startup,Mid-Market,Starter,49.00,22.53,45.98,1,395,4,3899,High,2026-07-24
+CMP_000456,Diaz-Ball,Finance,Startup,SMB,Business,4990.00,4590.30,91.99,0,256,2,2546,High,2026-07-08
+CMP_000457,Bishop-Goodwin,Technology,Startup,Enterprise,Starter,0,0,0,1,74,1,749,High,2026-06-14
+CMP_000458,Young-Allen,Education,Startup,Enterprise,Starter,539.00,247.83,45.98,0,367,5,3314,High,2026-07-13
+CMP_000459,Mckee-Lee,Retail,Small Business,SMB,Business,5988.00,5508.36,91.99,0,916,15,8754,High,2026-07-15
+CMP_000460,"Valentine, Joyce and Murray",Healthcare,Mid-Market,Enterprise,Starter,588.00,270.36,45.98,0,2613,36,24076,High,2026-07-27
+CMP_000462,Burch-Montoya,Technology,Small Business,SMB,Professional,0,0,0,1,138,4,1276,High,2026-05-21
+CMP_000463,"Taylor, Wright and Davidson",Manufacturing,Mid-Market,SMB,Professional,2189.00,1573.33,71.87,0,4855,79,44283,High,2026-07-25
+CMP_000464,Spencer-Garcia,Manufacturing,Small Business,SMB,Professional,2388.00,1716.36,71.87,0,783,9,6894,High,2026-07-23
+CMP_000465,"Rosales, Mitchell and Hines",Healthcare,Small Business,SMB,Professional,2388.00,1716.36,71.87,0,424,9,3898,High,2026-07-05
+CMP_000466,Cole-Palmer,Technology,Enterprise,SMB,Starter,588.00,270.36,45.98,0,17980,258,164682,High,2026-07-26
+CMP_000467,Davis-Lozano,Manufacturing,Startup,SMB,Professional,2189.00,1573.33,71.87,0,296,4,2622,High,2026-07-18
+CMP_000471,Walker-Flores,Technology,Startup,SMB,Professional,1990.00,1430.30,71.87,0,240,4,2153,High,2026-06-30
+CMP_000472,Combs Ltd,Retail,Startup,Mid-Market,Starter,588.00,270.36,45.98,0,367,5,3248,High,2026-06-24
+CMP_000476,Gilbert-Bullock,Education,Small Business,Enterprise,Professional,25790.40,24416.64,94.67,0,472,6,4222,High,2026-07-26
+CMP_000480,Barnes PLC,Technology,Mid-Market,SMB,Professional,2189.00,1573.33,71.87,0,6028,88,55203,High,2026-07-27
+CMP_000482,Carlson-Smith,Technology,Startup,Enterprise,Business,5988.00,5508.36,91.99,0,191,3,1762,High,2026-07-11
+CMP_000483,"Andrews, Higgins and Carter",Technology,Startup,SMB,Professional,2189.00,1573.33,71.87,0,266,5,2490,High,2026-07-18
+CMP_000484,Mendez and Sons,Retail,Startup,Mid-Market,Professional,23641.20,22381.92,94.67,0,290,5,2536,High,2026-07-02
+CMP_000485,"Butler, Beck and Miller",Finance,Small Business,SMB,Professional,1194.00,858.18,71.87,1,207,3,1887,High,2026-07-21
+CMP_000487,"Hartman, Romero and Smith",Professional Services,Enterprise,SMB,Business,5988.00,5508.36,91.99,0,34861,476,317562,High,2026-07-27
+CMP_000488,Williams-Hughes,Professional Services,Startup,SMB,Starter,441.00,202.77,45.98,0,61,1,604,High,2026-06-28
+CMP_000489,King-Smith,Healthcare,Startup,SMB,Professional,2189.00,1573.33,71.87,0,278,5,2579,High,2026-07-13
+CMP_000490,Cooper Ltd,Retail,Startup,SMB,Business,64670.40,62430.24,96.54,0,296,5,2875,High,2026-07-11
+CMP_000492,Anderson-Bell,Education,Small Business,SMB,Professional,1791.00,1287.27,71.87,0,969,17,9084,High,2026-07-25
+CMP_000493,Li-Thompson,Finance,Startup,SMB,Business,4990.00,4590.30,91.99,0,224,5,1982,High,2026-07-13
+CMP_000494,"Marshall, Dominguez and Welch",Retail,Startup,Enterprise,Business,59281.20,57227.72,96.54,0,284,5,2582,High,2026-07-10
+CMP_000496,Carter Inc,Technology,Mid-Market,SMB,Starter,588.00,270.36,45.98,0,1513,20,13667,High,2026-07-21
+CMP_000497,Blackwell LLC,Technology,Startup,SMB,Starter,490.00,225.30,45.98,0,252,5,2362,High,2026-07-04
+CMP_000498,Robertson-Hays,Finance,Mid-Market,SMB,Business,5988.00,5508.36,91.99,0,6904,94,62939,High,2026-07-25
+CMP_000500,Kelly-Norman,Technology,Small Business,SMB,Starter,490.00,225.30,45.98,0,867,13,7947,High,2026-07-19
+CMP_000501,"Rivera, Martinez and Richardson",Finance,Mid-Market,SMB,Business,4990.00,4590.30,91.99,0,4168,51,38195,High,2026-07-27
+CMP_000502,Paul-Kline,Healthcare,Mid-Market,SMB,Starter,490.00,225.30,45.98,0,4659,57,42283,High,2026-07-26
+CMP_000503,Morgan-Lopez,Healthcare,Small Business,SMB,Professional,2388.00,1716.36,71.87,0,1283,20,11530,High,2026-07-15
+CMP_000504,"Jimenez, Glass and Stone",Healthcare,Enterprise,SMB,Professional,2388.00,1716.36,71.87,0,20102,289,182412,High,2026-07-25
+CMP_000506,Morrison-Short,Retail,Mid-Market,SMB,Business,5988.00,5508.36,91.99,0,2180,35,20229,High,2026-07-22
+CMP_000507,"Carter, Garcia and Murphy",Technology,Mid-Market,SMB,Professional,0,0,0,1,6741,95,62025,High,2026-07-24
+CMP_000508,Parker-Morrison,Retail,Small Business,SMB,Professional,2189.00,1573.33,71.87,0,900,13,8242,High,2026-07-14
+CMP_000509,Jackson-Wallace,Finance,Small Business,SMB,Starter,539.00,247.83,45.98,0,559,11,4880,High,2026-06-29
+CMP_000510,Williams-Berg,Technology,Small Business,Mid-Market,Business,5988.00,5508.36,91.99,0,593,6,5346,High,2026-07-24
+CMP_000511,Mendez-Graham,Technology,Enterprise,SMB,Professional,21492.00,20347.20,94.67,0,11842,179,108676,High,2026-07-24
+CMP_000513,"Sullivan, Palmer and Brady",Technology,Startup,Enterprise,Enterprise,194400.00,186768.00,96.07,0,611,5,5843,High,2026-07-16
+CMP_000514,Cisneros and Sons,Technology,Mid-Market,SMB,Professional,1990.00,1430.30,71.87,0,6178,90,56495,High,2026-07-25
+CMP_000517,Reyes-Bradley,Healthcare,Small Business,Mid-Market,Starter,539.00,247.83,45.98,0,1134,13,10478,High,2026-07-13
+CMP_000518,"Hernandez, Cole and Watson",Technology,Startup,SMB,Starter,5821.20,5371.52,92.28,0,396,5,3489,High,2026-07-16
+CMP_000521,Johnson and Sons,Manufacturing,Small Business,SMB,Business,5988.00,5508.36,91.99,0,1200,16,10691,High,2026-07-26
+CMP_000522,Holmes-Mcintyre,Technology,Small Business,SMB,Starter,5821.20,5371.52,92.28,0,137,3,1155,High,2026-06-17
+CMP_000523,Green LLC,Education,Enterprise,Mid-Market,Professional,1990.00,1430.30,71.87,0,16331,214,149044,High,2026-07-27
+CMP_000524,"Griffin, Davies and Mitchell",Retail,Small Business,SMB,Professional,19342.80,18312.48,94.67,0,491,6,4480,High,2026-07-19
+CMP_000526,Hayes Ltd,Finance,Small Business,Mid-Market,Professional,1990.00,1430.30,71.87,0,742,11,6697,High,2026-07-18
+CMP_000527,Osborn-Cochran,Technology,Small Business,Mid-Market,Professional,2189.00,1573.33,71.87,0,1248,16,10922,High,2026-07-22
+CMP_000531,Hicks-Martinez,Professional Services,Small Business,Mid-Market,Professional,1990.00,1430.30,71.87,0,568,6,5127,High,2026-07-17
+CMP_000533,Johnson-Spencer,Healthcare,Small Business,Mid-Market,Business,5988.00,5508.36,91.99,0,607,9,5644,High,2026-07-15
+CMP_000534,Mcdonald-Bird,Retail,Startup,SMB,Starter,490.00,225.30,45.98,0,258,4,2401,High,2026-07-08
+CMP_000535,Salazar Inc,Finance,Mid-Market,Mid-Market,Starter,0,0,0,1,2077,28,19050,High,2026-07-20
+CMP_000537,"Mendoza, Jenkins and Ortiz",Technology,Small Business,Enterprise,Starter,588.00,270.36,45.98,0,625,8,5971,High,2026-07-26
+CMP_000540,Humphrey PLC,Technology,Small Business,SMB,Professional,23641.20,22381.92,94.67,0,529,10,5011,High,2026-07-13
+CMP_000541,"Matthews, Saunders and Anderson",Finance,Enterprise,Mid-Market,Professional,1791.00,1287.27,71.87,0,32580,455,297340,High,2026-07-27
+CMP_000543,Torres and Sons,Retail,Mid-Market,Mid-Market,Professional,2388.00,1716.36,71.87,0,5083,65,46431,High,2026-07-27
+CMP_000545,"Jacobson, Singleton and King",Retail,Startup,SMB,Professional,2388.00,1716.36,71.87,0,321,2,3151,High,2026-07-14
+CMP_000548,"Moore, Hopkins and Le",Technology,Startup,Enterprise,Professional,1791.00,1287.27,71.87,0,291,3,2599,High,2026-07-24
+CMP_000549,"Morgan, Bradshaw and Williams",Finance,Startup,Enterprise,Starter,539.00,247.83,45.98,0,75,1,712,High,2026-05-22
+CMP_000554,Ballard Ltd,Finance,Small Business,SMB,Professional,25790.40,24416.64,94.67,0,275,6,2593,High,2026-07-10
+CMP_000555,Evans-Jones,Retail,Small Business,SMB,Starter,539.00,247.83,45.98,0,1415,18,13161,High,2026-07-23
+CMP_000557,Marshall-Peterson,Finance,Small Business,Enterprise,Starter,5292.00,4883.20,92.28,0,230,5,1873,High,2026-07-17
+CMP_000558,Edwards Ltd,Retail,Startup,Enterprise,Starter,539.00,247.83,45.98,0,165,2,1596,High,2026-07-10
+CMP_000559,Gross-Valencia,Retail,Mid-Market,SMB,Professional,0,0,0,1,3291,52,29362,High,2026-07-20
+CMP_000560,Anderson-Wood,Retail,Small Business,SMB,Starter,0,0,0,1,604,10,5451,High,2026-07-26
+CMP_000562,Wright-Davis,Healthcare,Startup,Enterprise,Enterprise,15000.00,13050.00,87.00,0,326,4,3019,High,2026-07-17
+CMP_000563,Dougherty-Lin,Healthcare,Startup,SMB,Starter,441.00,202.77,45.98,0,306,4,2685,High,2026-07-10
+CMP_000564,Wright-Grimes,Technology,Small Business,SMB,Starter,0,0,0,1,854,10,8193,High,2026-07-25
+CMP_000566,"Edwards, Hines and Jimenez",Healthcare,Startup,Enterprise,Professional,0,0,0,1,243,3,2023,High,2026-07-19
+CMP_000567,"Owens, Koch and Jimenez",Healthcare,Mid-Market,SMB,Professional,2388.00,1716.36,71.87,0,5847,90,53468,High,2026-07-26
+CMP_000568,Landry PLC,Retail,Mid-Market,SMB,Starter,539.00,247.83,45.98,0,4131,63,37615,High,2026-07-21
+CMP_000569,Levy-Lewis,Technology,Startup,Mid-Market,Business,59281.20,57227.72,96.54,0,274,3,2513,High,2026-07-25
+CMP_000572,"Smith, Rodriguez and Anderson",Education,Enterprise,SMB,Enterprise,162000.00,155640.00,96.07,0,23295,319,212036,High,2026-07-27
+CMP_000573,Luna-Gallagher,Finance,Small Business,Mid-Market,Starter,5821.20,5371.52,92.28,0,1067,14,9958,High,2026-07-21
+CMP_000575,"Lee, Tran and Jones",Manufacturing,Small Business,Mid-Market,Business,37724.40,36417.64,96.54,1,1556,20,13973,High,2026-07-27
+CMP_000578,Brooks-Hatfield,Healthcare,Mid-Market,SMB,Starter,588.00,270.36,45.98,0,2194,29,20482,High,2026-07-22
+CMP_000579,"Mcmillan, Fischer and Gonzalez",Retail,Mid-Market,Mid-Market,Starter,588.00,270.36,45.98,0,3869,53,35240,High,2026-07-22
+CMP_000580,"Morales, Williams and Williams",Healthcare,Small Business,SMB,Starter,539.00,247.83,45.98,0,1160,14,10593,High,2026-07-23
+CMP_000581,"Cook, Wells and Bryant",Manufacturing,Mid-Market,SMB,Business,53892.00,52025.20,96.54,0,5617,75,51704,High,2026-07-26
+CMP_000583,Martin-Ewing,Professional Services,Mid-Market,SMB,Business,5489.00,5049.33,91.99,0,3465,52,31783,High,2026-07-27
+CMP_000584,"Kirby, Wheeler and Romero",Retail,Mid-Market,SMB,Starter,490.00,225.30,45.98,0,4212,67,38297,High,2026-07-23
+CMP_000589,"Soto, Carlson and Baker",Healthcare,Mid-Market,SMB,Business,5988.00,5508.36,91.99,0,6056,80,54555,High,2026-07-24
+CMP_000590,"Patton, Parsons and Lane",Technology,Small Business,Mid-Market,Enterprise,16500.00,14355.00,87.00,0,1186,17,11331,High,2026-07-16
+CMP_000592,"Harvey, Randall and Hernandez",Healthcare,Startup,SMB,Professional,0,0,0,1,91,3,896,High,2026-05-25
+CMP_000593,"Allen, Armstrong and Graves",Retail,Startup,SMB,Starter,539.00,247.83,45.98,0,76,3,799,High,2026-05-28
+CMP_000594,Smith LLC,Healthcare,Enterprise,SMB,Starter,0,0,0,1,10847,156,99058,High,2026-07-26
+CMP_000596,Shaw-Carr,Technology,Enterprise,SMB,Business,5489.00,5049.33,91.99,0,30240,421,275957,High,2026-07-27
+CMP_000597,Salas-Fitzgerald,Technology,Mid-Market,SMB,Starter,490.00,225.30,45.98,0,1531,26,14126,High,2026-07-25
+CMP_000599,Hoffman Ltd,Healthcare,Startup,Enterprise,Starter,588.00,270.36,45.98,0,214,5,1933,High,2026-05-24
+CMP_000600,Fox-Edwards,Retail,Small Business,SMB,Professional,2189.00,1573.33,71.87,0,503,10,4662,High,2026-07-17
+CMP_000601,Stevens PLC,Healthcare,Small Business,SMB,Professional,2189.00,1573.33,71.87,0,206,4,1896,High,2026-07-17
+CMP_000604,Lee-Wright,Technology,Startup,SMB,Professional,1990.00,1430.30,71.87,0,335,4,3165,High,2026-07-11
+CMP_000605,"Evans, David and Hendrix",Retail,Mid-Market,SMB,Professional,2388.00,1716.36,71.87,0,6662,96,61565,High,2026-07-25
+CMP_000606,Bush-Vaughn,Manufacturing,Startup,SMB,Professional,2388.00,1716.36,71.87,0,17,1,166,Medium,2026-03-05
+CMP_000608,"Hill, Martinez and Rhodes",Manufacturing,Mid-Market,Mid-Market,Starter,539.00,247.83,45.98,0,2215,31,20339,High,2026-07-22
+CMP_000611,Williams-Moses,Manufacturing,Mid-Market,SMB,Business,5988.00,5508.36,91.99,0,3994,47,36207,High,2026-07-27
+CMP_000612,Reed Group,Technology,Small Business,SMB,Business,5489.00,5049.33,91.99,0,342,4,3118,High,2026-07-20
+CMP_000613,"Scott, Mendoza and Harris",Retail,Startup,SMB,Business,4491.00,4131.27,91.99,0,272,4,2407,High,2026-07-15
+CMP_000615,Gilbert PLC,Finance,Small Business,SMB,Business,5489.00,5049.33,91.99,0,742,15,6725,High,2026-07-14
+CMP_000617,"Perez, Hall and Garcia",Technology,Small Business,SMB,Professional,21492.00,20347.20,94.67,0,920,12,8489,High,2026-07-12
+CMP_000619,Smith PLC,Healthcare,Small Business,SMB,Business,5988.00,5508.36,91.99,0,736,12,6424,High,2026-07-23
+CMP_000622,Morris-Brewer,Technology,Small Business,SMB,Professional,23641.20,22381.92,94.67,0,790,10,7563,High,2026-07-08
+CMP_000623,Pearson and Sons,Healthcare,Startup,Mid-Market,Starter,539.00,247.83,45.98,0,187,3,1808,High,2026-06-24
+CMP_000624,"Rodgers, Jefferson and Johnson",Retail,Startup,Enterprise,Professional,1791.00,1287.27,71.87,0,151,2,1460,High,2026-06-14
+CMP_000625,Butler and Sons,Healthcare,Mid-Market,SMB,Professional,1990.00,1430.30,71.87,0,1666,28,15504,High,2026-07-23
+CMP_000627,Lopez-Curry,Healthcare,Startup,SMB,Starter,539.00,247.83,45.98,0,229,5,2143,High,2026-07-17
+CMP_000628,Mcdowell-Smith,Finance,Mid-Market,SMB,Enterprise,16500.00,14355.00,87.00,0,4366,58,40653,High,2026-07-25
+CMP_000630,Hays-Daniels,Finance,Small Business,Enterprise,Starter,588.00,270.36,45.98,0,600,5,5223,High,2026-07-27
+CMP_000631,Small-Anderson,Education,Small Business,SMB,Professional,2388.00,1716.36,71.87,0,1368,18,12146,High,2026-07-18
+CMP_000632,"Mcdonald, Lee and Rodriguez",Retail,Startup,SMB,Starter,0,0,0,1,68,1,647,High,2026-05-29
+CMP_000633,Simon Ltd,Technology,Mid-Market,Enterprise,Professional,2189.00,1573.33,71.87,0,2935,44,26390,High,2026-07-26
+CMP_000634,Higgins-Smith,Finance,Startup,Mid-Market,Starter,490.00,225.30,45.98,0,236,3,2164,High,2026-07-10
+CMP_000635,Gibbs-Bradley,Healthcare,Startup,SMB,Professional,23641.20,22381.92,94.67,0,84,2,710,High,2026-06-30
+CMP_000638,Morales Inc,Professional Services,Startup,SMB,Starter,539.00,247.83,45.98,0,189,3,1762,High,2026-07-17
+CMP_000640,Boyle-Smith,Healthcare,Small Business,SMB,Professional,1990.00,1430.30,71.87,0,572,9,5081,High,2026-07-20
+CMP_000641,Young-Molina,Healthcare,Small Business,SMB,Professional,0,0,0,1,1066,17,9344,High,2026-07-16
+CMP_000642,Turner-Sharp,Healthcare,Mid-Market,SMB,Professional,2189.00,1573.33,71.87,0,1258,20,11736,High,2026-07-21
+CMP_000644,"Young, Contreras and Marshall",Finance,Startup,SMB,Starter,539.00,247.83,45.98,0,99,2,843,High,2026-07-19
+CMP_000645,Sullivan PLC,Healthcare,Startup,Enterprise,Starter,441.00,202.77,45.98,0,22,1,207,Medium,2025-07-13
+CMP_000649,"Zhang, Brooks and Miles",Manufacturing,Startup,Mid-Market,Starter,588.00,270.36,45.98,0,324,3,2776,High,2026-07-20
+CMP_000650,Todd-Pham,Education,Small Business,SMB,Business,5988.00,5508.36,91.99,0,871,12,8213,High,2026-07-17
+CMP_000652,"Marks, Miller and Griffin",Education,Startup,SMB,Business,59281.20,57227.72,96.54,0,501,5,4538,High,2026-07-13
+CMP_000653,"Cox, Stark and Rodriguez",Technology,Small Business,Mid-Market,Starter,588.00,270.36,45.98,0,1260,18,11358,High,2026-07-23
+CMP_000654,"Leach, Harris and Herrera",Technology,Startup,Mid-Market,Starter,539.00,247.83,45.98,0,91,1,709,High,2026-07-13
+CMP_000655,Murphy PLC,Finance,Startup,SMB,Professional,2388.00,1716.36,71.87,0,43,1,340,Medium,2026-05-28
+CMP_000656,Wilson-Harris,Retail,Small Business,SMB,Starter,4762.80,4394.88,92.28,0,1192,14,10652,High,2026-07-21
+CMP_000658,Chavez PLC,Finance,Mid-Market,SMB,Business,5988.00,5508.36,91.99,0,3884,58,35457,High,2026-07-22
+CMP_000661,Foster Inc,Retail,Small Business,SMB,Business,0,0,0,1,1354,20,12677,High,2026-07-18
+CMP_000662,"Robinson, Jones and Henderson",Professional Services,Mid-Market,SMB,Starter,441.00,202.77,45.98,0,4289,53,39567,High,2026-07-26
+CMP_000664,Andersen Group,Healthcare,Startup,Mid-Market,Professional,2388.00,1716.36,71.87,0,23,1,172,Medium,2026-01-09
+CMP_000665,Mitchell and Sons,Technology,Small Business,Mid-Market,Professional,1990.00,1430.30,71.87,0,1543,20,14420,High,2026-07-26
+CMP_000666,Cannon Ltd,Retail,Mid-Market,SMB,Business,5988.00,5508.36,91.99,0,4266,58,39019,High,2026-07-22
+CMP_000668,Kane-Knox,Finance,Mid-Market,Enterprise,Starter,539.00,247.83,45.98,0,5271,74,48074,High,2026-07-25
+CMP_000669,Miller-Brandt,Healthcare,Small Business,Mid-Market,Starter,490.00,225.30,45.98,0,149,3,1398,High,2026-06-05
+CMP_000670,"Anderson, Dalton and Wilson",Education,Small Business,SMB,Business,0,0,0,1,432,7,4056,High,2026-07-08
+CMP_000672,Avila LLC,Retail,Mid-Market,SMB,Professional,2388.00,1716.36,71.87,0,3429,43,31835,High,2026-07-27
+CMP_000674,"Gray, Hall and Murray",Professional Services,Small Business,SMB,Starter,588.00,270.36,45.98,0,424,4,3698,High,2026-07-15
+CMP_000675,Hill Ltd,Technology,Small Business,SMB,Business,5489.00,5049.33,91.99,0,1644,20,14907,High,2026-07-20
+CMP_000681,Morales and Sons,Retail,Enterprise,SMB,Business,4990.00,4590.30,91.99,0,16467,235,149504,High,2026-07-26
+CMP_000683,"Holder, Young and Hendricks",Finance,Small Business,Mid-Market,Professional,2189.00,1573.33,71.87,0,232,3,2209,High,2026-07-16
+CMP_000684,"Flores, Harper and Chambers",Healthcare,Small Business,SMB,Starter,0,0,0,1,838,15,7652,High,2026-07-24
+CMP_000685,Young-Walter,Healthcare,Startup,Mid-Market,Starter,539.00,247.83,45.98,0,264,4,2462,High,2026-07-15
+CMP_000686,"Boyd, Gutierrez and Hill",Retail,Mid-Market,SMB,Starter,490.00,225.30,45.98,0,2426,34,22090,High,2026-07-27
+CMP_000690,"Flores, Butler and Hernandez",Retail,Startup,Enterprise,Starter,539.00,247.83,45.98,0,123,1,1186,High,2026-07-10
+CMP_000691,White-Medina,Technology,Small Business,SMB,Starter,539.00,247.83,45.98,0,236,4,2086,High,2026-07-23
+CMP_000693,"Thomas, Ford and Brown",Manufacturing,Startup,SMB,Starter,441.00,202.77,45.98,0,157,3,1584,High,2026-06-27
+CMP_000694,Faulkner-Grant,Retail,Enterprise,SMB,Starter,588.00,270.36,45.98,0,20686,282,189771,High,2026-07-22
+CMP_000696,Rivera Inc,Manufacturing,Startup,SMB,Professional,2189.00,1573.33,71.87,0,224,4,2015,High,2026-07-18
+CMP_000697,Boone-Davis,Manufacturing,Mid-Market,Mid-Market,Starter,5821.20,5371.52,92.28,0,4659,65,41636,High,2026-07-26
+CMP_000698,"Calderon, Williams and Bennett",Healthcare,Small Business,SMB,Starter,490.00,225.30,45.98,0,812,11,7502,High,2026-07-27
+CMP_000699,"Morrison, Russo and Lopez",Retail,Small Business,Mid-Market,Professional,1990.00,1430.30,71.87,0,830,11,7640,High,2026-07-24
+CMP_000700,"Ramsey, Hansen and Mendoza",Manufacturing,Startup,SMB,Starter,588.00,270.36,45.98,0,60,2,504,High,2026-05-10
+CMP_000703,Burgess Group,Retail,Small Business,SMB,Enterprise,13500.00,11745.00,87.00,0,1644,19,14913,High,2026-07-26
+CMP_000704,Dominguez Ltd,Finance,Startup,SMB,Starter,4762.80,4394.88,92.28,0,294,5,2789,High,2026-07-15
+CMP_000707,"Howard, Green and Hunt",Finance,Enterprise,SMB,Starter,588.00,270.36,45.98,0,16413,233,149377,High,2026-07-25
+CMP_000709,"Harrison, Franco and Rocha",Finance,Small Business,SMB,Professional,2388.00,1716.36,71.87,0,1398,20,12478,High,2026-07-10
+CMP_000712,Tran-Silva,Technology,Small Business,SMB,Professional,2388.00,1716.36,71.87,0,227,3,1830,High,2026-07-03
+CMP_000713,"Butler, Hernandez and Rivera",Retail,Mid-Market,Enterprise,Business,4491.00,4131.27,91.99,0,3124,50,28077,High,2026-07-21
+CMP_000714,Hudson-Sanchez,Technology,Small Business,SMB,Business,4990.00,4590.30,91.99,0,1163,12,10814,High,2026-07-24
+CMP_000715,"Pena, Cohen and Scott",Retail,Small Business,SMB,Professional,0,0,0,1,370,11,3151,High,2026-06-02
+CMP_000717,Murray-Oconnor,Healthcare,Mid-Market,SMB,Starter,5292.00,4883.20,92.28,0,4737,72,44253,High,2026-07-23
+CMP_000718,Jackson-Cortez,Finance,Startup,SMB,Professional,1990.00,1430.30,71.87,0,26,1,231,Medium,2026-01-31
+CMP_000719,White-Preston,Technology,Startup,SMB,Business,5988.00,5508.36,91.99,0,45,1,478,Medium,2026-06-12
+CMP_000720,"Bernard, Warren and Combs",Healthcare,Startup,SMB,Professional,1990.00,1430.30,71.87,0,284,4,2628,High,2026-07-16
+CMP_000723,Kirby and Sons,Healthcare,Startup,SMB,Starter,490.00,225.30,45.98,0,268,3,2233,High,2026-07-18
+CMP_000724,Mann Inc,Technology,Startup,SMB,Business,5489.00,5049.33,91.99,0,101,1,913,High,2026-05-15
+CMP_000726,Williamson Ltd,Retail,Small Business,Mid-Market,Enterprise,0,0,0,1,1262,14,11667,High,2026-07-19
+CMP_000727,"Durham, Hopkins and Smith",Technology,Startup,Mid-Market,Professional,2388.00,1716.36,71.87,0,356,5,3244,High,2026-07-12
+CMP_000731,Rodriguez Inc,Professional Services,Small Business,Enterprise,Business,0,0,0,1,1190,18,11306,High,2026-07-15
+CMP_000732,"Hernandez, Lee and Fox",Healthcare,Startup,SMB,Business,64670.40,62430.24,96.54,0,71,1,515,High,2026-07-02
+CMP_000733,Adams-Sanders,Education,Small Business,SMB,Starter,490.00,225.30,45.98,0,871,10,7973,High,2026-07-18
+CMP_000734,Chung-Stevens,Professional Services,Mid-Market,Mid-Market,Starter,490.00,225.30,45.98,0,5162,70,47165,High,2026-07-26
+CMP_000736,Sutton-Abbott,Manufacturing,Startup,SMB,Professional,25790.40,24416.64,94.67,0,424,5,3858,High,2026-07-24
+CMP_000737,"Frey, Santos and Johnson",Manufacturing,Mid-Market,Mid-Market,Starter,490.00,225.30,45.98,0,3567,44,32618,High,2026-07-17
+CMP_000738,Gray-Tran,Retail,Startup,SMB,Professional,1990.00,1430.30,71.87,0,507,5,4487,High,2026-07-12
+CMP_000739,Walsh Ltd,Technology,Small Business,SMB,Enterprise,18000.00,15660.00,87.00,0,527,5,5048,High,2026-07-24
+CMP_000741,"Mueller, Knight and Hodge",Retail,Small Business,SMB,Professional,2189.00,1573.33,71.87,0,1465,18,13861,High,2026-07-26
+CMP_000743,Lewis Ltd,Retail,Startup,SMB,Enterprise,15000.00,13050.00,87.00,0,248,5,2343,High,2026-07-20
+CMP_000745,Lam-Elliott,Finance,Mid-Market,SMB,Professional,23641.20,22381.92,94.67,0,5209,78,46421,High,2026-07-26
+CMP_000746,White LLC,Technology,Small Business,SMB,Business,0,0,0,1,1311,17,11707,High,2026-07-25
+CMP_000748,Goodwin Ltd,Manufacturing,Small Business,SMB,Business,4990.00,4590.30,91.99,0,1582,20,14399,High,2026-07-26
+CMP_000752,"Ramsey, Mason and Mccann",Healthcare,Small Business,SMB,Professional,23641.20,22381.92,94.67,0,919,13,8545,High,2026-07-21
+CMP_000753,Davis and Sons,Professional Services,Mid-Market,Mid-Market,Professional,2189.00,1573.33,71.87,0,3283,42,30237,High,2026-07-21
+CMP_000754,Peterson PLC,Education,Enterprise,SMB,Professional,0,0,0,1,28320,403,258160,High,2026-07-25
+CMP_000755,"Sanders, Ayala and Johnson",Technology,Mid-Market,Mid-Market,Business,2495.00,2295.15,91.99,1,1604,25,15274,High,2026-07-24
+CMP_000756,Bowers-Hayes,Technology,Startup,Mid-Market,Starter,588.00,270.36,45.98,0,320,4,2954,High,2026-07-11
+CMP_000757,Kelly Group,Finance,Mid-Market,SMB,Starter,392.00,180.24,45.98,0,2831,36,26275,High,2026-07-25
+CMP_000758,Lopez-Willis,Finance,Enterprise,SMB,Professional,0,0,0,1,8731,113,81065,High,2026-07-26
+CMP_000759,Miller-Montgomery,Professional Services,Mid-Market,SMB,Professional,1990.00,1430.30,71.87,0,1266,20,11744,High,2026-07-01
+CMP_000762,"Moore, Price and Ward",Professional Services,Small Business,SMB,Professional,1990.00,1430.30,71.87,0,476,4,4149,High,2026-07-15
+CMP_000763,Smith LLC,Education,Enterprise,SMB,Professional,0,0,0,1,15486,212,142382,High,2026-07-26
+CMP_000765,Miller Group,Technology,Enterprise,SMB,Starter,588.00,270.36,45.98,0,15606,214,142218,High,2026-07-20
+CMP_000767,Johnson LLC,Technology,Startup,SMB,Business,5988.00,5508.36,91.99,0,469,4,4591,High,2026-07-22
+CMP_000768,"Davis, George and Nguyen",Finance,Small Business,Mid-Market,Business,4990.00,4590.30,91.99,0,820,14,7612,High,2026-07-22
+CMP_000769,Smith-Gutierrez,Retail,Startup,SMB,Starter,539.00,247.83,45.98,0,212,5,1922,High,2026-07-04
+CMP_000770,Hardy PLC,Technology,Enterprise,SMB,Starter,0,0,0,1,36887,498,337443,High,2026-07-26
+CMP_000771,Armstrong and Sons,Technology,Startup,SMB,Business,5389.20,5202.52,96.54,1,353,5,3259,High,2026-07-15
+CMP_000772,"James, Taylor and Turner",Finance,Small Business,SMB,Professional,2189.00,1573.33,71.87,0,553,10,4965,High,2026-07-21
+CMP_000773,Thomas-Jackson,Technology,Startup,Enterprise,Starter,441.00,202.77,45.98,0,763,5,6944,High,2026-07-23
+CMP_000774,Fisher-Washington,Professional Services,Mid-Market,SMB,Starter,0,0,0,1,5359,76,49132,High,2026-07-26
+CMP_000776,"Weber, Wheeler and Gonzalez",Healthcare,Small Business,SMB,Professional,2388.00,1716.36,71.87,0,799,13,7335,High,2026-07-17
+CMP_000777,Taylor Inc,Technology,Small Business,SMB,Starter,588.00,270.36,45.98,0,328,3,3311,High,2026-07-15
+CMP_000778,Cook-Oliver,Technology,Small Business,SMB,Professional,1791.00,1287.27,71.87,0,921,15,8161,High,2026-07-18
+CMP_000779,Alexander-Jordan,Healthcare,Startup,SMB,Starter,490.00,225.30,45.98,0,70,1,662,High,2026-06-22
+CMP_000780,"Mccann, Taylor and Flores",Technology,Enterprise,SMB,Business,3992.00,3672.24,91.99,0,9340,133,84243,High,2026-07-26
+CMP_000782,Carter-Neal,Manufacturing,Small Business,SMB,Professional,1990.00,1430.30,71.87,0,440,7,4104,High,2026-07-24
+CMP_000783,Faulkner-Casey,Healthcare,Mid-Market,SMB,Starter,539.00,247.83,45.98,0,6543,96,59256,High,2026-07-21
+CMP_000785,Diaz-Frederick,Professional Services,Small Business,SMB,Starter,6350.40,5859.84,92.28,0,1066,19,10194,High,2026-07-26
+CMP_000786,Vargas PLC,Healthcare,Small Business,SMB,Starter,539.00,247.83,45.98,0,1570,18,14815,High,2026-07-22
+CMP_000788,Benton Group,Technology,Small Business,SMB,Professional,1791.00,1287.27,71.87,0,719,11,6515,High,2026-07-17
+CMP_000789,"Clark, Salinas and Guerra",Retail,Startup,Mid-Market,Starter,588.00,270.36,45.98,0,277,4,2478,High,2026-07-07
+CMP_000790,Fuentes Group,Education,Small Business,SMB,Starter,490.00,225.30,45.98,0,1337,16,12322,High,2026-07-19
+CMP_000791,"Porter, Schultz and Allen",Finance,Small Business,Mid-Market,Starter,6350.40,5859.84,92.28,0,321,4,2689,High,2026-07-20
+CMP_000792,"Moore, Henderson and Bennett",Retail,Small Business,SMB,Starter,539.00,247.83,45.98,0,566,7,5083,High,2026-07-15
+CMP_000793,Ewing-Mendoza,Healthcare,Small Business,SMB,Business,4990.00,4590.30,91.99,0,205,3,1871,High,2026-07-21
+CMP_000794,Ferguson-Mclean,Retail,Mid-Market,Mid-Market,Professional,25790.40,24416.64,94.67,0,5558,69,50018,High,2026-07-25
+CMP_000795,"Barnes, Johnson and Schmitt",Professional Services,Small Business,SMB,Professional,0,0,0,1,842,15,7972,High,2026-07-11
+CMP_000798,"Ortega, Jackson and Salazar",Technology,Startup,SMB,Starter,490.00,225.30,45.98,0,122,3,1104,High,2026-06-20
+CMP_000799,"Terrell, Byrd and Ross",Education,Enterprise,Mid-Market,Professional,25790.40,24416.64,94.67,0,20916,284,190365,High,2026-07-26
+CMP_000802,"Burgess, Grant and Watts",Technology,Startup,Mid-Market,Business,5489.00,5049.33,91.99,0,73,2,653,High,2026-04-25
+CMP_000803,Griffin Group,Finance,Small Business,SMB,Starter,588.00,270.36,45.98,0,1376,18,12341,High,2026-07-22
+CMP_000805,"Hernandez, Cuevas and Webb",Healthcare,Enterprise,Enterprise,Starter,588.00,270.36,45.98,1,18115,252,165415,High,2026-07-27
+CMP_000806,Perry-Nixon,Healthcare,Mid-Market,SMB,Professional,2388.00,1716.36,71.87,0,2288,30,20649,High,2026-07-12
+CMP_000807,Guerra Ltd,Finance,Startup,Enterprise,Professional,0,0,0,1,290,4,2632,High,2026-07-23
+CMP_000809,Mueller-Boyd,Technology,Small Business,SMB,Business,4990.00,4590.30,91.99,0,947,13,8658,High,2026-07-21
+CMP_000811,"Chavez, Jones and Williams",Manufacturing,Startup,SMB,Business,4491.00,4131.27,91.99,0,349,5,3141,High,2026-07-19
+CMP_000812,"Wilson, Sweeney and Wong",Technology,Small Business,Enterprise,Professional,21492.00,20347.20,94.67,0,1667,20,15260,High,2026-07-24
+CMP_000813,"Marsh, Spears and Yang",Healthcare,Small Business,Mid-Market,Business,0,0,0,1,1315,16,11651,High,2026-07-21
+CMP_000814,"Thompson, Moore and Castro",Healthcare,Enterprise,SMB,Business,4990.00,4590.30,91.99,0,31153,431,284865,High,2026-07-26
+CMP_000815,Hall-Sullivan,Technology,Startup,SMB,Professional,25790.40,24416.64,94.67,0,297,2,2659,High,2026-07-15
+CMP_000816,Lopez Ltd,Professional Services,Mid-Market,SMB,Professional,2189.00,1573.33,71.87,0,3797,56,35227,High,2026-07-24
+CMP_000818,Cole Group,Finance,Mid-Market,SMB,Starter,588.00,270.36,45.98,0,1819,32,16424,High,2026-07-25
+CMP_000819,Smith-Lewis,Healthcare,Startup,Enterprise,Starter,0,0,0,1,66,1,573,High,2026-06-08
+CMP_000820,Goodwin-Stokes,Technology,Mid-Market,SMB,Starter,0,0,0,1,2529,34,23015,High,2026-07-25
+CMP_000821,Ray PLC,Professional Services,Small Business,SMB,Professional,2388.00,1716.36,71.87,0,1304,16,11715,High,2026-07-15
+CMP_000822,Diaz and Sons,Healthcare,Enterprise,Mid-Market,Business,0,0,0,1,21530,284,196999,High,2026-07-26
+CMP_000823,Wilson-Lambert,Technology,Small Business,SMB,Business,5489.00,5049.33,91.99,0,541,6,4947,High,2026-07-20
+CMP_000825,"Price, Long and Wilson",Technology,Small Business,SMB,Starter,588.00,270.36,45.98,0,1328,14,12504,High,2026-07-19
+CMP_000826,Bruce-Williamson,Technology,Startup,SMB,Starter,490.00,225.30,45.98,0,116,3,1125,High,2026-06-19
+CMP_000827,"Mccarthy, Evans and Mendez",Professional Services,Enterprise,SMB,Business,59281.20,57227.72,96.54,0,21650,273,197230,High,2026-07-25
+CMP_000828,Powers LLC,Manufacturing,Small Business,Mid-Market,Starter,490.00,225.30,45.98,0,692,13,6437,High,2026-07-14
+CMP_000829,Allen Inc,Education,Small Business,SMB,Starter,441.00,202.77,45.98,0,1072,14,10049,High,2026-07-23
+CMP_000830,Brooks and Sons,Professional Services,Startup,SMB,Starter,0,0,0,1,138,1,1333,High,2026-07-05
+CMP_000831,"Price, Carlson and Andrews",Retail,Small Business,SMB,Business,5489.00,5049.33,91.99,0,363,6,3334,High,2026-07-24
+CMP_000832,Lopez-Reid,Education,Small Business,SMB,Professional,2388.00,1716.36,71.87,0,1223,15,11172,High,2026-07-25
+CMP_000834,Burns and Sons,Education,Small Business,Enterprise,Business,43113.60,41620.16,96.54,0,849,13,7679,High,2026-07-19
+CMP_000835,Edwards Group,Retail,Startup,Mid-Market,Professional,1990.00,1430.30,71.87,0,120,4,976,High,2026-06-03
+CMP_000836,"Brown, Howard and Smith",Manufacturing,Startup,Mid-Market,Enterprise,178200.00,171204.00,96.07,0,260,4,2274,High,2026-07-03
+CMP_000839,Mckinney-Wallace,Technology,Small Business,Mid-Market,Starter,490.00,225.30,45.98,0,819,14,7536,High,2026-07-24
+CMP_000840,Miller Inc,Technology,Small Business,SMB,Professional,1592.00,1144.24,71.87,0,505,6,4811,High,2026-07-17
+CMP_000841,Carter LLC,Technology,Enterprise,SMB,Professional,21492.00,20347.20,94.67,0,15584,210,141059,High,2026-07-27
+CMP_000842,Medina and Sons,Technology,Startup,SMB,Professional,2189.00,1573.33,71.87,0,430,4,3871,High,2026-07-18
+CMP_000846,Weaver-Sherman,Healthcare,Enterprise,Mid-Market,Professional,2189.00,1573.33,71.87,0,25345,345,230873,High,2026-07-27
+CMP_000847,"Alexander, Robinson and Coleman",Technology,Startup,SMB,Professional,2388.00,1716.36,71.87,0,309,5,2744,High,2026-07-17
+CMP_000849,Cole LLC,Professional Services,Small Business,SMB,Business,0,0,0,1,322,4,2940,High,2026-07-25
+CMP_000852,"Norris, Callahan and Bishop",Manufacturing,Startup,SMB,Starter,539.00,247.83,45.98,0,111,1,1055,High,2026-07-15
+CMP_000853,Martin-Taylor,Professional Services,Small Business,SMB,Starter,6350.40,5859.84,92.28,0,594,7,5303,High,2026-07-16
+CMP_000854,Li Inc,Healthcare,Small Business,Mid-Market,Starter,5821.20,5371.52,92.28,0,1408,16,12724,High,2026-07-26
+CMP_000855,"Bell, Campbell and Ryan",Manufacturing,Startup,SMB,Starter,4762.80,4394.88,92.28,0,401,4,3429,High,2026-07-24
+CMP_000856,Werner-Carter,Finance,Small Business,Enterprise,Starter,6350.40,5859.84,92.28,0,622,9,5508,High,2026-07-14
+CMP_000857,"Adams, Hodge and Duke",Retail,Mid-Market,SMB,Professional,1791.00,1287.27,71.87,0,5541,77,51067,High,2026-07-24
+CMP_000858,"Ochoa, Taylor and Brady",Technology,Startup,SMB,Starter,5821.20,5371.52,92.28,0,190,2,1814,High,2026-07-11
+CMP_000859,Sellers-Riddle,Retail,Small Business,SMB,Business,5489.00,5049.33,91.99,0,53,4,440,Medium,2026-03-04
+CMP_000862,Burns-Ray,Technology,Startup,Enterprise,Starter,588.00,270.36,45.98,0,221,3,1927,High,2026-07-14
+CMP_000863,Burton-Brooks,Professional Services,Startup,SMB,Business,48502.80,46822.68,96.54,0,277,3,2534,High,2026-07-02
+CMP_000864,Schultz Inc,Technology,Small Business,Mid-Market,Starter,490.00,225.30,45.98,0,1688,20,15017,High,2026-07-21
+CMP_000865,Robertson-Ramirez,Manufacturing,Small Business,SMB,Professional,2189.00,1573.33,71.87,0,1273,17,11807,High,2026-07-27
+CMP_000866,Gibson-Freeman,Technology,Small Business,SMB,Starter,539.00,247.83,45.98,0,391,7,3770,High,2026-06-20
+CMP_000868,"Stanton, Reid and Terry",Healthcare,Small Business,Enterprise,Starter,539.00,247.83,45.98,0,1233,17,10886,High,2026-07-25
+CMP_000870,Donaldson and Sons,Education,Startup,SMB,Professional,2388.00,1716.36,71.87,0,9,1,73,Low,2025-11-15
+CMP_000872,Kelley-Anderson,Technology,Mid-Market,Mid-Market,Business,5988.00,5508.36,91.99,0,5356,73,49235,High,2026-07-22
+CMP_000874,Williams Ltd,Finance,Small Business,SMB,Professional,1990.00,1430.30,71.87,0,1874,20,16931,High,2026-07-25
+CMP_000875,Smith-Noble,Retail,Small Business,SMB,Business,5988.00,5508.36,91.99,0,748,14,7006,High,2026-07-12
+CMP_000876,Alexander Inc,Technology,Small Business,SMB,Professional,2189.00,1573.33,71.87,0,438,6,4000,High,2026-07-14
+CMP_000879,Baxter LLC,Retail,Small Business,SMB,Enterprise,16500.00,14355.00,87.00,0,753,10,6904,High,2026-07-23
+CMP_000880,Pena LLC,Finance,Startup,SMB,Business,0,0,0,1,308,3,2761,High,2026-07-09
+CMP_000881,Watson Ltd,Technology,Startup,SMB,Starter,588.00,270.36,45.98,0,224,3,2094,High,2026-07-04
+CMP_000882,Williams Ltd,Finance,Startup,SMB,Starter,392.00,180.24,45.98,0,290,5,2639,High,2026-07-20
+CMP_000883,Barber-Fischer,Technology,Startup,SMB,Starter,5292.00,4883.20,92.28,0,93,2,909,High,2026-06-01
+CMP_000884,Rios-Padilla,Professional Services,Small Business,SMB,Business,5489.00,5049.33,91.99,0,452,7,4174,High,2026-07-26
+CMP_000885,Lewis Inc,Professional Services,Startup,SMB,Business,5489.00,5049.33,91.99,0,128,2,1197,High,2026-06-18
+CMP_000886,Wheeler PLC,Education,Mid-Market,Enterprise,Starter,588.00,270.36,45.98,0,5966,81,54435,High,2026-07-27
+CMP_000888,Mcneil Group,Finance,Startup,SMB,Professional,2189.00,1573.33,71.87,0,153,3,1223,High,2026-06-23
+CMP_000889,"Anderson, Jones and Reyes",Technology,Small Business,SMB,Business,5489.00,5049.33,91.99,0,780,11,6700,High,2026-07-23
+CMP_000890,"Shaffer, Garcia and Richardson",Healthcare,Enterprise,SMB,Starter,539.00,247.83,45.98,0,14931,223,136728,High,2026-07-25
+CMP_000892,May Ltd,Technology,Small Business,SMB,Starter,490.00,225.30,45.98,0,1095,19,9936,High,2026-07-17
+CMP_000893,Jones PLC,Finance,Small Business,SMB,Business,64670.40,62430.24,96.54,0,816,7,7651,High,2026-07-20
+CMP_000894,Bishop and Sons,Manufacturing,Mid-Market,SMB,Starter,0,0,0,1,5908,71,54353,High,2026-07-26
+CMP_000898,Goodwin PLC,Finance,Startup,SMB,Business,4990.00,4590.30,91.99,0,199,1,1804,High,2026-07-27
+CMP_000899,"Cruz, Richmond and Edwards",Technology,Mid-Market,SMB,Starter,539.00,247.83,45.98,0,2416,39,22828,High,2026-07-25
+CMP_000901,Wright PLC,Manufacturing,Enterprise,SMB,Starter,588.00,270.36,45.98,0,15432,207,140738,High,2026-07-26
+CMP_000902,"Griffith, Mitchell and Pugh",Retail,Startup,Mid-Market,Business,53892.00,52025.20,96.54,0,249,4,2294,High,2026-07-07
+CMP_000903,Abbott Ltd,Technology,Mid-Market,Mid-Market,Professional,2189.00,1573.33,71.87,0,6298,94,57492,High,2026-07-26
+CMP_000904,Harris-Lawson,Technology,Enterprise,SMB,Business,0,0,0,1,27060,349,247741,High,2026-07-26
+CMP_000907,Cruz-Allen,Retail,Mid-Market,SMB,Starter,490.00,225.30,45.98,0,5289,60,48117,High,2026-07-24
+CMP_000908,"Wheeler, Rice and Levine",Healthcare,Startup,SMB,Business,5988.00,5508.36,91.99,0,176,3,1705,High,2026-06-24
+CMP_000909,Peck-Anderson,Healthcare,Mid-Market,SMB,Enterprise,16500.00,14355.00,87.00,0,4522,64,40761,High,2026-07-25
+CMP_000910,"Fisher, Payne and Thompson",Finance,Small Business,SMB,Starter,539.00,247.83,45.98,0,1067,18,9618,High,2026-07-22
+CMP_000912,Matthews Inc,Technology,Startup,SMB,Starter,588.00,270.36,45.98,0,89,3,771,High,2026-05-23
+CMP_000915,"Wang, Henderson and Morales",Finance,Startup,SMB,Professional,1990.00,1430.30,71.87,0,392,5,3383,High,2026-07-13
+CMP_000917,Miller-Mccall,Manufacturing,Small Business,SMB,Professional,21492.00,20347.20,94.67,0,563,8,5077,High,2026-07-19
+CMP_000919,"Walters, Davenport and Becker",Finance,Mid-Market,SMB,Professional,1791.00,1287.27,71.87,0,1694,23,15666,High,2026-07-15
+CMP_000920,Collins Group,Healthcare,Mid-Market,SMB,Starter,6350.40,5859.84,92.28,0,3911,49,36016,High,2026-07-25
+CMP_000921,"Ashley, Allen and Sanchez",Manufacturing,Startup,SMB,Starter,539.00,247.83,45.98,0,153,5,1291,High,2026-06-11
+CMP_000922,Wilson-Salazar,Technology,Enterprise,SMB,Professional,2189.00,1573.33,71.87,0,26485,362,244417,High,2026-07-27
+CMP_000923,Parker Ltd,Technology,Small Business,SMB,Business,4491.00,4131.27,91.99,0,684,13,6259,High,2026-07-08
+CMP_000925,"Smith, Crawford and Reed",Technology,Startup,Mid-Market,Business,5489.00,5049.33,91.99,0,120,2,1142,High,2026-07-04
+CMP_000927,Brady LLC,Technology,Startup,SMB,Professional,2189.00,1573.33,71.87,0,328,4,3154,High,2026-07-18
+CMP_000929,Nelson-Brown,Retail,Startup,SMB,Professional,398.00,286.06,71.87,1,59,1,628,High,2026-05-17
+CMP_000930,"Proctor, Burton and Crawford",Education,Small Business,Mid-Market,Starter,490.00,225.30,45.98,0,634,8,5906,High,2026-07-12
+CMP_000932,Moore-Ayala,Healthcare,Startup,SMB,Business,4491.00,4131.27,91.99,0,348,5,3018,High,2026-07-21
+CMP_000933,"Craig, Wilson and Yang",Manufacturing,Small Business,Mid-Market,Starter,539.00,247.83,45.98,0,369,3,3362,High,2026-07-14
+CMP_000934,Williams Inc,Technology,Small Business,Mid-Market,Starter,539.00,247.83,45.98,0,529,7,4970,High,2026-07-15
+CMP_000935,Williams LLC,Retail,Startup,SMB,Starter,539.00,247.83,45.98,0,97,1,849,High,2026-07-14
+CMP_000937,Tran Ltd,Technology,Enterprise,Mid-Market,Starter,0,0,0,1,33348,453,304287,High,2026-07-26
+CMP_000940,Shaw Inc,Finance,Enterprise,SMB,Business,4990.00,4590.30,91.99,0,16985,226,155780,High,2026-07-25
+CMP_000942,Finley Inc,Manufacturing,Enterprise,Enterprise,Starter,490.00,225.30,45.98,0,13235,193,121051,High,2026-07-24
+CMP_000943,Cline-Ayala,Professional Services,Small Business,SMB,Starter,0,0,0,1,492,5,4555,High,2026-07-12
+CMP_000946,"Mueller, Stevenson and Sanchez",Professional Services,Mid-Market,Mid-Market,Starter,539.00,247.83,45.98,0,7434,96,66921,High,2026-07-25
+CMP_000947,Vargas-Snyder,Professional Services,Small Business,SMB,Starter,539.00,247.83,45.98,0,293,10,2420,High,2026-07-04
+CMP_000948,Oconnor PLC,Retail,Mid-Market,SMB,Starter,5821.20,5371.52,92.28,0,5731,83,52088,High,2026-07-27
+CMP_000950,Hall LLC,Finance,Enterprise,SMB,Professional,1990.00,1430.30,71.87,0,11382,158,105458,High,2026-07-26
+CMP_000951,"Franco, Wiley and Tapia",Retail,Small Business,SMB,Starter,6350.40,5859.84,92.28,0,604,9,5605,High,2026-07-19
+CMP_000954,Barnes Inc,Education,Startup,SMB,Business,53892.00,52025.20,96.54,0,188,4,1721,High,2026-07-15
+CMP_000955,Dawson Inc,Professional Services,Mid-Market,Mid-Market,Starter,588.00,270.36,45.98,0,5359,71,48493,High,2026-07-24
+CMP_000957,Haynes-Watson,Finance,Startup,SMB,Professional,25790.40,24416.64,94.67,0,96,3,847,High,2026-06-06
+CMP_000960,Bates-Anderson,Manufacturing,Startup,Mid-Market,Starter,539.00,247.83,45.98,0,15,1,159,Medium,2026-02-15
+CMP_000962,Haynes-Moss,Technology,Mid-Market,SMB,Business,5988.00,5508.36,91.99,0,4457,52,40842,High,2026-07-26
+CMP_000963,Chavez-Hall,Finance,Mid-Market,SMB,Professional,2388.00,1716.36,71.87,0,4294,59,38820,High,2026-07-25
+CMP_000965,Moore and Sons,Finance,Mid-Market,Mid-Market,Business,5988.00,5508.36,91.99,0,6226,81,56693,High,2026-07-23
+CMP_000966,Owens-Russell,Education,Small Business,SMB,Professional,2388.00,1716.36,71.87,0,295,6,2897,High,2026-06-04
+CMP_000967,"Howard, Townsend and Hayes",Healthcare,Startup,SMB,Starter,6350.40,5859.84,92.28,0,264,5,2310,High,2026-07-11
+CMP_000968,Baker-Wilson,Manufacturing,Startup,SMB,Enterprise,0,0,0,1,128,4,1322,High,2026-06-01
+CMP_000969,Aguirre LLC,Healthcare,Startup,SMB,Business,4990.00,4590.30,91.99,0,498,5,4723,High,2026-07-15
+CMP_000970,"Terry, Williams and Huff",Finance,Mid-Market,SMB,Professional,0,0,0,1,6515,93,59219,High,2026-07-20
+CMP_000973,Green-Ewing,Technology,Enterprise,SMB,Starter,5821.20,5371.52,92.28,0,29124,393,267102,High,2026-07-26
+CMP_000975,"Adkins, Wright and Murray",Retail,Mid-Market,SMB,Business,4491.00,4131.27,91.99,0,7423,98,68079,High,2026-07-27
+CMP_000976,Martinez Inc,Manufacturing,Startup,SMB,Professional,1990.00,1430.30,71.87,0,81,2,645,High,2026-05-23
+CMP_000977,Anderson Group,Technology,Mid-Market,SMB,Professional,0,0,0,1,5498,77,49807,High,2026-07-22
+CMP_000978,Parks-Pace,Manufacturing,Mid-Market,SMB,Professional,2189.00,1573.33,71.87,0,1819,25,16727,High,2026-07-26
+CMP_000980,Johnson Inc,Technology,Mid-Market,Mid-Market,Professional,1990.00,1430.30,71.87,0,5908,69,53773,High,2026-07-26
+CMP_000981,Orr Group,Technology,Mid-Market,Mid-Market,Business,2994.00,2754.18,91.99,1,2226,28,19925,High,2026-07-26
+CMP_000982,Davis LLC,Technology,Startup,SMB,Starter,5821.20,5371.52,92.28,0,166,3,1502,High,2026-07-16
+CMP_000984,Jackson PLC,Retail,Startup,SMB,Starter,539.00,247.83,45.98,0,264,4,2441,High,2026-07-14
+CMP_000985,Underwood-Foster,Technology,Small Business,SMB,Enterprise,0,0,0,1,1467,19,12897,High,2026-07-26
+CMP_000986,Reyes Group,Professional Services,Small Business,SMB,Starter,0,0,0,1,1344,18,12702,High,2026-07-24
+CMP_000989,Mendez PLC,Retail,Startup,Enterprise,Professional,23641.20,22381.92,94.67,0,29,1,280,Medium,2026-03-13
+CMP_000990,Holland Group,Healthcare,Small Business,SMB,Business,48502.80,46822.68,96.54,0,544,10,5048,High,2026-07-14
+CMP_000991,Andrade-Mendoza,Healthcare,Startup,SMB,Professional,1592.00,1144.24,71.87,0,298,3,2613,High,2026-07-25
+CMP_000997,Durham-Shaw,Technology,Mid-Market,SMB,Starter,441.00,202.77,45.98,0,2817,45,25930,High,2026-07-22
+CMP_000998,Nelson-Johnson,Technology,Startup,SMB,Professional,1791.00,1287.27,71.87,0,195,3,1764,High,2026-07-22
+CMP_000999,"Robinson, Huang and Osborne",Finance,Mid-Market,Enterprise,Starter,539.00,247.83,45.98,0,2106,30,19445,High,2026-07-22

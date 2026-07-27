@@ -1,0 +1,662 @@
+company_id,company_name,industry,company_size,customer_segment,country,region,acquisition_channel,plan,billing_cycle,monthly_price,total_revenue,total_profit,total_payments,churn_flag,customer_lifetime_days,customer_value_segment
+CMP_000001,"Rodriguez, Figueroa and Sanchez",Healthcare,Enterprise,Mid-Market,India,Asia-Pacific,LinkedIn Ads,Enterprise,Monthly,1500.00,15000.00,13050.00,10,0,1051,High Value
+CMP_000002,Doyle Ltd,Finance,Startup,SMB,Brazil,Latin America,Referral,Starter,Monthly,49.00,588.00,270.36,12,0,1996,Low Value
+CMP_000003,"Mcclain, Miller and Henderson",Professional Services,Startup,Enterprise,Kenya,Africa,Referral,Starter,Monthly,49.00,490.00,225.30,10,0,1514,Low Value
+CMP_000004,Davis and Sons,Finance,Small Business,SMB,South Africa,Africa,Email Marketing,Starter,Annual,529.20,5821.20,5371.52,11,0,2188,Medium Value
+CMP_000005,"Guzman, Hoffman and Baldwin",Retail,Small Business,Enterprise,Australia,Asia-Pacific,LinkedIn Ads,Professional,Monthly,199.00,1791.00,1287.27,9,0,1695,Low Value
+CMP_000006,"Gardner, Robinson and Lawrence",Technology,Enterprise,Enterprise,Canada,North America,Partner,Business,Monthly,499.00,5489.00,5049.33,11,0,933,Medium Value
+CMP_000007,Blake and Sons,Retail,Small Business,SMB,Chile,Latin America,LinkedIn Ads,Starter,Monthly,49.00,588.00,270.36,12,0,2280,Low Value
+CMP_000009,Garcia-James,Education,Enterprise,Mid-Market,Chile,Latin America,LinkedIn Ads,Starter,Monthly,49.00,588.00,270.36,12,0,1919,Low Value
+CMP_000011,Blair PLC,Technology,Mid-Market,SMB,Brazil,Latin America,Email Marketing,Business,Monthly,499.00,5489.00,5049.33,11,0,1178,Medium Value
+CMP_000012,Dudley Group,Healthcare,Startup,SMB,France,Europe,Referral,Business,Monthly,499.00,5489.00,5049.33,11,0,1995,Medium Value
+CMP_000013,Arnold Ltd,Professional Services,Small Business,Enterprise,United States,North America,Content Marketing,Enterprise,Monthly,1500.00,18000.00,15660.00,12,0,1375,High Value
+CMP_000016,Galloway-Wyatt,Education,Startup,SMB,Germany,Europe,Organic Search,Business,Annual,5389.20,48502.80,46822.68,9,0,1055,High Value
+CMP_000017,James Group,Professional Services,Startup,SMB,Spain,Europe,Partner,Starter,Monthly,49.00,490.00,225.30,10,0,1764,Low Value
+CMP_000018,"Flowers, Martin and Kelly",Healthcare,Startup,Enterprise,Brazil,Latin America,Partner,Enterprise,Monthly,1500.00,18000.00,15660.00,12,0,1583,High Value
+CMP_000019,"Adams, Zuniga and Wong",Technology,Mid-Market,SMB,Spain,Europe,Partner,Starter,Monthly,49.00,539.00,247.83,11,0,793,Low Value
+CMP_000021,Gray-Mayo,Technology,Small Business,SMB,Brazil,Latin America,Organic Search,Professional,Monthly,199.00,2189.00,1573.33,11,0,1122,Low Value
+CMP_000022,"Watts, Robinson and Nguyen",Technology,Startup,SMB,Brazil,Latin America,LinkedIn Ads,Business,Monthly,499.00,5489.00,5049.33,11,0,866,Medium Value
+CMP_000023,Perez Inc,Healthcare,Small Business,SMB,Canada,North America,Google Ads,Business,Monthly,499.00,5988.00,5508.36,12,0,2191,Medium Value
+CMP_000024,Morales-Jones,Finance,Startup,SMB,Canada,North America,Content Marketing,Professional,Annual,2149.20,23641.20,22381.92,11,0,628,High Value
+CMP_000025,"Walter, Edwards and Rios",Finance,Small Business,SMB,Kenya,Africa,LinkedIn Ads,Professional,Monthly,199.00,2388.00,1716.36,12,0,2131,Low Value
+CMP_000027,Baker and Sons,Education,Startup,SMB,Germany,Europe,Referral,Enterprise,Monthly,1500.00,0,0,0,1,110,Low Value
+CMP_000029,"Ross, Robinson and Bright",Healthcare,Small Business,Mid-Market,Tanzania,Africa,Referral,Starter,Monthly,49.00,294.00,135.18,6,0,1918,Low Value
+CMP_000030,"Snyder, Campos and Callahan",Professional Services,Mid-Market,SMB,Kenya,Africa,Referral,Professional,Monthly,199.00,1990.00,1430.30,10,0,1752,Low Value
+CMP_000031,Burton Ltd,Technology,Startup,Mid-Market,Mexico,North America,Content Marketing,Professional,Monthly,199.00,2189.00,1573.33,11,0,1039,Low Value
+CMP_000034,Frazier Inc,Professional Services,Startup,SMB,Australia,Asia-Pacific,LinkedIn Ads,Starter,Annual,529.20,6350.40,5859.84,12,0,629,Medium Value
+CMP_000036,Rodriguez-Graham,Retail,Small Business,SMB,United Kingdom,Europe,Google Ads,Business,Monthly,499.00,5988.00,5508.36,12,0,1554,Medium Value
+CMP_000038,"Baker, Mason and White",Retail,Small Business,SMB,Mexico,North America,Referral,Starter,Monthly,49.00,49.00,22.53,1,1,169,Low Value
+CMP_000040,"Romero, Gonzalez and Brooks",Healthcare,Startup,Enterprise,United States,North America,Google Ads,Starter,Annual,529.20,5821.20,5371.52,11,0,1673,Medium Value
+CMP_000041,Ryan PLC,Technology,Startup,SMB,Tanzania,Africa,Google Ads,Starter,Annual,529.20,5292.00,4883.20,10,0,2181,Medium Value
+CMP_000044,Allen-Allen,Technology,Mid-Market,SMB,Argentina,Latin America,Google Ads,Starter,Monthly,49.00,588.00,270.36,12,0,1411,Low Value
+CMP_000045,"Arroyo, Miller and Tucker",Technology,Startup,SMB,Chile,Latin America,Organic Search,Starter,Monthly,49.00,588.00,270.36,12,0,1874,Low Value
+CMP_000046,Spence PLC,Education,Mid-Market,SMB,Kenya,Africa,Google Ads,Professional,Monthly,199.00,2189.00,1573.33,11,0,1636,Low Value
+CMP_000048,"Martin, Rose and Obrien",Professional Services,Small Business,Mid-Market,Japan,Asia-Pacific,Organic Search,Business,Monthly,499.00,4491.00,4131.27,9,0,1462,Medium Value
+CMP_000049,Hickman Ltd,Education,Enterprise,SMB,France,Europe,Google Ads,Professional,Monthly,199.00,2388.00,1716.36,12,0,1518,Low Value
+CMP_000051,"Brooks, Lam and Hayes",Finance,Startup,SMB,Nigeria,Africa,Organic Search,Starter,Monthly,49.00,0,0,0,1,145,Low Value
+CMP_000052,Walker LLC,Finance,Small Business,SMB,Nigeria,Africa,Referral,Business,Monthly,499.00,4990.00,4590.30,10,0,1268,Medium Value
+CMP_000054,"Robinson, Jones and Welch",Professional Services,Startup,SMB,United States,North America,Partner,Starter,Monthly,49.00,490.00,225.30,10,0,730,Low Value
+CMP_000056,Jones-Young,Retail,Small Business,Mid-Market,Nigeria,Africa,Referral,Professional,Monthly,199.00,1990.00,1430.30,10,0,1327,Low Value
+CMP_000058,"Johnston, Sanchez and Kennedy",Retail,Small Business,SMB,United States,North America,Content Marketing,Professional,Monthly,199.00,2388.00,1716.36,12,0,682,Low Value
+CMP_000059,Lee-Davis,Retail,Startup,SMB,Tanzania,Africa,Organic Search,Starter,Monthly,49.00,539.00,247.83,11,0,1030,Low Value
+CMP_000063,Wright and Sons,Education,Startup,Enterprise,Argentina,Latin America,Content Marketing,Starter,Monthly,49.00,441.00,202.77,9,0,573,Low Value
+CMP_000064,"West, Henderson and Ramirez",Education,Startup,SMB,Argentina,Latin America,LinkedIn Ads,Professional,Monthly,199.00,2189.00,1573.33,11,0,1570,Low Value
+CMP_000067,Williams PLC,Healthcare,Startup,SMB,Spain,Europe,Partner,Starter,Monthly,49.00,392.00,180.24,8,0,1732,Low Value
+CMP_000068,Novak and Sons,Technology,Small Business,SMB,India,Asia-Pacific,LinkedIn Ads,Starter,Monthly,49.00,490.00,225.30,10,0,1205,Low Value
+CMP_000069,Russell Group,Education,Enterprise,SMB,Spain,Europe,Partner,Professional,Monthly,199.00,1990.00,1430.30,10,0,1138,Low Value
+CMP_000070,Hancock Inc,Finance,Startup,SMB,France,Europe,Content Marketing,Professional,Monthly,199.00,1791.00,1287.27,9,0,836,Low Value
+CMP_000071,Gray Group,Technology,Small Business,Mid-Market,Spain,Europe,Content Marketing,Starter,Monthly,49.00,490.00,225.30,10,0,1820,Low Value
+CMP_000072,House-Glover,Professional Services,Mid-Market,SMB,Spain,Europe,Organic Search,Professional,Monthly,199.00,1592.00,1144.24,8,0,1093,Low Value
+CMP_000075,Novak PLC,Technology,Small Business,SMB,Argentina,Latin America,Partner,Starter,Monthly,49.00,0,0,0,1,365,Low Value
+CMP_000076,"Daniels, Adkins and Brown",Technology,Mid-Market,SMB,Mexico,North America,Email Marketing,Professional,Monthly,199.00,995.00,715.15,5,1,208,Low Value
+CMP_000077,"Woods, Calhoun and Schmidt",Retail,Startup,SMB,United States,North America,Organic Search,Business,Monthly,499.00,5988.00,5508.36,12,0,925,Medium Value
+CMP_000078,Yu Inc,Retail,Small Business,Enterprise,Nigeria,Africa,Organic Search,Starter,Monthly,49.00,539.00,247.83,11,0,1031,Low Value
+CMP_000079,Jones Inc,Manufacturing,Small Business,SMB,Japan,Asia-Pacific,Google Ads,Starter,Monthly,49.00,441.00,202.77,9,0,2194,Low Value
+CMP_000080,"Hensley, Powell and David",Healthcare,Small Business,SMB,Kenya,Africa,Email Marketing,Enterprise,Monthly,1500.00,18000.00,15660.00,12,0,1867,High Value
+CMP_000081,"Sanchez, Wheeler and Harvey",Healthcare,Small Business,SMB,Mexico,North America,Google Ads,Starter,Monthly,49.00,588.00,270.36,12,0,749,Low Value
+CMP_000084,"Edwards, Baker and Anderson",Technology,Small Business,SMB,Argentina,Latin America,Email Marketing,Starter,Monthly,49.00,539.00,247.83,11,0,1615,Low Value
+CMP_000085,"Evans, Stewart and Walton",Technology,Startup,SMB,Kenya,Africa,Organic Search,Starter,Monthly,49.00,0,0,0,1,81,Low Value
+CMP_000086,Smith PLC,Finance,Mid-Market,Enterprise,Singapore,Asia-Pacific,LinkedIn Ads,Professional,Monthly,199.00,2388.00,1716.36,12,0,1631,Low Value
+CMP_000088,Anderson-Bailey,Technology,Mid-Market,Mid-Market,Spain,Europe,Organic Search,Professional,Monthly,199.00,2388.00,1716.36,12,0,1292,Low Value
+CMP_000095,Campbell-Clark,Finance,Startup,SMB,Nigeria,Africa,Organic Search,Starter,Annual,529.20,6350.40,5859.84,12,0,2216,Medium Value
+CMP_000097,Wagner-King,Retail,Startup,Mid-Market,United Kingdom,Europe,Google Ads,Starter,Annual,529.20,5821.20,5371.52,11,0,1770,Medium Value
+CMP_000099,Williams-Cook,Healthcare,Startup,SMB,Nigeria,Africa,Referral,Starter,Monthly,49.00,539.00,247.83,11,0,1543,Low Value
+CMP_000100,Walsh LLC,Technology,Startup,Mid-Market,Chile,Latin America,Referral,Professional,Monthly,199.00,1990.00,1430.30,10,0,2029,Low Value
+CMP_000102,"Patterson, Smith and Jones",Retail,Mid-Market,Mid-Market,United Kingdom,Europe,Organic Search,Professional,Monthly,199.00,2388.00,1716.36,12,0,830,Low Value
+CMP_000103,"Mckee, Gardner and Davenport",Finance,Startup,SMB,Kenya,Africa,Google Ads,Enterprise,Annual,16200.00,178200.00,171204.00,11,0,1245,High Value
+CMP_000104,"Tran, Jordan and Williams",Technology,Startup,SMB,Mexico,North America,Content Marketing,Enterprise,Monthly,1500.00,13500.00,11745.00,9,0,961,High Value
+CMP_000106,Nolan and Sons,Technology,Startup,SMB,Argentina,Latin America,Referral,Professional,Annual,2149.20,0,0,0,1,185,Low Value
+CMP_000107,"Wright, Garcia and Deleon",Healthcare,Enterprise,SMB,Nigeria,Africa,Organic Search,Professional,Monthly,199.00,2388.00,1716.36,12,0,838,Low Value
+CMP_000110,Johnson-Doyle,Manufacturing,Mid-Market,SMB,Canada,North America,Organic Search,Starter,Monthly,49.00,539.00,247.83,11,0,899,Low Value
+CMP_000112,"Shields, Cochran and Adams",Finance,Small Business,SMB,United Kingdom,Europe,Organic Search,Professional,Monthly,199.00,0,0,0,1,148,Low Value
+CMP_000114,Gonzalez Group,Finance,Small Business,SMB,United States,North America,Organic Search,Enterprise,Monthly,1500.00,16500.00,14355.00,11,0,638,High Value
+CMP_000116,Walker Ltd,Manufacturing,Mid-Market,SMB,Mexico,North America,Content Marketing,Professional,Monthly,199.00,2388.00,1716.36,12,0,1799,Low Value
+CMP_000119,May-Ross,Healthcare,Small Business,SMB,United Kingdom,Europe,LinkedIn Ads,Professional,Monthly,199.00,2189.00,1573.33,11,0,1508,Low Value
+CMP_000121,White-Estes,Technology,Small Business,SMB,South Africa,Africa,Google Ads,Starter,Monthly,49.00,490.00,225.30,10,0,1747,Low Value
+CMP_000122,Johnson-Carlson,Manufacturing,Small Business,Mid-Market,United States,North America,LinkedIn Ads,Professional,Monthly,199.00,1791.00,1287.27,9,0,1778,Low Value
+CMP_000124,"Joyce, Wilson and Lam",Manufacturing,Startup,Mid-Market,South Africa,Africa,Organic Search,Starter,Monthly,49.00,490.00,225.30,10,0,2092,Low Value
+CMP_000126,Smith-Frost,Finance,Startup,SMB,United Kingdom,Europe,Organic Search,Enterprise,Monthly,1500.00,16500.00,14355.00,11,0,1442,High Value
+CMP_000127,"Mcdaniel, Bentley and Mclaughlin",Technology,Small Business,SMB,Tanzania,Africa,Referral,Professional,Monthly,199.00,1990.00,1430.30,10,0,647,Low Value
+CMP_000128,Diaz Inc,Retail,Startup,Mid-Market,Germany,Europe,Content Marketing,Business,Monthly,499.00,5489.00,5049.33,11,0,1297,Medium Value
+CMP_000129,"Mccall, Hanson and Alvarado",Education,Startup,SMB,Chile,Latin America,Partner,Starter,Monthly,49.00,539.00,247.83,11,0,1268,Low Value
+CMP_000130,Cortez LLC,Professional Services,Enterprise,SMB,Chile,Latin America,Organic Search,Starter,Monthly,49.00,588.00,270.36,12,0,967,Low Value
+CMP_000131,"Parker, Ortiz and Powell",Technology,Mid-Market,SMB,South Africa,Africa,Google Ads,Enterprise,Monthly,1500.00,18000.00,15660.00,12,0,1436,High Value
+CMP_000132,Spencer-Lee,Healthcare,Startup,SMB,India,Asia-Pacific,Partner,Starter,Monthly,49.00,588.00,270.36,12,0,1728,Low Value
+CMP_000133,"Bentley, Byrd and Orr",Professional Services,Small Business,SMB,Brazil,Latin America,Content Marketing,Starter,Monthly,49.00,539.00,247.83,11,0,1352,Low Value
+CMP_000135,Mitchell-Jordan,Retail,Startup,SMB,Japan,Asia-Pacific,Organic Search,Starter,Monthly,49.00,588.00,270.36,12,0,1652,Low Value
+CMP_000136,"Lawson, Morris and Ramos",Finance,Small Business,SMB,Kenya,Africa,Referral,Professional,Monthly,199.00,1990.00,1430.30,10,0,1561,Low Value
+CMP_000137,"Lewis, Kennedy and Santana",Technology,Small Business,SMB,South Africa,Africa,Organic Search,Professional,Monthly,199.00,1990.00,1430.30,10,0,889,Low Value
+CMP_000138,"Jackson, Miller and Robertson",Finance,Small Business,SMB,Germany,Europe,LinkedIn Ads,Starter,Monthly,49.00,588.00,270.36,12,0,1523,Low Value
+CMP_000139,"Harvey, Davis and Crane",Technology,Mid-Market,Enterprise,United States,North America,Google Ads,Starter,Monthly,49.00,0,0,0,1,175,Low Value
+CMP_000140,Chambers and Sons,Technology,Startup,Mid-Market,Mexico,North America,Referral,Professional,Monthly,199.00,2189.00,1573.33,11,0,1997,Low Value
+CMP_000142,Riggs PLC,Retail,Mid-Market,Mid-Market,Chile,Latin America,Email Marketing,Starter,Monthly,49.00,588.00,270.36,12,0,1216,Low Value
+CMP_000143,Gibson Ltd,Manufacturing,Small Business,SMB,Tanzania,Africa,Organic Search,Professional,Monthly,199.00,0,0,0,1,276,Low Value
+CMP_000144,"Lee, Horton and Snyder",Technology,Startup,SMB,Tanzania,Africa,Organic Search,Professional,Annual,2149.20,0,0,0,1,163,Low Value
+CMP_000145,Hernandez Ltd,Manufacturing,Mid-Market,SMB,Brazil,Latin America,Google Ads,Professional,Monthly,199.00,1990.00,1430.30,10,0,1611,Low Value
+CMP_000147,Robinson-Brock,Technology,Mid-Market,SMB,Kenya,Africa,Content Marketing,Starter,Monthly,49.00,490.00,225.30,10,0,1544,Low Value
+CMP_000149,Bryant Group,Technology,Mid-Market,Enterprise,France,Europe,LinkedIn Ads,Professional,Monthly,199.00,0,0,0,1,39,Low Value
+CMP_000150,"Schmidt, Hansen and Stewart",Technology,Enterprise,SMB,France,Europe,LinkedIn Ads,Starter,Monthly,49.00,343.00,157.71,7,0,1289,Low Value
+CMP_000151,Salazar-Ball,Retail,Mid-Market,SMB,United Kingdom,Europe,Organic Search,Professional,Monthly,199.00,2388.00,1716.36,12,0,1033,Low Value
+CMP_000152,"Simmons, Meadows and Griffin",Education,Startup,SMB,Kenya,Africa,LinkedIn Ads,Business,Monthly,499.00,1497.00,1377.09,3,1,89,Low Value
+CMP_000153,Manning Group,Finance,Small Business,SMB,United States,North America,Organic Search,Business,Monthly,499.00,5489.00,5049.33,11,0,921,Medium Value
+CMP_000154,Green-Wright,Technology,Small Business,SMB,Germany,Europe,Google Ads,Business,Monthly,499.00,4990.00,4590.30,10,0,2364,Medium Value
+CMP_000155,"Ramirez, Strickland and Washington",Education,Startup,SMB,France,Europe,LinkedIn Ads,Professional,Monthly,199.00,2189.00,1573.33,11,0,1714,Low Value
+CMP_000156,Hill Inc,Finance,Startup,SMB,Argentina,Latin America,Organic Search,Professional,Monthly,199.00,1791.00,1287.27,9,0,1396,Low Value
+CMP_000157,"Mitchell, Nelson and Flores",Technology,Small Business,SMB,United States,North America,Google Ads,Starter,Monthly,49.00,539.00,247.83,11,0,1323,Low Value
+CMP_000158,"Miller, Hernandez and Reyes",Finance,Small Business,SMB,France,Europe,Organic Search,Enterprise,Monthly,1500.00,13500.00,11745.00,9,0,844,High Value
+CMP_000159,Mccarthy Inc,Technology,Enterprise,SMB,Kenya,Africa,Organic Search,Business,Monthly,499.00,0,0,0,1,394,Low Value
+CMP_000160,Russell-Daniels,Technology,Enterprise,SMB,Japan,Asia-Pacific,Organic Search,Business,Monthly,499.00,5489.00,5049.33,11,0,701,Medium Value
+CMP_000161,Brown-Wall,Retail,Mid-Market,Mid-Market,Tanzania,Africa,Referral,Professional,Monthly,199.00,2388.00,1716.36,12,0,812,Low Value
+CMP_000162,Stein-Silva,Finance,Startup,Enterprise,Singapore,Asia-Pacific,Content Marketing,Professional,Annual,2149.20,25790.40,24416.64,12,0,1069,High Value
+CMP_000163,"Smith, Gilmore and Johnston",Retail,Enterprise,SMB,Spain,Europe,LinkedIn Ads,Starter,Monthly,49.00,588.00,270.36,12,0,1950,Low Value
+CMP_000166,Medina-Navarro,Technology,Startup,SMB,South Africa,Africa,Google Ads,Professional,Monthly,199.00,2189.00,1573.33,11,0,2325,Low Value
+CMP_000168,Johnson-Rogers,Retail,Startup,SMB,Tanzania,Africa,Content Marketing,Starter,Monthly,49.00,490.00,225.30,10,0,1141,Low Value
+CMP_000169,"Yates, Ramsey and Pittman",Professional Services,Mid-Market,Enterprise,Brazil,Latin America,Google Ads,Professional,Monthly,199.00,1990.00,1430.30,10,0,2139,Low Value
+CMP_000170,Hooper PLC,Retail,Mid-Market,Enterprise,France,Europe,Partner,Starter,Annual,529.20,5821.20,5371.52,11,0,2015,Medium Value
+CMP_000172,"Alvarado, Miller and Patterson",Technology,Startup,SMB,Kenya,Africa,Email Marketing,Starter,Monthly,49.00,490.00,225.30,10,0,1970,Low Value
+CMP_000173,White-Green,Healthcare,Startup,Enterprise,United Kingdom,Europe,Partner,Starter,Monthly,49.00,490.00,225.30,10,0,1428,Low Value
+CMP_000174,Lewis-Murphy,Professional Services,Mid-Market,SMB,Spain,Europe,Content Marketing,Enterprise,Monthly,1500.00,16500.00,14355.00,11,0,1124,High Value
+CMP_000175,Ramirez-Bean,Professional Services,Startup,Enterprise,Chile,Latin America,Referral,Starter,Monthly,49.00,539.00,247.83,11,0,820,Low Value
+CMP_000176,King-Miller,Technology,Startup,SMB,France,Europe,Organic Search,Starter,Monthly,49.00,588.00,270.36,12,0,577,Low Value
+CMP_000177,Curry Inc,Technology,Enterprise,Mid-Market,Singapore,Asia-Pacific,Content Marketing,Professional,Monthly,199.00,2189.00,1573.33,11,0,565,Low Value
+CMP_000180,Howell and Sons,Technology,Mid-Market,SMB,India,Asia-Pacific,Google Ads,Starter,Monthly,49.00,588.00,270.36,12,0,1021,Low Value
+CMP_000182,"Gould, Marshall and Scott",Technology,Startup,SMB,Japan,Asia-Pacific,Organic Search,Professional,Monthly,199.00,2189.00,1573.33,11,0,1183,Low Value
+CMP_000183,Jackson-Lawson,Manufacturing,Small Business,Enterprise,Argentina,Latin America,LinkedIn Ads,Professional,Monthly,199.00,2388.00,1716.36,12,0,2257,Low Value
+CMP_000187,Sanders-Espinoza,Technology,Startup,Mid-Market,Chile,Latin America,Organic Search,Professional,Monthly,199.00,2189.00,1573.33,11,0,1037,Low Value
+CMP_000188,Vargas Ltd,Education,Startup,SMB,Kenya,Africa,Organic Search,Starter,Monthly,49.00,490.00,225.30,10,0,1134,Low Value
+CMP_000189,Garcia LLC,Technology,Small Business,SMB,Spain,Europe,Partner,Business,Monthly,499.00,5489.00,5049.33,11,0,1906,Medium Value
+CMP_000190,"Burke, Martinez and Riggs",Finance,Enterprise,SMB,Germany,Europe,Referral,Professional,Annual,2149.20,21492.00,20347.20,10,0,2270,High Value
+CMP_000191,Reed Group,Technology,Mid-Market,Enterprise,Kenya,Africa,Organic Search,Enterprise,Monthly,1500.00,15000.00,13050.00,10,0,1394,High Value
+CMP_000192,"Wood, Hunter and Peterson",Retail,Startup,SMB,South Africa,Africa,Organic Search,Starter,Annual,529.20,5292.00,4883.20,10,0,1095,Medium Value
+CMP_000196,"Nelson, Morton and Medina",Technology,Startup,SMB,Brazil,Latin America,Referral,Business,Monthly,499.00,5988.00,5508.36,12,0,1507,Medium Value
+CMP_000197,Marshall-Petersen,Technology,Mid-Market,Enterprise,France,Europe,Content Marketing,Starter,Annual,529.20,6350.40,5859.84,12,0,589,Medium Value
+CMP_000198,"Adams, Christian and Rivas",Professional Services,Small Business,Mid-Market,Kenya,Africa,Organic Search,Professional,Annual,2149.20,19342.80,18312.48,9,0,1121,High Value
+CMP_000199,Ramirez Group,Retail,Small Business,Mid-Market,Chile,Latin America,LinkedIn Ads,Starter,Monthly,49.00,490.00,225.30,10,0,1273,Low Value
+CMP_000201,"Barnett, Rogers and Snyder",Education,Startup,Enterprise,Chile,Latin America,Email Marketing,Business,Monthly,499.00,4990.00,4590.30,10,0,1812,Medium Value
+CMP_000204,"Beard, Peters and Black",Finance,Small Business,SMB,Australia,Asia-Pacific,Referral,Starter,Monthly,49.00,539.00,247.83,11,0,2184,Low Value
+CMP_000205,Miller Ltd,Technology,Small Business,SMB,South Africa,Africa,Organic Search,Professional,Monthly,199.00,1990.00,1430.30,10,0,657,Low Value
+CMP_000207,"Alvarez, Joseph and West",Finance,Startup,SMB,United Kingdom,Europe,Organic Search,Starter,Monthly,49.00,588.00,270.36,12,0,2155,Low Value
+CMP_000208,Davis and Sons,Retail,Small Business,Mid-Market,Japan,Asia-Pacific,Organic Search,Starter,Annual,529.20,6350.40,5859.84,12,0,1047,Medium Value
+CMP_000209,Holt-Torres,Retail,Mid-Market,SMB,Australia,Asia-Pacific,Content Marketing,Professional,Monthly,199.00,0,0,0,1,227,Low Value
+CMP_000211,"Pierce, Bell and Chavez",Retail,Small Business,SMB,Australia,Asia-Pacific,Partner,Professional,Monthly,199.00,2388.00,1716.36,12,0,1210,Low Value
+CMP_000212,King-Martinez,Technology,Small Business,Mid-Market,Argentina,Latin America,LinkedIn Ads,Professional,Monthly,199.00,0,0,0,1,344,Low Value
+CMP_000213,Stewart Ltd,Retail,Startup,SMB,United Kingdom,Europe,Referral,Business,Monthly,499.00,4990.00,4590.30,10,0,669,Medium Value
+CMP_000214,"Tapia, Vaughn and Lee",Education,Startup,Enterprise,Singapore,Asia-Pacific,Email Marketing,Professional,Annual,2149.20,23641.20,22381.92,11,0,1426,High Value
+CMP_000215,"Washington, Hardy and Bray",Finance,Startup,SMB,Kenya,Africa,Organic Search,Starter,Monthly,49.00,539.00,247.83,11,0,1012,Low Value
+CMP_000216,"Carlson, Hooper and Wall",Manufacturing,Mid-Market,Mid-Market,Brazil,Latin America,Google Ads,Business,Monthly,499.00,5489.00,5049.33,11,0,1627,Medium Value
+CMP_000217,Perez-White,Education,Small Business,SMB,Canada,North America,LinkedIn Ads,Business,Annual,5389.20,59281.20,57227.72,11,0,1090,High Value
+CMP_000218,Erickson and Sons,Finance,Mid-Market,Enterprise,Brazil,Latin America,Google Ads,Professional,Annual,2149.20,0,0,0,1,369,Low Value
+CMP_000219,Williams-Brown,Healthcare,Small Business,Mid-Market,Germany,Europe,Organic Search,Starter,Monthly,49.00,588.00,270.36,12,0,781,Low Value
+CMP_000220,Terry-Martinez,Professional Services,Startup,SMB,United Kingdom,Europe,Email Marketing,Business,Monthly,499.00,4990.00,4590.30,10,0,1468,Medium Value
+CMP_000222,Harrison-Alexander,Technology,Small Business,SMB,France,Europe,Google Ads,Professional,Annual,2149.20,0,0,0,1,182,Low Value
+CMP_000223,Sheppard LLC,Healthcare,Mid-Market,SMB,India,Asia-Pacific,Email Marketing,Professional,Monthly,199.00,2388.00,1716.36,12,0,1997,Low Value
+CMP_000224,Wilson-Jones,Manufacturing,Small Business,SMB,Australia,Asia-Pacific,Google Ads,Starter,Annual,529.20,0,0,0,1,206,Low Value
+CMP_000225,Jones-Soto,Finance,Startup,SMB,France,Europe,Referral,Professional,Monthly,199.00,2189.00,1573.33,11,0,1624,Low Value
+CMP_000227,Miller-Wright,Technology,Startup,SMB,United States,North America,Organic Search,Starter,Monthly,49.00,539.00,247.83,11,0,1335,Low Value
+CMP_000228,"Duran, Obrien and Gibbs",Technology,Small Business,Enterprise,Brazil,Latin America,Google Ads,Starter,Monthly,49.00,441.00,202.77,9,0,1065,Low Value
+CMP_000230,Kerr-Evans,Professional Services,Small Business,SMB,United Kingdom,Europe,LinkedIn Ads,Starter,Monthly,49.00,588.00,270.36,12,0,869,Low Value
+CMP_000231,"Branch, Torres and Oliver",Technology,Startup,SMB,Japan,Asia-Pacific,Referral,Enterprise,Annual,16200.00,145800.00,140076.00,9,0,1424,High Value
+CMP_000232,"Choi, Garcia and Farmer",Professional Services,Startup,SMB,South Africa,Africa,Google Ads,Professional,Monthly,199.00,2189.00,1573.33,11,0,776,Low Value
+CMP_000234,Arnold and Sons,Manufacturing,Mid-Market,SMB,Nigeria,Africa,Partner,Business,Monthly,499.00,4990.00,4590.30,10,0,1320,Medium Value
+CMP_000237,Warner-Gibson,Technology,Small Business,Mid-Market,Canada,North America,Content Marketing,Business,Annual,5389.20,53892.00,52025.20,10,0,857,High Value
+CMP_000238,"Hall, Baker and Moody",Education,Mid-Market,SMB,Spain,Europe,Partner,Business,Annual,5389.20,64670.40,62430.24,12,0,1489,High Value
+CMP_000239,"Guerrero, Peck and Coleman",Technology,Startup,SMB,United States,North America,Google Ads,Starter,Monthly,49.00,490.00,225.30,10,0,1452,Low Value
+CMP_000240,"Walker, Hernandez and Baker",Technology,Small Business,SMB,Chile,Latin America,Organic Search,Starter,Monthly,49.00,539.00,247.83,11,0,664,Low Value
+CMP_000242,Larson-Holloway,Professional Services,Mid-Market,SMB,South Africa,Africa,Organic Search,Professional,Monthly,199.00,0,0,0,1,353,Low Value
+CMP_000244,Lyons-Bender,Technology,Small Business,Mid-Market,South Africa,Africa,Organic Search,Professional,Monthly,199.00,2388.00,1716.36,12,0,2260,Low Value
+CMP_000247,Davis Ltd,Healthcare,Small Business,SMB,Argentina,Latin America,Organic Search,Business,Monthly,499.00,4990.00,4590.30,10,0,1324,Medium Value
+CMP_000248,"Matthews, Smith and Hubbard",Technology,Startup,Mid-Market,Germany,Europe,Organic Search,Starter,Monthly,49.00,588.00,270.36,12,0,1281,Low Value
+CMP_000249,Johnston-Hines,Technology,Mid-Market,SMB,Argentina,Latin America,LinkedIn Ads,Business,Monthly,499.00,4990.00,4590.30,10,0,1500,Medium Value
+CMP_000250,Ruiz Ltd,Retail,Mid-Market,Mid-Market,Singapore,Asia-Pacific,Organic Search,Business,Monthly,499.00,0,0,0,1,113,Low Value
+CMP_000251,Moon-White,Professional Services,Small Business,SMB,Germany,Europe,Partner,Enterprise,Annual,16200.00,194400.00,186768.00,12,0,1714,High Value
+CMP_000254,"Garcia, Martin and Jenkins",Retail,Small Business,SMB,Canada,North America,Organic Search,Professional,Monthly,199.00,2189.00,1573.33,11,0,1203,Low Value
+CMP_000258,"Bryan, Smith and Booth",Technology,Small Business,SMB,France,Europe,LinkedIn Ads,Starter,Annual,529.20,5821.20,5371.52,11,0,1434,Medium Value
+CMP_000259,Gutierrez-Lopez,Technology,Small Business,SMB,Brazil,Latin America,LinkedIn Ads,Professional,Monthly,199.00,1990.00,1430.30,10,0,1370,Low Value
+CMP_000260,Dean-Jimenez,Healthcare,Startup,SMB,Kenya,Africa,Email Marketing,Professional,Monthly,199.00,1990.00,1430.30,10,0,1768,Low Value
+CMP_000261,Wolf-Harris,Professional Services,Small Business,SMB,France,Europe,LinkedIn Ads,Professional,Annual,2149.20,23641.20,22381.92,11,0,783,High Value
+CMP_000264,"Lloyd, Mckinney and Collins",Technology,Mid-Market,Mid-Market,United Kingdom,Europe,Organic Search,Professional,Monthly,199.00,1990.00,1430.30,10,0,2198,Low Value
+CMP_000265,Tran Inc,Healthcare,Mid-Market,Mid-Market,Canada,North America,Referral,Professional,Monthly,199.00,2388.00,1716.36,12,0,772,Low Value
+CMP_000266,Gay Inc,Technology,Startup,SMB,Canada,North America,Google Ads,Starter,Monthly,49.00,539.00,247.83,11,0,1986,Low Value
+CMP_000269,Hicks-Hill,Finance,Small Business,SMB,Singapore,Asia-Pacific,Referral,Professional,Monthly,199.00,0,0,0,1,252,Low Value
+CMP_000274,Hoover-Campbell,Finance,Startup,SMB,Chile,Latin America,Partner,Business,Annual,5389.20,64670.40,62430.24,12,0,1846,High Value
+CMP_000275,Monroe-Carpenter,Manufacturing,Startup,Mid-Market,Canada,North America,Organic Search,Starter,Monthly,49.00,490.00,225.30,10,0,2057,Low Value
+CMP_000276,"Burns, Hernandez and Ryan",Retail,Startup,SMB,Canada,North America,Partner,Business,Annual,5389.20,64670.40,62430.24,12,0,1948,High Value
+CMP_000277,Cook-Hines,Finance,Mid-Market,SMB,Australia,Asia-Pacific,Google Ads,Starter,Monthly,49.00,588.00,270.36,12,0,1187,Low Value
+CMP_000280,"Reyes, Chase and Jenkins",Finance,Startup,Mid-Market,Chile,Latin America,Google Ads,Professional,Monthly,199.00,2388.00,1716.36,12,0,1777,Low Value
+CMP_000282,Hughes-Alvarado,Healthcare,Mid-Market,SMB,Tanzania,Africa,LinkedIn Ads,Business,Monthly,499.00,4990.00,4590.30,10,0,1336,Medium Value
+CMP_000283,"Pollard, Simpson and Johnson",Retail,Startup,SMB,Kenya,Africa,Organic Search,Professional,Monthly,199.00,2189.00,1573.33,11,0,1298,Low Value
+CMP_000284,"Sanford, Rivera and Garcia",Finance,Small Business,Mid-Market,Germany,Europe,Organic Search,Starter,Annual,529.20,6350.40,5859.84,12,0,1871,Medium Value
+CMP_000286,Bowen Group,Manufacturing,Enterprise,Mid-Market,United States,North America,Google Ads,Business,Monthly,499.00,5489.00,5049.33,11,0,767,Medium Value
+CMP_000287,"Booker, Jones and Harrington",Manufacturing,Startup,Enterprise,Canada,North America,LinkedIn Ads,Business,Monthly,499.00,4990.00,4590.30,10,0,1574,Medium Value
+CMP_000288,Morgan-Schwartz,Healthcare,Small Business,SMB,France,Europe,Content Marketing,Professional,Monthly,199.00,1990.00,1430.30,10,0,1837,Low Value
+CMP_000290,"James, Stewart and Higgins",Manufacturing,Startup,SMB,Germany,Europe,LinkedIn Ads,Business,Annual,5389.20,53892.00,52025.20,10,0,1980,High Value
+CMP_000291,Brennan-Johnson,Healthcare,Mid-Market,SMB,Japan,Asia-Pacific,Organic Search,Starter,Monthly,49.00,588.00,270.36,12,0,1515,Low Value
+CMP_000292,Young Ltd,Healthcare,Startup,SMB,Japan,Asia-Pacific,Email Marketing,Professional,Monthly,199.00,1791.00,1287.27,9,0,494,Low Value
+CMP_000293,Bright-Francis,Retail,Small Business,SMB,Australia,Asia-Pacific,Organic Search,Business,Monthly,499.00,5988.00,5508.36,12,0,700,Medium Value
+CMP_000294,Good-Hodges,Retail,Small Business,SMB,Brazil,Latin America,Email Marketing,Enterprise,Monthly,1500.00,16500.00,14355.00,11,0,667,High Value
+CMP_000295,"Brennan, Wallace and Benson",Finance,Startup,SMB,Canada,North America,Content Marketing,Business,Monthly,499.00,4990.00,4590.30,10,0,1003,Medium Value
+CMP_000296,Williams Inc,Technology,Startup,Enterprise,Tanzania,Africa,Organic Search,Professional,Monthly,199.00,2189.00,1573.33,11,0,1518,Low Value
+CMP_000297,Howard-Jordan,Professional Services,Startup,SMB,Mexico,North America,Organic Search,Professional,Monthly,199.00,1990.00,1430.30,10,0,2235,Low Value
+CMP_000299,"Sparks, Jackson and Miller",Technology,Enterprise,Mid-Market,India,Asia-Pacific,LinkedIn Ads,Starter,Monthly,49.00,490.00,225.30,10,0,2088,Low Value
+CMP_000304,Jones LLC,Education,Enterprise,SMB,Singapore,Asia-Pacific,Google Ads,Professional,Monthly,199.00,0,0,0,1,318,Low Value
+CMP_000308,Armstrong-Andrews,Technology,Small Business,SMB,Japan,Asia-Pacific,Partner,Starter,Monthly,49.00,588.00,270.36,12,0,564,Low Value
+CMP_000311,"Beltran, Lozano and Mcgee",Technology,Small Business,SMB,Kenya,Africa,Referral,Professional,Monthly,199.00,0,0,0,1,111,Low Value
+CMP_000312,Parsons-Hall,Retail,Startup,SMB,Germany,Europe,Referral,Business,Monthly,499.00,5988.00,5508.36,12,0,1181,Medium Value
+CMP_000313,Robinson-Lee,Finance,Small Business,SMB,Tanzania,Africa,Google Ads,Starter,Monthly,49.00,539.00,247.83,11,0,1823,Low Value
+CMP_000314,Byrd-Le,Healthcare,Startup,Mid-Market,Kenya,Africa,Partner,Starter,Monthly,49.00,588.00,270.36,12,0,2154,Low Value
+CMP_000315,"Becker, Taylor and Davis",Retail,Small Business,SMB,India,Asia-Pacific,Referral,Business,Monthly,499.00,5489.00,5049.33,11,0,2222,Medium Value
+CMP_000316,"Lucas, Parker and Alexander",Education,Enterprise,SMB,Mexico,North America,LinkedIn Ads,Professional,Monthly,199.00,1990.00,1430.30,10,0,2295,Low Value
+CMP_000318,Burgess-Thompson,Manufacturing,Startup,SMB,Singapore,Asia-Pacific,LinkedIn Ads,Business,Annual,5389.20,48502.80,46822.68,9,0,1461,High Value
+CMP_000319,Buchanan LLC,Professional Services,Mid-Market,SMB,Mexico,North America,Organic Search,Business,Monthly,499.00,5988.00,5508.36,12,0,1315,Medium Value
+CMP_000320,"Shaw, Nelson and Martin",Finance,Mid-Market,Mid-Market,Germany,Europe,Organic Search,Business,Monthly,499.00,5489.00,5049.33,11,0,969,Medium Value
+CMP_000323,Taylor and Sons,Technology,Mid-Market,SMB,Germany,Europe,Referral,Starter,Monthly,49.00,49.00,22.53,1,1,327,Low Value
+CMP_000324,"Ramsey, Whitney and Coffey",Healthcare,Mid-Market,SMB,India,Asia-Pacific,Organic Search,Starter,Monthly,49.00,490.00,225.30,10,0,564,Low Value
+CMP_000325,"Diaz, Gibbs and Smith",Professional Services,Small Business,Enterprise,France,Europe,Organic Search,Business,Monthly,499.00,0,0,0,1,150,Low Value
+CMP_000327,Richards-Carson,Healthcare,Startup,SMB,Spain,Europe,Organic Search,Starter,Monthly,49.00,588.00,270.36,12,0,1357,Low Value
+CMP_000330,Herman-Walker,Finance,Startup,SMB,Nigeria,Africa,Organic Search,Professional,Monthly,199.00,2189.00,1573.33,11,0,2187,Low Value
+CMP_000331,Reid Group,Finance,Small Business,SMB,Singapore,Asia-Pacific,Organic Search,Starter,Monthly,49.00,539.00,247.83,11,0,1043,Low Value
+CMP_000332,"Turner, Ortiz and Taylor",Professional Services,Mid-Market,SMB,Germany,Europe,Google Ads,Starter,Monthly,49.00,588.00,270.36,12,0,1854,Low Value
+CMP_000333,Torres Group,Education,Small Business,SMB,Australia,Asia-Pacific,Content Marketing,Professional,Annual,2149.20,23641.20,22381.92,11,0,928,High Value
+CMP_000334,Davis PLC,Retail,Mid-Market,SMB,Mexico,North America,LinkedIn Ads,Business,Monthly,499.00,4990.00,4590.30,10,0,1014,Medium Value
+CMP_000335,Price LLC,Professional Services,Small Business,SMB,Tanzania,Africa,Organic Search,Starter,Monthly,49.00,539.00,247.83,11,0,1743,Low Value
+CMP_000336,"Avery, Horton and Fernandez",Technology,Small Business,SMB,Australia,Asia-Pacific,Organic Search,Professional,Monthly,199.00,2189.00,1573.33,11,0,1818,Low Value
+CMP_000337,"Newton, Moore and Perry",Retail,Small Business,Mid-Market,Japan,Asia-Pacific,Google Ads,Professional,Monthly,199.00,0,0,0,1,145,Low Value
+CMP_000338,Bass PLC,Finance,Small Business,SMB,Argentina,Latin America,Organic Search,Enterprise,Monthly,1500.00,15000.00,13050.00,10,0,1951,High Value
+CMP_000339,Crosby-Ramirez,Professional Services,Startup,Enterprise,Japan,Asia-Pacific,Organic Search,Business,Monthly,499.00,5988.00,5508.36,12,0,1294,Medium Value
+CMP_000340,"Wood, Ramos and Sampson",Manufacturing,Small Business,SMB,Australia,Asia-Pacific,Google Ads,Enterprise,Monthly,1500.00,16500.00,14355.00,11,0,1919,High Value
+CMP_000341,Garcia-Jennings,Manufacturing,Small Business,Enterprise,Argentina,Latin America,Google Ads,Starter,Annual,529.20,6350.40,5859.84,12,0,1707,Medium Value
+CMP_000342,"Winters, Newman and Brown",Healthcare,Enterprise,Enterprise,Mexico,North America,Referral,Starter,Monthly,49.00,588.00,270.36,12,0,727,Low Value
+CMP_000343,Lopez-Martinez,Finance,Mid-Market,Mid-Market,Australia,Asia-Pacific,Organic Search,Starter,Monthly,49.00,490.00,225.30,10,0,2098,Low Value
+CMP_000345,"Harper, Smith and Buchanan",Retail,Startup,SMB,Nigeria,Africa,Partner,Professional,Monthly,199.00,1990.00,1430.30,10,0,1868,Low Value
+CMP_000346,Zhang PLC,Education,Mid-Market,SMB,Australia,Asia-Pacific,Organic Search,Business,Annual,5389.20,0,0,0,1,192,Low Value
+CMP_000348,Willis and Sons,Finance,Enterprise,SMB,Japan,Asia-Pacific,Organic Search,Enterprise,Annual,16200.00,162000.00,155640.00,10,0,1885,High Value
+CMP_000349,Schroeder-Kramer,Technology,Small Business,SMB,Mexico,North America,Referral,Starter,Annual,529.20,0,0,0,1,54,Low Value
+CMP_000350,"Smith, Garrison and Thomas",Retail,Small Business,SMB,Chile,Latin America,Organic Search,Professional,Monthly,199.00,2189.00,1573.33,11,0,695,Low Value
+CMP_000351,Fernandez and Sons,Education,Enterprise,SMB,South Africa,Africa,Partner,Starter,Monthly,49.00,539.00,247.83,11,0,1488,Low Value
+CMP_000352,Guerrero Inc,Healthcare,Enterprise,SMB,Chile,Latin America,LinkedIn Ads,Professional,Monthly,199.00,1990.00,1430.30,10,0,1010,Low Value
+CMP_000353,Smith and Sons,Finance,Mid-Market,SMB,Kenya,Africa,Google Ads,Enterprise,Monthly,1500.00,15000.00,13050.00,10,0,789,High Value
+CMP_000354,"Morris, Thompson and Williams",Technology,Mid-Market,Enterprise,Mexico,North America,Google Ads,Business,Monthly,499.00,4990.00,4590.30,10,0,731,Medium Value
+CMP_000357,Hayes and Sons,Technology,Small Business,SMB,Australia,Asia-Pacific,LinkedIn Ads,Starter,Monthly,49.00,539.00,247.83,11,0,1956,Low Value
+CMP_000358,"Williams, Logan and Camacho",Technology,Enterprise,Mid-Market,Nigeria,Africa,Referral,Professional,Monthly,199.00,2189.00,1573.33,11,0,651,Low Value
+CMP_000360,Boone-Simmons,Retail,Small Business,SMB,Australia,Asia-Pacific,Organic Search,Professional,Monthly,199.00,2189.00,1573.33,11,0,1301,Low Value
+CMP_000361,Henry Group,Professional Services,Small Business,Mid-Market,Argentina,Latin America,Content Marketing,Professional,Annual,2149.20,25790.40,24416.64,12,0,1252,High Value
+CMP_000363,"Hernandez, Martinez and Weber",Professional Services,Small Business,Mid-Market,Germany,Europe,Referral,Starter,Monthly,49.00,490.00,225.30,10,0,862,Low Value
+CMP_000364,"Kelley, Nguyen and Vang",Healthcare,Small Business,SMB,Australia,Asia-Pacific,Email Marketing,Business,Monthly,499.00,4990.00,4590.30,10,0,1947,Medium Value
+CMP_000365,"Phillips, Wagner and Jordan",Finance,Small Business,SMB,Brazil,Latin America,Google Ads,Business,Annual,5389.20,0,0,0,1,159,Low Value
+CMP_000366,"Wilson, Pena and Rich",Retail,Enterprise,SMB,Kenya,Africa,LinkedIn Ads,Business,Annual,5389.20,59281.20,57227.72,11,0,727,High Value
+CMP_000367,"Le, Lewis and Hayes",Retail,Small Business,SMB,United Kingdom,Europe,LinkedIn Ads,Professional,Annual,2149.20,25790.40,24416.64,12,0,1653,High Value
+CMP_000369,Perry-Davis,Manufacturing,Small Business,SMB,France,Europe,Google Ads,Professional,Monthly,199.00,2388.00,1716.36,12,0,982,Low Value
+CMP_000370,Edwards-Scott,Healthcare,Mid-Market,SMB,Spain,Europe,Content Marketing,Starter,Monthly,49.00,539.00,247.83,11,0,1297,Low Value
+CMP_000373,Reynolds Ltd,Healthcare,Mid-Market,Enterprise,Chile,Latin America,Referral,Starter,Monthly,49.00,539.00,247.83,11,0,1438,Low Value
+CMP_000374,"Watson, Anderson and Brown",Technology,Startup,SMB,Canada,North America,Referral,Professional,Monthly,199.00,199.00,143.03,1,1,78,Low Value
+CMP_000375,"Hoffman, Santiago and Jenkins",Retail,Mid-Market,SMB,Japan,Asia-Pacific,Organic Search,Starter,Monthly,49.00,0,0,0,1,287,Low Value
+CMP_000376,"Pugh, Henderson and Moon",Education,Startup,SMB,Australia,Asia-Pacific,Google Ads,Professional,Monthly,199.00,1990.00,1430.30,10,0,588,Low Value
+CMP_000377,Schmitt PLC,Retail,Mid-Market,SMB,Australia,Asia-Pacific,LinkedIn Ads,Starter,Monthly,49.00,588.00,270.36,12,0,1162,Low Value
+CMP_000380,Boone LLC,Finance,Small Business,SMB,United Kingdom,Europe,Organic Search,Starter,Monthly,49.00,0,0,0,1,262,Low Value
+CMP_000381,"Richardson, Farmer and Andrews",Manufacturing,Small Business,SMB,Brazil,Latin America,Referral,Starter,Monthly,49.00,294.00,135.18,6,1,232,Low Value
+CMP_000383,"Austin, Day and Johnson",Manufacturing,Startup,SMB,Canada,North America,Organic Search,Professional,Monthly,199.00,2388.00,1716.36,12,0,1629,Low Value
+CMP_000384,"Gallegos, Adams and White",Technology,Small Business,SMB,Singapore,Asia-Pacific,Content Marketing,Professional,Monthly,199.00,2388.00,1716.36,12,0,1791,Low Value
+CMP_000385,"Farmer, Dorsey and Bell",Retail,Small Business,SMB,Kenya,Africa,Organic Search,Starter,Monthly,49.00,490.00,225.30,10,0,1468,Low Value
+CMP_000386,Kane PLC,Retail,Small Business,SMB,United States,North America,Organic Search,Professional,Monthly,199.00,2388.00,1716.36,12,0,878,Low Value
+CMP_000387,"Morales, Thomas and Schultz",Technology,Startup,Enterprise,Argentina,Latin America,Organic Search,Business,Monthly,499.00,5489.00,5049.33,11,0,2297,Medium Value
+CMP_000388,Davis PLC,Healthcare,Startup,SMB,Tanzania,Africa,Google Ads,Starter,Monthly,49.00,392.00,180.24,8,0,720,Low Value
+CMP_000390,Moore-Collins,Finance,Small Business,Enterprise,South Africa,Africa,LinkedIn Ads,Professional,Monthly,199.00,2388.00,1716.36,12,0,2300,Low Value
+CMP_000393,Webster Inc,Manufacturing,Mid-Market,SMB,Brazil,Latin America,LinkedIn Ads,Professional,Annual,2149.20,23641.20,22381.92,11,0,1290,High Value
+CMP_000394,"Miller, Ramos and Coleman",Manufacturing,Small Business,SMB,Canada,North America,LinkedIn Ads,Starter,Monthly,49.00,539.00,247.83,11,0,1198,Low Value
+CMP_000395,"Ramos, Nelson and Fischer",Finance,Small Business,Enterprise,France,Europe,Content Marketing,Professional,Monthly,199.00,1990.00,1430.30,10,0,1551,Low Value
+CMP_000396,Reed Inc,Education,Startup,Mid-Market,Canada,North America,Referral,Professional,Monthly,199.00,1592.00,1144.24,8,0,2269,Low Value
+CMP_000397,Gregory-Watkins,Education,Small Business,Mid-Market,France,Europe,Organic Search,Starter,Monthly,49.00,392.00,180.24,8,0,780,Low Value
+CMP_000398,"Estrada, Williams and Foster",Education,Startup,Mid-Market,Nigeria,Africa,Content Marketing,Starter,Monthly,49.00,539.00,247.83,11,0,1413,Low Value
+CMP_000399,"Brown, Harris and Dougherty",Technology,Mid-Market,SMB,India,Asia-Pacific,Google Ads,Professional,Annual,2149.20,0,0,0,1,177,Low Value
+CMP_000400,Duran LLC,Technology,Mid-Market,SMB,Tanzania,Africa,LinkedIn Ads,Professional,Monthly,199.00,2189.00,1573.33,11,0,1885,Low Value
+CMP_000401,Wilson-Jimenez,Education,Mid-Market,SMB,Germany,Europe,Google Ads,Enterprise,Monthly,1500.00,12000.00,10440.00,8,0,524,High Value
+CMP_000402,Thompson-James,Manufacturing,Small Business,Enterprise,Kenya,Africa,Organic Search,Starter,Monthly,49.00,0,0,0,1,349,Low Value
+CMP_000404,Jones-Hensley,Retail,Enterprise,SMB,India,Asia-Pacific,LinkedIn Ads,Professional,Monthly,199.00,1990.00,1430.30,10,0,540,Low Value
+CMP_000406,Atkins PLC,Healthcare,Startup,Enterprise,Japan,Asia-Pacific,Organic Search,Starter,Monthly,49.00,539.00,247.83,11,0,942,Low Value
+CMP_000408,Roberts-Sullivan,Education,Startup,Mid-Market,United States,North America,Partner,Starter,Monthly,49.00,539.00,247.83,11,0,1207,Low Value
+CMP_000410,Collier-Gillespie,Finance,Startup,SMB,Canada,North America,Organic Search,Professional,Monthly,199.00,2189.00,1573.33,11,0,611,Low Value
+CMP_000411,Kim Inc,Technology,Startup,Mid-Market,Canada,North America,Referral,Business,Monthly,499.00,5988.00,5508.36,12,0,1985,Medium Value
+CMP_000412,Graham Group,Education,Mid-Market,SMB,South Africa,Africa,Organic Search,Professional,Monthly,199.00,1990.00,1430.30,10,0,2161,Low Value
+CMP_000413,"Miller, Harrell and Reese",Technology,Mid-Market,SMB,Spain,Europe,Google Ads,Starter,Annual,529.20,5292.00,4883.20,10,0,720,Medium Value
+CMP_000414,Cook and Sons,Finance,Startup,SMB,Kenya,Africa,Email Marketing,Starter,Annual,529.20,5821.20,5371.52,11,0,1304,Medium Value
+CMP_000415,Dixon Inc,Education,Mid-Market,SMB,Tanzania,Africa,Partner,Starter,Annual,529.20,5821.20,5371.52,11,0,772,Medium Value
+CMP_000418,Thomas and Sons,Education,Startup,SMB,Tanzania,Africa,Organic Search,Professional,Monthly,199.00,1990.00,1430.30,10,0,1305,Low Value
+CMP_000419,Morrison Ltd,Healthcare,Mid-Market,SMB,Brazil,Latin America,Partner,Professional,Monthly,199.00,2189.00,1573.33,11,0,2052,Low Value
+CMP_000420,Thompson Ltd,Education,Startup,SMB,Canada,North America,Google Ads,Starter,Annual,529.20,5292.00,4883.20,10,0,2246,Medium Value
+CMP_000421,Marshall-Elliott,Healthcare,Mid-Market,Mid-Market,Nigeria,Africa,Google Ads,Starter,Monthly,49.00,0,0,0,1,261,Low Value
+CMP_000424,Hernandez-Jones,Retail,Enterprise,SMB,Kenya,Africa,LinkedIn Ads,Professional,Monthly,199.00,0,0,0,1,73,Low Value
+CMP_000425,Welch-Hogan,Healthcare,Enterprise,SMB,Tanzania,Africa,Google Ads,Starter,Annual,529.20,6350.40,5859.84,12,0,823,Medium Value
+CMP_000426,"Brown, Romero and Collins",Retail,Mid-Market,SMB,France,Europe,Content Marketing,Starter,Monthly,49.00,539.00,247.83,11,0,2142,Low Value
+CMP_000428,Jones-Lin,Education,Mid-Market,SMB,Germany,Europe,Google Ads,Business,Monthly,499.00,5988.00,5508.36,12,0,1022,Medium Value
+CMP_000429,Gilbert PLC,Education,Startup,SMB,United States,North America,Google Ads,Starter,Monthly,49.00,0,0,0,1,37,Low Value
+CMP_000431,"Huang, Cole and Pacheco",Technology,Small Business,SMB,Chile,Latin America,Content Marketing,Professional,Monthly,199.00,1990.00,1430.30,10,0,1493,Low Value
+CMP_000432,"Lopez, Jacobs and Mason",Finance,Small Business,SMB,India,Asia-Pacific,LinkedIn Ads,Enterprise,Monthly,1500.00,16500.00,14355.00,11,0,1479,High Value
+CMP_000434,"Miller, Lucas and Williams",Finance,Enterprise,SMB,Australia,Asia-Pacific,Organic Search,Starter,Monthly,49.00,441.00,202.77,9,0,538,Low Value
+CMP_000435,"Kim, Gonzales and Mills",Technology,Startup,SMB,Spain,Europe,Google Ads,Starter,Monthly,49.00,0,0,0,1,240,Low Value
+CMP_000439,Davis-Gregory,Technology,Enterprise,Enterprise,Tanzania,Africa,Partner,Starter,Annual,529.20,5821.20,5371.52,11,0,1383,Medium Value
+CMP_000441,"Marks, Cook and Aguilar",Healthcare,Startup,Enterprise,India,Asia-Pacific,LinkedIn Ads,Starter,Monthly,49.00,490.00,225.30,10,0,1339,Low Value
+CMP_000442,Rangel LLC,Healthcare,Startup,Enterprise,Australia,Asia-Pacific,Google Ads,Professional,Annual,2149.20,21492.00,20347.20,10,0,2140,High Value
+CMP_000443,"Hale, Myers and Larson",Retail,Small Business,Enterprise,United States,North America,LinkedIn Ads,Professional,Monthly,199.00,2189.00,1573.33,11,0,2117,Low Value
+CMP_000446,"Osborn, Gaines and Davis",Technology,Small Business,SMB,Nigeria,Africa,Organic Search,Starter,Annual,529.20,6350.40,5859.84,12,0,601,Medium Value
+CMP_000447,"Henderson, Cox and Cox",Professional Services,Small Business,SMB,Germany,Europe,Referral,Starter,Annual,529.20,5292.00,4883.20,10,0,2045,Medium Value
+CMP_000448,Bean LLC,Professional Services,Enterprise,Mid-Market,Tanzania,Africa,Email Marketing,Business,Annual,5389.20,59281.20,57227.72,11,0,677,High Value
+CMP_000449,Lee-Cooke,Retail,Startup,SMB,Canada,North America,Email Marketing,Professional,Monthly,199.00,0,0,0,1,113,Low Value
+CMP_000450,Jones Inc,Retail,Small Business,Enterprise,Singapore,Asia-Pacific,Email Marketing,Starter,Monthly,49.00,0,0,0,1,304,Low Value
+CMP_000451,"Wise, Conley and Stephenson",Finance,Mid-Market,SMB,Tanzania,Africa,Referral,Enterprise,Monthly,1500.00,16500.00,14355.00,11,0,1781,High Value
+CMP_000453,Harper and Sons,Technology,Mid-Market,SMB,France,Europe,LinkedIn Ads,Starter,Monthly,49.00,539.00,247.83,11,0,1551,Low Value
+CMP_000454,White Ltd,Technology,Small Business,Mid-Market,Canada,North America,Organic Search,Starter,Monthly,49.00,588.00,270.36,12,0,863,Low Value
+CMP_000455,"Lamb, Martin and Kim",Professional Services,Startup,Mid-Market,Kenya,Africa,Google Ads,Starter,Monthly,49.00,49.00,22.53,1,1,187,Low Value
+CMP_000456,Diaz-Ball,Finance,Startup,SMB,United States,North America,Email Marketing,Business,Monthly,499.00,4990.00,4590.30,10,0,2021,Medium Value
+CMP_000457,Bishop-Goodwin,Technology,Startup,Enterprise,India,Asia-Pacific,Organic Search,Starter,Monthly,49.00,0,0,0,1,37,Low Value
+CMP_000458,Young-Allen,Education,Startup,Enterprise,Germany,Europe,Organic Search,Starter,Monthly,49.00,539.00,247.83,11,0,1555,Low Value
+CMP_000459,Mckee-Lee,Retail,Small Business,SMB,Argentina,Latin America,LinkedIn Ads,Business,Monthly,499.00,5988.00,5508.36,12,0,1939,Medium Value
+CMP_000460,"Valentine, Joyce and Murray",Healthcare,Mid-Market,Enterprise,Singapore,Asia-Pacific,Content Marketing,Starter,Monthly,49.00,588.00,270.36,12,0,1536,Low Value
+CMP_000462,Burch-Montoya,Technology,Small Business,SMB,South Africa,Africa,Google Ads,Professional,Monthly,199.00,0,0,0,1,165,Low Value
+CMP_000463,"Taylor, Wright and Davidson",Manufacturing,Mid-Market,SMB,Singapore,Asia-Pacific,Referral,Professional,Monthly,199.00,2189.00,1573.33,11,0,1843,Low Value
+CMP_000464,Spencer-Garcia,Manufacturing,Small Business,SMB,France,Europe,Organic Search,Professional,Monthly,199.00,2388.00,1716.36,12,0,1454,Low Value
+CMP_000465,"Rosales, Mitchell and Hines",Healthcare,Small Business,SMB,United Kingdom,Europe,LinkedIn Ads,Professional,Monthly,199.00,2388.00,1716.36,12,0,1721,Low Value
+CMP_000466,Cole-Palmer,Technology,Enterprise,SMB,Mexico,North America,Google Ads,Starter,Monthly,49.00,588.00,270.36,12,0,2130,Low Value
+CMP_000467,Davis-Lozano,Manufacturing,Startup,SMB,Germany,Europe,Google Ads,Professional,Monthly,199.00,2189.00,1573.33,11,0,812,Low Value
+CMP_000471,Walker-Flores,Technology,Startup,SMB,Kenya,Africa,Google Ads,Professional,Monthly,199.00,1990.00,1430.30,10,0,1575,Low Value
+CMP_000472,Combs Ltd,Retail,Startup,Mid-Market,United States,North America,Partner,Starter,Monthly,49.00,588.00,270.36,12,0,1593,Low Value
+CMP_000476,Gilbert-Bullock,Education,Small Business,Enterprise,South Africa,Africa,LinkedIn Ads,Professional,Annual,2149.20,25790.40,24416.64,12,0,819,High Value
+CMP_000480,Barnes PLC,Technology,Mid-Market,SMB,Singapore,Asia-Pacific,Google Ads,Professional,Monthly,199.00,2189.00,1573.33,11,0,741,Low Value
+CMP_000482,Carlson-Smith,Technology,Startup,Enterprise,Tanzania,Africa,Content Marketing,Business,Monthly,499.00,5988.00,5508.36,12,0,1150,Medium Value
+CMP_000483,"Andrews, Higgins and Carter",Technology,Startup,SMB,Brazil,Latin America,Organic Search,Professional,Monthly,199.00,2189.00,1573.33,11,0,985,Low Value
+CMP_000484,Mendez and Sons,Retail,Startup,Mid-Market,Tanzania,Africa,Google Ads,Professional,Annual,2149.20,23641.20,22381.92,11,0,997,High Value
+CMP_000485,"Butler, Beck and Miller",Finance,Small Business,SMB,Germany,Europe,Organic Search,Professional,Monthly,199.00,1194.00,858.18,6,1,185,Low Value
+CMP_000487,"Hartman, Romero and Smith",Professional Services,Enterprise,SMB,Canada,North America,LinkedIn Ads,Business,Monthly,499.00,5988.00,5508.36,12,0,2276,Medium Value
+CMP_000488,Williams-Hughes,Professional Services,Startup,SMB,Kenya,Africa,Referral,Starter,Monthly,49.00,441.00,202.77,9,0,573,Low Value
+CMP_000489,King-Smith,Healthcare,Startup,SMB,Singapore,Asia-Pacific,LinkedIn Ads,Professional,Monthly,199.00,2189.00,1573.33,11,0,760,Low Value
+CMP_000490,Cooper Ltd,Retail,Startup,SMB,Australia,Asia-Pacific,Organic Search,Business,Annual,5389.20,64670.40,62430.24,12,0,2107,High Value
+CMP_000492,Anderson-Bell,Education,Small Business,SMB,Australia,Asia-Pacific,LinkedIn Ads,Professional,Monthly,199.00,1791.00,1287.27,9,0,968,Low Value
+CMP_000493,Li-Thompson,Finance,Startup,SMB,Singapore,Asia-Pacific,Organic Search,Business,Monthly,499.00,4990.00,4590.30,10,0,1209,Medium Value
+CMP_000494,"Marshall, Dominguez and Welch",Retail,Startup,Enterprise,Argentina,Latin America,Organic Search,Business,Annual,5389.20,59281.20,57227.72,11,0,1682,High Value
+CMP_000496,Carter Inc,Technology,Mid-Market,SMB,United Kingdom,Europe,Referral,Starter,Monthly,49.00,588.00,270.36,12,0,2200,Low Value
+CMP_000497,Blackwell LLC,Technology,Startup,SMB,Germany,Europe,Organic Search,Starter,Monthly,49.00,490.00,225.30,10,0,1012,Low Value
+CMP_000498,Robertson-Hays,Finance,Mid-Market,SMB,Australia,Asia-Pacific,LinkedIn Ads,Business,Monthly,499.00,5988.00,5508.36,12,0,2265,Medium Value
+CMP_000500,Kelly-Norman,Technology,Small Business,SMB,India,Asia-Pacific,Organic Search,Starter,Monthly,49.00,490.00,225.30,10,0,1998,Low Value
+CMP_000501,"Rivera, Martinez and Richardson",Finance,Mid-Market,SMB,Nigeria,Africa,Referral,Business,Monthly,499.00,4990.00,4590.30,10,0,677,Medium Value
+CMP_000502,Paul-Kline,Healthcare,Mid-Market,SMB,Chile,Latin America,LinkedIn Ads,Starter,Monthly,49.00,490.00,225.30,10,0,1768,Low Value
+CMP_000503,Morgan-Lopez,Healthcare,Small Business,SMB,Chile,Latin America,Email Marketing,Professional,Monthly,199.00,2388.00,1716.36,12,0,1681,Low Value
+CMP_000504,"Jimenez, Glass and Stone",Healthcare,Enterprise,SMB,United States,North America,LinkedIn Ads,Professional,Monthly,199.00,2388.00,1716.36,12,0,1527,Low Value
+CMP_000506,Morrison-Short,Retail,Mid-Market,SMB,South Africa,Africa,LinkedIn Ads,Business,Monthly,499.00,5988.00,5508.36,12,0,718,Medium Value
+CMP_000507,"Carter, Garcia and Murphy",Technology,Mid-Market,SMB,Germany,Europe,Google Ads,Professional,Monthly,199.00,0,0,0,1,111,Low Value
+CMP_000508,Parker-Morrison,Retail,Small Business,SMB,Mexico,North America,Organic Search,Professional,Monthly,199.00,2189.00,1573.33,11,0,1167,Low Value
+CMP_000509,Jackson-Wallace,Finance,Small Business,SMB,Kenya,Africa,Organic Search,Starter,Monthly,49.00,539.00,247.83,11,0,1681,Low Value
+CMP_000510,Williams-Berg,Technology,Small Business,Mid-Market,France,Europe,Partner,Business,Monthly,499.00,5988.00,5508.36,12,0,1336,Medium Value
+CMP_000511,Mendez-Graham,Technology,Enterprise,SMB,Argentina,Latin America,LinkedIn Ads,Professional,Annual,2149.20,21492.00,20347.20,10,0,2291,High Value
+CMP_000513,"Sullivan, Palmer and Brady",Technology,Startup,Enterprise,Spain,Europe,Organic Search,Enterprise,Annual,16200.00,194400.00,186768.00,12,0,1775,High Value
+CMP_000514,Cisneros and Sons,Technology,Mid-Market,SMB,Australia,Asia-Pacific,Partner,Professional,Monthly,199.00,1990.00,1430.30,10,0,1490,Low Value
+CMP_000517,Reyes-Bradley,Healthcare,Small Business,Mid-Market,Germany,Europe,Content Marketing,Starter,Monthly,49.00,539.00,247.83,11,0,1369,Low Value
+CMP_000518,"Hernandez, Cole and Watson",Technology,Startup,SMB,South Africa,Africa,Organic Search,Starter,Annual,529.20,5821.20,5371.52,11,0,1601,Medium Value
+CMP_000521,Johnson and Sons,Manufacturing,Small Business,SMB,Spain,Europe,Organic Search,Business,Monthly,499.00,5988.00,5508.36,12,0,2082,Medium Value
+CMP_000522,Holmes-Mcintyre,Technology,Small Business,SMB,Spain,Europe,Google Ads,Starter,Annual,529.20,5821.20,5371.52,11,0,840,Medium Value
+CMP_000523,Green LLC,Education,Enterprise,Mid-Market,Mexico,North America,Referral,Professional,Monthly,199.00,1990.00,1430.30,10,0,574,Low Value
+CMP_000524,"Griffin, Davies and Mitchell",Retail,Small Business,SMB,Australia,Asia-Pacific,Google Ads,Professional,Annual,2149.20,19342.80,18312.48,9,0,1702,High Value
+CMP_000526,Hayes Ltd,Finance,Small Business,Mid-Market,India,Asia-Pacific,Google Ads,Professional,Monthly,199.00,1990.00,1430.30,10,0,1384,Low Value
+CMP_000527,Osborn-Cochran,Technology,Small Business,Mid-Market,Japan,Asia-Pacific,Content Marketing,Professional,Monthly,199.00,2189.00,1573.33,11,0,2117,Low Value
+CMP_000531,Hicks-Martinez,Professional Services,Small Business,Mid-Market,Canada,North America,Partner,Professional,Monthly,199.00,1990.00,1430.30,10,0,1952,Low Value
+CMP_000533,Johnson-Spencer,Healthcare,Small Business,Mid-Market,Spain,Europe,Organic Search,Business,Monthly,499.00,5988.00,5508.36,12,0,2285,Medium Value
+CMP_000534,Mcdonald-Bird,Retail,Startup,SMB,Mexico,North America,Organic Search,Starter,Monthly,49.00,490.00,225.30,10,0,1566,Low Value
+CMP_000535,Salazar Inc,Finance,Mid-Market,Mid-Market,Brazil,Latin America,LinkedIn Ads,Starter,Monthly,49.00,0,0,0,1,345,Low Value
+CMP_000537,"Mendoza, Jenkins and Ortiz",Technology,Small Business,Enterprise,Kenya,Africa,LinkedIn Ads,Starter,Monthly,49.00,588.00,270.36,12,0,1000,Low Value
+CMP_000540,Humphrey PLC,Technology,Small Business,SMB,Germany,Europe,Referral,Professional,Annual,2149.20,23641.20,22381.92,11,0,1145,High Value
+CMP_000541,"Matthews, Saunders and Anderson",Finance,Enterprise,Mid-Market,Japan,Asia-Pacific,Partner,Professional,Monthly,199.00,1791.00,1287.27,9,0,2154,Low Value
+CMP_000543,Torres and Sons,Retail,Mid-Market,Mid-Market,Japan,Asia-Pacific,Google Ads,Professional,Monthly,199.00,2388.00,1716.36,12,0,661,Low Value
+CMP_000545,"Jacobson, Singleton and King",Retail,Startup,SMB,Singapore,Asia-Pacific,Email Marketing,Professional,Monthly,199.00,2388.00,1716.36,12,0,1348,Low Value
+CMP_000548,"Moore, Hopkins and Le",Technology,Startup,Enterprise,South Africa,Africa,Referral,Professional,Monthly,199.00,1791.00,1287.27,9,0,653,Low Value
+CMP_000549,"Morgan, Bradshaw and Williams",Finance,Startup,Enterprise,Germany,Europe,Google Ads,Starter,Monthly,49.00,539.00,247.83,11,0,2001,Low Value
+CMP_000554,Ballard Ltd,Finance,Small Business,SMB,United States,North America,Referral,Professional,Annual,2149.20,25790.40,24416.64,12,0,1451,High Value
+CMP_000555,Evans-Jones,Retail,Small Business,SMB,Chile,Latin America,Referral,Starter,Monthly,49.00,539.00,247.83,11,0,1656,Low Value
+CMP_000557,Marshall-Peterson,Finance,Small Business,Enterprise,Canada,North America,Referral,Starter,Annual,529.20,5292.00,4883.20,10,0,1386,Medium Value
+CMP_000558,Edwards Ltd,Retail,Startup,Enterprise,Japan,Asia-Pacific,LinkedIn Ads,Starter,Monthly,49.00,539.00,247.83,11,0,1460,Low Value
+CMP_000559,Gross-Valencia,Retail,Mid-Market,SMB,Nigeria,Africa,Organic Search,Professional,Annual,2149.20,0,0,0,1,246,Low Value
+CMP_000560,Anderson-Wood,Retail,Small Business,SMB,Australia,Asia-Pacific,Email Marketing,Starter,Monthly,49.00,0,0,0,1,108,Low Value
+CMP_000562,Wright-Davis,Healthcare,Startup,Enterprise,Chile,Latin America,Partner,Enterprise,Monthly,1500.00,15000.00,13050.00,10,0,935,High Value
+CMP_000563,Dougherty-Lin,Healthcare,Startup,SMB,Singapore,Asia-Pacific,Organic Search,Starter,Monthly,49.00,441.00,202.77,9,0,905,Low Value
+CMP_000564,Wright-Grimes,Technology,Small Business,SMB,Japan,Asia-Pacific,Email Marketing,Starter,Monthly,49.00,0,0,0,1,350,Low Value
+CMP_000566,"Edwards, Hines and Jimenez",Healthcare,Startup,Enterprise,Tanzania,Africa,Organic Search,Professional,Monthly,199.00,0,0,0,1,337,Low Value
+CMP_000567,"Owens, Koch and Jimenez",Healthcare,Mid-Market,SMB,India,Asia-Pacific,Organic Search,Professional,Monthly,199.00,2388.00,1716.36,12,0,2266,Low Value
+CMP_000568,Landry PLC,Retail,Mid-Market,SMB,Mexico,North America,LinkedIn Ads,Starter,Monthly,49.00,539.00,247.83,11,0,2081,Low Value
+CMP_000569,Levy-Lewis,Technology,Startup,Mid-Market,Singapore,Asia-Pacific,Google Ads,Business,Annual,5389.20,59281.20,57227.72,11,0,1460,High Value
+CMP_000572,"Smith, Rodriguez and Anderson",Education,Enterprise,SMB,Australia,Asia-Pacific,LinkedIn Ads,Enterprise,Annual,16200.00,162000.00,155640.00,10,0,601,High Value
+CMP_000573,Luna-Gallagher,Finance,Small Business,Mid-Market,Nigeria,Africa,Google Ads,Starter,Annual,529.20,5821.20,5371.52,11,0,1264,Medium Value
+CMP_000575,"Lee, Tran and Jones",Manufacturing,Small Business,Mid-Market,Germany,Europe,LinkedIn Ads,Business,Annual,5389.20,37724.40,36417.64,7,1,276,High Value
+CMP_000578,Brooks-Hatfield,Healthcare,Mid-Market,SMB,Brazil,Latin America,Content Marketing,Starter,Monthly,49.00,588.00,270.36,12,0,1610,Low Value
+CMP_000579,"Mcmillan, Fischer and Gonzalez",Retail,Mid-Market,Mid-Market,Australia,Asia-Pacific,Organic Search,Starter,Monthly,49.00,588.00,270.36,12,0,1214,Low Value
+CMP_000580,"Morales, Williams and Williams",Healthcare,Small Business,SMB,Argentina,Latin America,LinkedIn Ads,Starter,Monthly,49.00,539.00,247.83,11,0,1777,Low Value
+CMP_000581,"Cook, Wells and Bryant",Manufacturing,Mid-Market,SMB,Argentina,Latin America,Partner,Business,Annual,5389.20,53892.00,52025.20,10,0,1428,High Value
+CMP_000583,Martin-Ewing,Professional Services,Mid-Market,SMB,Nigeria,Africa,Organic Search,Business,Monthly,499.00,5489.00,5049.33,11,0,802,Medium Value
+CMP_000584,"Kirby, Wheeler and Romero",Retail,Mid-Market,SMB,Tanzania,Africa,Referral,Starter,Monthly,49.00,490.00,225.30,10,0,1701,Low Value
+CMP_000589,"Soto, Carlson and Baker",Healthcare,Mid-Market,SMB,Kenya,Africa,Partner,Business,Monthly,499.00,5988.00,5508.36,12,0,1465,Medium Value
+CMP_000590,"Patton, Parsons and Lane",Technology,Small Business,Mid-Market,Tanzania,Africa,Partner,Enterprise,Monthly,1500.00,16500.00,14355.00,11,0,1952,High Value
+CMP_000592,"Harvey, Randall and Hernandez",Healthcare,Startup,SMB,Kenya,Africa,Organic Search,Professional,Annual,2149.20,0,0,0,1,391,Low Value
+CMP_000593,"Allen, Armstrong and Graves",Retail,Startup,SMB,Germany,Europe,Referral,Starter,Monthly,49.00,539.00,247.83,11,0,886,Low Value
+CMP_000594,Smith LLC,Healthcare,Enterprise,SMB,Australia,Asia-Pacific,LinkedIn Ads,Starter,Monthly,49.00,0,0,0,1,218,Low Value
+CMP_000596,Shaw-Carr,Technology,Enterprise,SMB,Australia,Asia-Pacific,Email Marketing,Business,Monthly,499.00,5489.00,5049.33,11,0,824,Medium Value
+CMP_000597,Salas-Fitzgerald,Technology,Mid-Market,SMB,Canada,North America,Google Ads,Starter,Monthly,49.00,490.00,225.30,10,0,1796,Low Value
+CMP_000599,Hoffman Ltd,Healthcare,Startup,Enterprise,Australia,Asia-Pacific,Partner,Starter,Monthly,49.00,588.00,270.36,12,0,1882,Low Value
+CMP_000600,Fox-Edwards,Retail,Small Business,SMB,Germany,Europe,Content Marketing,Professional,Monthly,199.00,2189.00,1573.33,11,0,885,Low Value
+CMP_000601,Stevens PLC,Healthcare,Small Business,SMB,Kenya,Africa,Organic Search,Professional,Monthly,199.00,2189.00,1573.33,11,0,879,Low Value
+CMP_000604,Lee-Wright,Technology,Startup,SMB,Japan,Asia-Pacific,LinkedIn Ads,Professional,Monthly,199.00,1990.00,1430.30,10,0,1636,Low Value
+CMP_000605,"Evans, David and Hendrix",Retail,Mid-Market,SMB,India,Asia-Pacific,Google Ads,Professional,Monthly,199.00,2388.00,1716.36,12,0,1804,Low Value
+CMP_000606,Bush-Vaughn,Manufacturing,Startup,SMB,France,Europe,LinkedIn Ads,Professional,Monthly,199.00,2388.00,1716.36,12,0,1458,Low Value
+CMP_000608,"Hill, Martinez and Rhodes",Manufacturing,Mid-Market,Mid-Market,Australia,Asia-Pacific,LinkedIn Ads,Starter,Monthly,49.00,539.00,247.83,11,0,861,Low Value
+CMP_000611,Williams-Moses,Manufacturing,Mid-Market,SMB,South Africa,Africa,Google Ads,Business,Monthly,499.00,5988.00,5508.36,12,0,1685,Medium Value
+CMP_000612,Reed Group,Technology,Small Business,SMB,United Kingdom,Europe,Partner,Business,Monthly,499.00,5489.00,5049.33,11,0,1900,Medium Value
+CMP_000613,"Scott, Mendoza and Harris",Retail,Startup,SMB,Mexico,North America,LinkedIn Ads,Business,Monthly,499.00,4491.00,4131.27,9,0,533,Medium Value
+CMP_000615,Gilbert PLC,Finance,Small Business,SMB,Kenya,Africa,Referral,Business,Monthly,499.00,5489.00,5049.33,11,0,952,Medium Value
+CMP_000617,"Perez, Hall and Garcia",Technology,Small Business,SMB,Nigeria,Africa,Organic Search,Professional,Annual,2149.20,21492.00,20347.20,10,0,2258,High Value
+CMP_000619,Smith PLC,Healthcare,Small Business,SMB,Germany,Europe,Referral,Business,Monthly,499.00,5988.00,5508.36,12,0,574,Medium Value
+CMP_000622,Morris-Brewer,Technology,Small Business,SMB,Singapore,Asia-Pacific,Google Ads,Professional,Annual,2149.20,23641.20,22381.92,11,0,1512,High Value
+CMP_000623,Pearson and Sons,Healthcare,Startup,Mid-Market,Argentina,Latin America,Google Ads,Starter,Monthly,49.00,539.00,247.83,11,0,2217,Low Value
+CMP_000624,"Rodgers, Jefferson and Johnson",Retail,Startup,Enterprise,United Kingdom,Europe,Organic Search,Professional,Monthly,199.00,1791.00,1287.27,9,0,1306,Low Value
+CMP_000625,Butler and Sons,Healthcare,Mid-Market,SMB,United Kingdom,Europe,LinkedIn Ads,Professional,Monthly,199.00,1990.00,1430.30,10,0,1128,Low Value
+CMP_000627,Lopez-Curry,Healthcare,Startup,SMB,United States,North America,Content Marketing,Starter,Monthly,49.00,539.00,247.83,11,0,1058,Low Value
+CMP_000628,Mcdowell-Smith,Finance,Mid-Market,SMB,Brazil,Latin America,Email Marketing,Enterprise,Monthly,1500.00,16500.00,14355.00,11,0,959,High Value
+CMP_000630,Hays-Daniels,Finance,Small Business,Enterprise,Chile,Latin America,Partner,Starter,Monthly,49.00,588.00,270.36,12,0,734,Low Value
+CMP_000631,Small-Anderson,Education,Small Business,SMB,Mexico,North America,Partner,Professional,Monthly,199.00,2388.00,1716.36,12,0,961,Low Value
+CMP_000632,"Mcdonald, Lee and Rodriguez",Retail,Startup,SMB,Kenya,Africa,Organic Search,Starter,Monthly,49.00,0,0,0,1,113,Low Value
+CMP_000633,Simon Ltd,Technology,Mid-Market,Enterprise,India,Asia-Pacific,Google Ads,Professional,Monthly,199.00,2189.00,1573.33,11,0,1347,Low Value
+CMP_000634,Higgins-Smith,Finance,Startup,Mid-Market,Brazil,Latin America,Referral,Starter,Monthly,49.00,490.00,225.30,10,0,2102,Low Value
+CMP_000635,Gibbs-Bradley,Healthcare,Startup,SMB,Canada,North America,Google Ads,Professional,Annual,2149.20,23641.20,22381.92,11,0,1373,High Value
+CMP_000638,Morales Inc,Professional Services,Startup,SMB,Nigeria,Africa,Google Ads,Starter,Monthly,49.00,539.00,247.83,11,0,720,Low Value
+CMP_000640,Boyle-Smith,Healthcare,Small Business,SMB,United Kingdom,Europe,LinkedIn Ads,Professional,Monthly,199.00,1990.00,1430.30,10,0,2154,Low Value
+CMP_000641,Young-Molina,Healthcare,Small Business,SMB,Argentina,Latin America,Organic Search,Professional,Monthly,199.00,0,0,0,1,277,Low Value
+CMP_000642,Turner-Sharp,Healthcare,Mid-Market,SMB,South Africa,Africa,Email Marketing,Professional,Monthly,199.00,2189.00,1573.33,11,0,1820,Low Value
+CMP_000644,"Young, Contreras and Marshall",Finance,Startup,SMB,Germany,Europe,Referral,Starter,Monthly,49.00,539.00,247.83,11,0,644,Low Value
+CMP_000645,Sullivan PLC,Healthcare,Startup,Enterprise,Singapore,Asia-Pacific,Organic Search,Starter,Monthly,49.00,441.00,202.77,9,0,1719,Low Value
+CMP_000649,"Zhang, Brooks and Miles",Manufacturing,Startup,Mid-Market,Singapore,Asia-Pacific,Email Marketing,Starter,Monthly,49.00,588.00,270.36,12,0,1743,Low Value
+CMP_000650,Todd-Pham,Education,Small Business,SMB,Tanzania,Africa,Organic Search,Business,Monthly,499.00,5988.00,5508.36,12,0,960,Medium Value
+CMP_000652,"Marks, Miller and Griffin",Education,Startup,SMB,Singapore,Asia-Pacific,Google Ads,Business,Annual,5389.20,59281.20,57227.72,11,0,1889,High Value
+CMP_000653,"Cox, Stark and Rodriguez",Technology,Small Business,Mid-Market,Nigeria,Africa,Organic Search,Starter,Monthly,49.00,588.00,270.36,12,0,1060,Low Value
+CMP_000654,"Leach, Harris and Herrera",Technology,Startup,Mid-Market,Canada,North America,Organic Search,Starter,Monthly,49.00,539.00,247.83,11,0,2177,Low Value
+CMP_000655,Murphy PLC,Finance,Startup,SMB,Spain,Europe,Referral,Professional,Monthly,199.00,2388.00,1716.36,12,0,579,Low Value
+CMP_000656,Wilson-Harris,Retail,Small Business,SMB,Chile,Latin America,Organic Search,Starter,Annual,529.20,4762.80,4394.88,9,0,874,Medium Value
+CMP_000658,Chavez PLC,Finance,Mid-Market,SMB,United Kingdom,Europe,Partner,Business,Monthly,499.00,5988.00,5508.36,12,0,2036,Medium Value
+CMP_000661,Foster Inc,Retail,Small Business,SMB,Nigeria,Africa,Organic Search,Business,Monthly,499.00,0,0,0,1,365,Low Value
+CMP_000662,"Robinson, Jones and Henderson",Professional Services,Mid-Market,SMB,Kenya,Africa,Organic Search,Starter,Monthly,49.00,441.00,202.77,9,0,791,Low Value
+CMP_000664,Andersen Group,Healthcare,Startup,Mid-Market,Chile,Latin America,Organic Search,Professional,Monthly,199.00,2388.00,1716.36,12,0,1535,Low Value
+CMP_000665,Mitchell and Sons,Technology,Small Business,Mid-Market,Australia,Asia-Pacific,Email Marketing,Professional,Monthly,199.00,1990.00,1430.30,10,0,707,Low Value
+CMP_000666,Cannon Ltd,Retail,Mid-Market,SMB,Japan,Asia-Pacific,Referral,Business,Monthly,499.00,5988.00,5508.36,12,0,1855,Medium Value
+CMP_000668,Kane-Knox,Finance,Mid-Market,Enterprise,South Africa,Africa,LinkedIn Ads,Starter,Monthly,49.00,539.00,247.83,11,0,2262,Low Value
+CMP_000669,Miller-Brandt,Healthcare,Small Business,Mid-Market,Mexico,North America,LinkedIn Ads,Starter,Monthly,49.00,490.00,225.30,10,0,668,Low Value
+CMP_000670,"Anderson, Dalton and Wilson",Education,Small Business,SMB,Spain,Europe,LinkedIn Ads,Business,Monthly,499.00,0,0,0,1,383,Low Value
+CMP_000672,Avila LLC,Retail,Mid-Market,SMB,Nigeria,Africa,Organic Search,Professional,Monthly,199.00,2388.00,1716.36,12,0,1471,Low Value
+CMP_000674,"Gray, Hall and Murray",Professional Services,Small Business,SMB,India,Asia-Pacific,Organic Search,Starter,Monthly,49.00,588.00,270.36,12,0,1924,Low Value
+CMP_000675,Hill Ltd,Technology,Small Business,SMB,United States,North America,Google Ads,Business,Monthly,499.00,5489.00,5049.33,11,0,1070,Medium Value
+CMP_000681,Morales and Sons,Retail,Enterprise,SMB,South Africa,Africa,Google Ads,Business,Monthly,499.00,4990.00,4590.30,10,0,1603,Medium Value
+CMP_000683,"Holder, Young and Hendricks",Finance,Small Business,Mid-Market,Singapore,Asia-Pacific,Organic Search,Professional,Monthly,199.00,2189.00,1573.33,11,0,2006,Low Value
+CMP_000684,"Flores, Harper and Chambers",Healthcare,Small Business,SMB,Brazil,Latin America,Content Marketing,Starter,Monthly,49.00,0,0,0,1,145,Low Value
+CMP_000685,Young-Walter,Healthcare,Startup,Mid-Market,Spain,Europe,Organic Search,Starter,Monthly,49.00,539.00,247.83,11,0,792,Low Value
+CMP_000686,"Boyd, Gutierrez and Hill",Retail,Mid-Market,SMB,India,Asia-Pacific,Google Ads,Starter,Monthly,49.00,490.00,225.30,10,0,1582,Low Value
+CMP_000690,"Flores, Butler and Hernandez",Retail,Startup,Enterprise,Brazil,Latin America,Google Ads,Starter,Monthly,49.00,539.00,247.83,11,0,1719,Low Value
+CMP_000691,White-Medina,Technology,Small Business,SMB,Singapore,Asia-Pacific,LinkedIn Ads,Starter,Monthly,49.00,539.00,247.83,11,0,550,Low Value
+CMP_000693,"Thomas, Ford and Brown",Manufacturing,Startup,SMB,Tanzania,Africa,Google Ads,Starter,Monthly,49.00,441.00,202.77,9,0,2192,Low Value
+CMP_000694,Faulkner-Grant,Retail,Enterprise,SMB,Germany,Europe,Organic Search,Starter,Monthly,49.00,588.00,270.36,12,0,1576,Low Value
+CMP_000696,Rivera Inc,Manufacturing,Startup,SMB,Argentina,Latin America,Organic Search,Professional,Monthly,199.00,2189.00,1573.33,11,0,2115,Low Value
+CMP_000697,Boone-Davis,Manufacturing,Mid-Market,Mid-Market,Spain,Europe,Google Ads,Starter,Annual,529.20,5821.20,5371.52,11,0,1024,Medium Value
+CMP_000698,"Calderon, Williams and Bennett",Healthcare,Small Business,SMB,South Africa,Africa,Organic Search,Starter,Monthly,49.00,490.00,225.30,10,0,1955,Low Value
+CMP_000699,"Morrison, Russo and Lopez",Retail,Small Business,Mid-Market,Japan,Asia-Pacific,Email Marketing,Professional,Monthly,199.00,1990.00,1430.30,10,0,1422,Low Value
+CMP_000700,"Ramsey, Hansen and Mendoza",Manufacturing,Startup,SMB,Nigeria,Africa,Organic Search,Starter,Monthly,49.00,588.00,270.36,12,0,1133,Low Value
+CMP_000703,Burgess Group,Retail,Small Business,SMB,Chile,Latin America,Content Marketing,Enterprise,Monthly,1500.00,13500.00,11745.00,9,0,619,High Value
+CMP_000704,Dominguez Ltd,Finance,Startup,SMB,India,Asia-Pacific,Email Marketing,Starter,Annual,529.20,4762.80,4394.88,9,0,1393,Medium Value
+CMP_000707,"Howard, Green and Hunt",Finance,Enterprise,SMB,Tanzania,Africa,LinkedIn Ads,Starter,Monthly,49.00,588.00,270.36,12,0,1180,Low Value
+CMP_000709,"Harrison, Franco and Rocha",Finance,Small Business,SMB,Chile,Latin America,Partner,Professional,Monthly,199.00,2388.00,1716.36,12,0,1835,Low Value
+CMP_000712,Tran-Silva,Technology,Small Business,SMB,Nigeria,Africa,Google Ads,Professional,Monthly,199.00,2388.00,1716.36,12,0,1718,Low Value
+CMP_000713,"Butler, Hernandez and Rivera",Retail,Mid-Market,Enterprise,Japan,Asia-Pacific,Organic Search,Business,Monthly,499.00,4491.00,4131.27,9,0,2260,Medium Value
+CMP_000714,Hudson-Sanchez,Technology,Small Business,SMB,Argentina,Latin America,Google Ads,Business,Monthly,499.00,4990.00,4590.30,10,0,1419,Medium Value
+CMP_000715,"Pena, Cohen and Scott",Retail,Small Business,SMB,Brazil,Latin America,LinkedIn Ads,Professional,Monthly,199.00,0,0,0,1,48,Low Value
+CMP_000717,Murray-Oconnor,Healthcare,Mid-Market,SMB,Argentina,Latin America,Organic Search,Starter,Annual,529.20,5292.00,4883.20,10,0,2171,Medium Value
+CMP_000718,Jackson-Cortez,Finance,Startup,SMB,Australia,Asia-Pacific,Google Ads,Professional,Monthly,199.00,1990.00,1430.30,10,0,2252,Low Value
+CMP_000719,White-Preston,Technology,Startup,SMB,Argentina,Latin America,Content Marketing,Business,Monthly,499.00,5988.00,5508.36,12,0,1437,Medium Value
+CMP_000720,"Bernard, Warren and Combs",Healthcare,Startup,SMB,Tanzania,Africa,LinkedIn Ads,Professional,Monthly,199.00,1990.00,1430.30,10,0,600,Low Value
+CMP_000723,Kirby and Sons,Healthcare,Startup,SMB,Japan,Asia-Pacific,Organic Search,Starter,Monthly,49.00,490.00,225.30,10,0,540,Low Value
+CMP_000724,Mann Inc,Technology,Startup,SMB,Nigeria,Africa,LinkedIn Ads,Business,Monthly,499.00,5489.00,5049.33,11,0,1508,Medium Value
+CMP_000726,Williamson Ltd,Retail,Small Business,Mid-Market,Kenya,Africa,Google Ads,Enterprise,Monthly,1500.00,0,0,0,1,55,Low Value
+CMP_000727,"Durham, Hopkins and Smith",Technology,Startup,Mid-Market,South Africa,Africa,LinkedIn Ads,Professional,Monthly,199.00,2388.00,1716.36,12,0,621,Low Value
+CMP_000731,Rodriguez Inc,Professional Services,Small Business,Enterprise,Tanzania,Africa,Google Ads,Business,Monthly,499.00,0,0,0,1,102,Low Value
+CMP_000732,"Hernandez, Lee and Fox",Healthcare,Startup,SMB,Singapore,Asia-Pacific,Email Marketing,Business,Annual,5389.20,64670.40,62430.24,12,0,1653,High Value
+CMP_000733,Adams-Sanders,Education,Small Business,SMB,South Africa,Africa,Organic Search,Starter,Monthly,49.00,490.00,225.30,10,0,2051,Low Value
+CMP_000734,Chung-Stevens,Professional Services,Mid-Market,Mid-Market,Chile,Latin America,Partner,Starter,Monthly,49.00,490.00,225.30,10,0,2176,Low Value
+CMP_000736,Sutton-Abbott,Manufacturing,Startup,SMB,Argentina,Latin America,LinkedIn Ads,Professional,Annual,2149.20,25790.40,24416.64,12,0,626,High Value
+CMP_000737,"Frey, Santos and Johnson",Manufacturing,Mid-Market,Mid-Market,Kenya,Africa,Organic Search,Starter,Monthly,49.00,490.00,225.30,10,0,2203,Low Value
+CMP_000738,Gray-Tran,Retail,Startup,SMB,United Kingdom,Europe,Google Ads,Professional,Monthly,199.00,1990.00,1430.30,10,0,1208,Low Value
+CMP_000739,Walsh Ltd,Technology,Small Business,SMB,Nigeria,Africa,Referral,Enterprise,Monthly,1500.00,18000.00,15660.00,12,0,1010,High Value
+CMP_000741,"Mueller, Knight and Hodge",Retail,Small Business,SMB,Nigeria,Africa,Content Marketing,Professional,Monthly,199.00,2189.00,1573.33,11,0,539,Low Value
+CMP_000743,Lewis Ltd,Retail,Startup,SMB,Mexico,North America,Partner,Enterprise,Monthly,1500.00,15000.00,13050.00,10,0,2116,High Value
+CMP_000745,Lam-Elliott,Finance,Mid-Market,SMB,Germany,Europe,Email Marketing,Professional,Annual,2149.20,23641.20,22381.92,11,0,1816,High Value
+CMP_000746,White LLC,Technology,Small Business,SMB,Kenya,Africa,Content Marketing,Business,Monthly,499.00,0,0,0,1,361,Low Value
+CMP_000748,Goodwin Ltd,Manufacturing,Small Business,SMB,Canada,North America,Organic Search,Business,Monthly,499.00,4990.00,4590.30,10,0,954,Medium Value
+CMP_000752,"Ramsey, Mason and Mccann",Healthcare,Small Business,SMB,India,Asia-Pacific,Content Marketing,Professional,Annual,2149.20,23641.20,22381.92,11,0,2074,High Value
+CMP_000753,Davis and Sons,Professional Services,Mid-Market,Mid-Market,United States,North America,Organic Search,Professional,Monthly,199.00,2189.00,1573.33,11,0,1423,Low Value
+CMP_000754,Peterson PLC,Education,Enterprise,SMB,Tanzania,Africa,Organic Search,Professional,Monthly,199.00,0,0,0,1,214,Low Value
+CMP_000755,"Sanders, Ayala and Johnson",Technology,Mid-Market,Mid-Market,United Kingdom,Europe,Organic Search,Business,Monthly,499.00,2495.00,2295.15,5,1,219,Low Value
+CMP_000756,Bowers-Hayes,Technology,Startup,Mid-Market,Tanzania,Africa,Google Ads,Starter,Monthly,49.00,588.00,270.36,12,0,2358,Low Value
+CMP_000757,Kelly Group,Finance,Mid-Market,SMB,Canada,North America,Partner,Starter,Monthly,49.00,392.00,180.24,8,0,1699,Low Value
+CMP_000758,Lopez-Willis,Finance,Enterprise,SMB,Germany,Europe,Email Marketing,Professional,Monthly,199.00,0,0,0,1,140,Low Value
+CMP_000759,Miller-Montgomery,Professional Services,Mid-Market,SMB,South Africa,Africa,Referral,Professional,Monthly,199.00,1990.00,1430.30,10,0,1870,Low Value
+CMP_000762,"Moore, Price and Ward",Professional Services,Small Business,SMB,Nigeria,Africa,Organic Search,Professional,Monthly,199.00,1990.00,1430.30,10,0,1117,Low Value
+CMP_000763,Smith LLC,Education,Enterprise,SMB,Mexico,North America,Referral,Professional,Monthly,199.00,0,0,0,1,342,Low Value
+CMP_000765,Miller Group,Technology,Enterprise,SMB,Japan,Asia-Pacific,Content Marketing,Starter,Monthly,49.00,588.00,270.36,12,0,2317,Low Value
+CMP_000767,Johnson LLC,Technology,Startup,SMB,Chile,Latin America,Google Ads,Business,Monthly,499.00,5988.00,5508.36,12,0,1121,Medium Value
+CMP_000768,"Davis, George and Nguyen",Finance,Small Business,Mid-Market,Australia,Asia-Pacific,Organic Search,Business,Monthly,499.00,4990.00,4590.30,10,0,1134,Medium Value
+CMP_000769,Smith-Gutierrez,Retail,Startup,SMB,Argentina,Latin America,Organic Search,Starter,Monthly,49.00,539.00,247.83,11,0,1419,Low Value
+CMP_000770,Hardy PLC,Technology,Enterprise,SMB,United States,North America,Google Ads,Starter,Monthly,49.00,0,0,0,1,35,Low Value
+CMP_000771,Armstrong and Sons,Technology,Startup,SMB,United States,North America,Content Marketing,Business,Annual,5389.20,5389.20,5202.52,1,1,193,Medium Value
+CMP_000772,"James, Taylor and Turner",Finance,Small Business,SMB,Mexico,North America,LinkedIn Ads,Professional,Monthly,199.00,2189.00,1573.33,11,0,2204,Low Value
+CMP_000773,Thomas-Jackson,Technology,Startup,Enterprise,Tanzania,Africa,Content Marketing,Starter,Monthly,49.00,441.00,202.77,9,0,1007,Low Value
+CMP_000774,Fisher-Washington,Professional Services,Mid-Market,SMB,Singapore,Asia-Pacific,Referral,Starter,Monthly,49.00,0,0,0,1,316,Low Value
+CMP_000776,"Weber, Wheeler and Gonzalez",Healthcare,Small Business,SMB,Kenya,Africa,Referral,Professional,Monthly,199.00,2388.00,1716.36,12,0,1713,Low Value
+CMP_000777,Taylor Inc,Technology,Small Business,SMB,South Africa,Africa,Google Ads,Starter,Monthly,49.00,588.00,270.36,12,0,2353,Low Value
+CMP_000778,Cook-Oliver,Technology,Small Business,SMB,France,Europe,LinkedIn Ads,Professional,Monthly,199.00,1791.00,1287.27,9,0,2224,Low Value
+CMP_000779,Alexander-Jordan,Healthcare,Startup,SMB,United States,North America,LinkedIn Ads,Starter,Monthly,49.00,490.00,225.30,10,0,1183,Low Value
+CMP_000780,"Mccann, Taylor and Flores",Technology,Enterprise,SMB,Australia,Asia-Pacific,LinkedIn Ads,Business,Monthly,499.00,3992.00,3672.24,8,0,1312,Medium Value
+CMP_000782,Carter-Neal,Manufacturing,Small Business,SMB,Kenya,Africa,Organic Search,Professional,Monthly,199.00,1990.00,1430.30,10,0,1282,Low Value
+CMP_000783,Faulkner-Casey,Healthcare,Mid-Market,SMB,India,Asia-Pacific,Email Marketing,Starter,Monthly,49.00,539.00,247.83,11,0,1735,Low Value
+CMP_000785,Diaz-Frederick,Professional Services,Small Business,SMB,Kenya,Africa,Google Ads,Starter,Annual,529.20,6350.40,5859.84,12,0,1545,Medium Value
+CMP_000786,Vargas PLC,Healthcare,Small Business,SMB,Mexico,North America,Referral,Starter,Monthly,49.00,539.00,247.83,11,0,1757,Low Value
+CMP_000788,Benton Group,Technology,Small Business,SMB,United Kingdom,Europe,LinkedIn Ads,Professional,Monthly,199.00,1791.00,1287.27,9,0,1816,Low Value
+CMP_000789,"Clark, Salinas and Guerra",Retail,Startup,Mid-Market,United States,North America,LinkedIn Ads,Starter,Monthly,49.00,588.00,270.36,12,0,2091,Low Value
+CMP_000790,Fuentes Group,Education,Small Business,SMB,Canada,North America,Email Marketing,Starter,Monthly,49.00,490.00,225.30,10,0,1879,Low Value
+CMP_000791,"Porter, Schultz and Allen",Finance,Small Business,Mid-Market,Canada,North America,LinkedIn Ads,Starter,Annual,529.20,6350.40,5859.84,12,0,700,Medium Value
+CMP_000792,"Moore, Henderson and Bennett",Retail,Small Business,SMB,South Africa,Africa,Organic Search,Starter,Monthly,49.00,539.00,247.83,11,0,2216,Low Value
+CMP_000793,Ewing-Mendoza,Healthcare,Small Business,SMB,Chile,Latin America,Referral,Business,Monthly,499.00,4990.00,4590.30,10,0,598,Medium Value
+CMP_000794,Ferguson-Mclean,Retail,Mid-Market,Mid-Market,Canada,North America,Email Marketing,Professional,Annual,2149.20,25790.40,24416.64,12,0,1024,High Value
+CMP_000795,"Barnes, Johnson and Schmitt",Professional Services,Small Business,SMB,Japan,Asia-Pacific,Organic Search,Professional,Monthly,199.00,0,0,0,1,175,Low Value
+CMP_000798,"Ortega, Jackson and Salazar",Technology,Startup,SMB,India,Asia-Pacific,LinkedIn Ads,Starter,Monthly,49.00,490.00,225.30,10,0,1109,Low Value
+CMP_000799,"Terrell, Byrd and Ross",Education,Enterprise,Mid-Market,United Kingdom,Europe,Google Ads,Professional,Annual,2149.20,25790.40,24416.64,12,0,613,High Value
+CMP_000802,"Burgess, Grant and Watts",Technology,Startup,Mid-Market,Brazil,Latin America,Organic Search,Business,Monthly,499.00,5489.00,5049.33,11,0,1065,Medium Value
+CMP_000803,Griffin Group,Finance,Small Business,SMB,Nigeria,Africa,LinkedIn Ads,Starter,Monthly,49.00,588.00,270.36,12,0,1879,Low Value
+CMP_000805,"Hernandez, Cuevas and Webb",Healthcare,Enterprise,Enterprise,Brazil,Latin America,LinkedIn Ads,Starter,Monthly,49.00,588.00,270.36,12,1,393,Low Value
+CMP_000806,Perry-Nixon,Healthcare,Mid-Market,SMB,United Kingdom,Europe,Organic Search,Professional,Monthly,199.00,2388.00,1716.36,12,0,2133,Low Value
+CMP_000807,Guerra Ltd,Finance,Startup,Enterprise,Tanzania,Africa,LinkedIn Ads,Professional,Monthly,199.00,0,0,0,1,137,Low Value
+CMP_000809,Mueller-Boyd,Technology,Small Business,SMB,Spain,Europe,Organic Search,Business,Monthly,499.00,4990.00,4590.30,10,0,2060,Medium Value
+CMP_000811,"Chavez, Jones and Williams",Manufacturing,Startup,SMB,Brazil,Latin America,Google Ads,Business,Monthly,499.00,4491.00,4131.27,9,0,764,Medium Value
+CMP_000812,"Wilson, Sweeney and Wong",Technology,Small Business,Enterprise,South Africa,Africa,Content Marketing,Professional,Annual,2149.20,21492.00,20347.20,10,0,1124,High Value
+CMP_000813,"Marsh, Spears and Yang",Healthcare,Small Business,Mid-Market,Nigeria,Africa,Referral,Business,Monthly,499.00,0,0,0,1,262,Low Value
+CMP_000814,"Thompson, Moore and Castro",Healthcare,Enterprise,SMB,France,Europe,LinkedIn Ads,Business,Monthly,499.00,4990.00,4590.30,10,0,2194,Medium Value
+CMP_000815,Hall-Sullivan,Technology,Startup,SMB,Brazil,Latin America,Organic Search,Professional,Annual,2149.20,25790.40,24416.64,12,0,1392,High Value
+CMP_000816,Lopez Ltd,Professional Services,Mid-Market,SMB,France,Europe,Content Marketing,Professional,Monthly,199.00,2189.00,1573.33,11,0,1655,Low Value
+CMP_000818,Cole Group,Finance,Mid-Market,SMB,Chile,Latin America,Content Marketing,Starter,Monthly,49.00,588.00,270.36,12,0,1158,Low Value
+CMP_000819,Smith-Lewis,Healthcare,Startup,Enterprise,South Africa,Africa,Partner,Starter,Monthly,49.00,0,0,0,1,268,Low Value
+CMP_000820,Goodwin-Stokes,Technology,Mid-Market,SMB,France,Europe,Organic Search,Starter,Monthly,49.00,0,0,0,1,101,Low Value
+CMP_000821,Ray PLC,Professional Services,Small Business,SMB,Nigeria,Africa,Google Ads,Professional,Monthly,199.00,2388.00,1716.36,12,0,1889,Low Value
+CMP_000822,Diaz and Sons,Healthcare,Enterprise,Mid-Market,Nigeria,Africa,Partner,Business,Monthly,499.00,0,0,0,1,130,Low Value
+CMP_000823,Wilson-Lambert,Technology,Small Business,SMB,Mexico,North America,Referral,Business,Monthly,499.00,5489.00,5049.33,11,0,1020,Medium Value
+CMP_000825,"Price, Long and Wilson",Technology,Small Business,SMB,Singapore,Asia-Pacific,Organic Search,Starter,Monthly,49.00,588.00,270.36,12,0,1213,Low Value
+CMP_000826,Bruce-Williamson,Technology,Startup,SMB,Brazil,Latin America,Google Ads,Starter,Monthly,49.00,490.00,225.30,10,0,1802,Low Value
+CMP_000827,"Mccarthy, Evans and Mendez",Professional Services,Enterprise,SMB,Canada,North America,Google Ads,Business,Annual,5389.20,59281.20,57227.72,11,0,1321,High Value
+CMP_000828,Powers LLC,Manufacturing,Small Business,Mid-Market,Canada,North America,Organic Search,Starter,Monthly,49.00,490.00,225.30,10,0,748,Low Value
+CMP_000829,Allen Inc,Education,Small Business,SMB,Singapore,Asia-Pacific,Google Ads,Starter,Monthly,49.00,441.00,202.77,9,0,1266,Low Value
+CMP_000830,Brooks and Sons,Professional Services,Startup,SMB,Mexico,North America,Google Ads,Starter,Monthly,49.00,0,0,0,1,188,Low Value
+CMP_000831,"Price, Carlson and Andrews",Retail,Small Business,SMB,Germany,Europe,Google Ads,Business,Monthly,499.00,5489.00,5049.33,11,0,1153,Medium Value
+CMP_000832,Lopez-Reid,Education,Small Business,SMB,Japan,Asia-Pacific,Organic Search,Professional,Monthly,199.00,2388.00,1716.36,12,0,963,Low Value
+CMP_000834,Burns and Sons,Education,Small Business,Enterprise,Mexico,North America,Google Ads,Business,Annual,5389.20,43113.60,41620.16,8,0,854,High Value
+CMP_000835,Edwards Group,Retail,Startup,Mid-Market,Germany,Europe,LinkedIn Ads,Professional,Monthly,199.00,1990.00,1430.30,10,0,1699,Low Value
+CMP_000836,"Brown, Howard and Smith",Manufacturing,Startup,Mid-Market,Nigeria,Africa,LinkedIn Ads,Enterprise,Annual,16200.00,178200.00,171204.00,11,0,2230,High Value
+CMP_000839,Mckinney-Wallace,Technology,Small Business,Mid-Market,Argentina,Latin America,Organic Search,Starter,Monthly,49.00,490.00,225.30,10,0,976,Low Value
+CMP_000840,Miller Inc,Technology,Small Business,SMB,Japan,Asia-Pacific,Google Ads,Professional,Monthly,199.00,1592.00,1144.24,8,0,927,Low Value
+CMP_000841,Carter LLC,Technology,Enterprise,SMB,France,Europe,Partner,Professional,Annual,2149.20,21492.00,20347.20,10,0,1192,High Value
+CMP_000842,Medina and Sons,Technology,Startup,SMB,Germany,Europe,Content Marketing,Professional,Monthly,199.00,2189.00,1573.33,11,0,696,Low Value
+CMP_000846,Weaver-Sherman,Healthcare,Enterprise,Mid-Market,Mexico,North America,Referral,Professional,Monthly,199.00,2189.00,1573.33,11,0,928,Low Value
+CMP_000847,"Alexander, Robinson and Coleman",Technology,Startup,SMB,Canada,North America,LinkedIn Ads,Professional,Monthly,199.00,2388.00,1716.36,12,0,2266,Low Value
+CMP_000849,Cole LLC,Professional Services,Small Business,SMB,Australia,Asia-Pacific,Referral,Business,Monthly,499.00,0,0,0,1,125,Low Value
+CMP_000852,"Norris, Callahan and Bishop",Manufacturing,Startup,SMB,Singapore,Asia-Pacific,Organic Search,Starter,Monthly,49.00,539.00,247.83,11,0,1155,Low Value
+CMP_000853,Martin-Taylor,Professional Services,Small Business,SMB,United States,North America,Partner,Starter,Annual,529.20,6350.40,5859.84,12,0,2097,Medium Value
+CMP_000854,Li Inc,Healthcare,Small Business,Mid-Market,Argentina,Latin America,LinkedIn Ads,Starter,Annual,529.20,5821.20,5371.52,11,0,545,Medium Value
+CMP_000855,"Bell, Campbell and Ryan",Manufacturing,Startup,SMB,Spain,Europe,LinkedIn Ads,Starter,Annual,529.20,4762.80,4394.88,9,0,1983,Medium Value
+CMP_000856,Werner-Carter,Finance,Small Business,Enterprise,Kenya,Africa,LinkedIn Ads,Starter,Annual,529.20,6350.40,5859.84,12,0,1630,Medium Value
+CMP_000857,"Adams, Hodge and Duke",Retail,Mid-Market,SMB,Tanzania,Africa,Referral,Professional,Monthly,199.00,1791.00,1287.27,9,0,1370,Low Value
+CMP_000858,"Ochoa, Taylor and Brady",Technology,Startup,SMB,Mexico,North America,Referral,Starter,Annual,529.20,5821.20,5371.52,11,0,1026,Medium Value
+CMP_000859,Sellers-Riddle,Retail,Small Business,SMB,Brazil,Latin America,Partner,Business,Monthly,499.00,5489.00,5049.33,11,0,1931,Medium Value
+CMP_000862,Burns-Ray,Technology,Startup,Enterprise,Brazil,Latin America,Google Ads,Starter,Monthly,49.00,588.00,270.36,12,0,1839,Low Value
+CMP_000863,Burton-Brooks,Professional Services,Startup,SMB,Canada,North America,Referral,Business,Annual,5389.20,48502.80,46822.68,9,0,2183,High Value
+CMP_000864,Schultz Inc,Technology,Small Business,Mid-Market,United Kingdom,Europe,Organic Search,Starter,Monthly,49.00,490.00,225.30,10,0,1205,Low Value
+CMP_000865,Robertson-Ramirez,Manufacturing,Small Business,SMB,Mexico,North America,Organic Search,Professional,Monthly,199.00,2189.00,1573.33,11,0,729,Low Value
+CMP_000866,Gibson-Freeman,Technology,Small Business,SMB,Singapore,Asia-Pacific,Google Ads,Starter,Monthly,49.00,539.00,247.83,11,0,1287,Low Value
+CMP_000868,"Stanton, Reid and Terry",Healthcare,Small Business,Enterprise,France,Europe,Email Marketing,Starter,Monthly,49.00,539.00,247.83,11,0,1956,Low Value
+CMP_000870,Donaldson and Sons,Education,Startup,SMB,Kenya,Africa,Organic Search,Professional,Monthly,199.00,2388.00,1716.36,12,0,1977,Low Value
+CMP_000872,Kelley-Anderson,Technology,Mid-Market,Mid-Market,Spain,Europe,Email Marketing,Business,Monthly,499.00,5988.00,5508.36,12,0,2229,Medium Value
+CMP_000874,Williams Ltd,Finance,Small Business,SMB,Singapore,Asia-Pacific,Google Ads,Professional,Monthly,199.00,1990.00,1430.30,10,0,1444,Low Value
+CMP_000875,Smith-Noble,Retail,Small Business,SMB,United Kingdom,Europe,Organic Search,Business,Monthly,499.00,5988.00,5508.36,12,0,1246,Medium Value
+CMP_000876,Alexander Inc,Technology,Small Business,SMB,Spain,Europe,Google Ads,Professional,Monthly,199.00,2189.00,1573.33,11,0,1980,Low Value
+CMP_000879,Baxter LLC,Retail,Small Business,SMB,France,Europe,Organic Search,Enterprise,Monthly,1500.00,16500.00,14355.00,11,0,942,High Value
+CMP_000880,Pena LLC,Finance,Startup,SMB,Tanzania,Africa,Organic Search,Business,Monthly,499.00,0,0,0,1,335,Low Value
+CMP_000881,Watson Ltd,Technology,Startup,SMB,Argentina,Latin America,LinkedIn Ads,Starter,Monthly,49.00,588.00,270.36,12,0,2026,Low Value
+CMP_000882,Williams Ltd,Finance,Startup,SMB,Argentina,Latin America,Content Marketing,Starter,Monthly,49.00,392.00,180.24,8,0,1725,Low Value
+CMP_000883,Barber-Fischer,Technology,Startup,SMB,Canada,North America,Google Ads,Starter,Annual,529.20,5292.00,4883.20,10,0,1922,Medium Value
+CMP_000884,Rios-Padilla,Professional Services,Small Business,SMB,Spain,Europe,LinkedIn Ads,Business,Monthly,499.00,5489.00,5049.33,11,0,2005,Medium Value
+CMP_000885,Lewis Inc,Professional Services,Startup,SMB,India,Asia-Pacific,Content Marketing,Business,Monthly,499.00,5489.00,5049.33,11,0,819,Medium Value
+CMP_000886,Wheeler PLC,Education,Mid-Market,Enterprise,India,Asia-Pacific,Email Marketing,Starter,Monthly,49.00,588.00,270.36,12,0,1115,Low Value
+CMP_000888,Mcneil Group,Finance,Startup,SMB,Singapore,Asia-Pacific,Partner,Professional,Monthly,199.00,2189.00,1573.33,11,0,759,Low Value
+CMP_000889,"Anderson, Jones and Reyes",Technology,Small Business,SMB,Brazil,Latin America,Content Marketing,Business,Monthly,499.00,5489.00,5049.33,11,0,1234,Medium Value
+CMP_000890,"Shaffer, Garcia and Richardson",Healthcare,Enterprise,SMB,France,Europe,Content Marketing,Starter,Monthly,49.00,539.00,247.83,11,0,1379,Low Value
+CMP_000892,May Ltd,Technology,Small Business,SMB,Argentina,Latin America,LinkedIn Ads,Starter,Monthly,49.00,490.00,225.30,10,0,2335,Low Value
+CMP_000893,Jones PLC,Finance,Small Business,SMB,United Kingdom,Europe,Referral,Business,Annual,5389.20,64670.40,62430.24,12,0,1273,High Value
+CMP_000894,Bishop and Sons,Manufacturing,Mid-Market,SMB,Japan,Asia-Pacific,LinkedIn Ads,Starter,Monthly,49.00,0,0,0,1,294,Low Value
+CMP_000898,Goodwin PLC,Finance,Startup,SMB,Argentina,Latin America,Email Marketing,Business,Monthly,499.00,4990.00,4590.30,10,0,1049,Medium Value
+CMP_000899,"Cruz, Richmond and Edwards",Technology,Mid-Market,SMB,France,Europe,LinkedIn Ads,Starter,Monthly,49.00,539.00,247.83,11,0,1037,Low Value
+CMP_000901,Wright PLC,Manufacturing,Enterprise,SMB,Mexico,North America,Organic Search,Starter,Monthly,49.00,588.00,270.36,12,0,1177,Low Value
+CMP_000902,"Griffith, Mitchell and Pugh",Retail,Startup,Mid-Market,Canada,North America,Organic Search,Business,Annual,5389.20,53892.00,52025.20,10,0,699,High Value
+CMP_000903,Abbott Ltd,Technology,Mid-Market,Mid-Market,United States,North America,Google Ads,Professional,Monthly,199.00,2189.00,1573.33,11,0,1053,Low Value
+CMP_000904,Harris-Lawson,Technology,Enterprise,SMB,Brazil,Latin America,Partner,Business,Monthly,499.00,0,0,0,1,308,Low Value
+CMP_000907,Cruz-Allen,Retail,Mid-Market,SMB,India,Asia-Pacific,Google Ads,Starter,Monthly,49.00,490.00,225.30,10,0,1939,Low Value
+CMP_000908,"Wheeler, Rice and Levine",Healthcare,Startup,SMB,Brazil,Latin America,LinkedIn Ads,Business,Monthly,499.00,5988.00,5508.36,12,0,2042,Medium Value
+CMP_000909,Peck-Anderson,Healthcare,Mid-Market,SMB,Germany,Europe,Referral,Enterprise,Monthly,1500.00,16500.00,14355.00,11,0,1890,High Value
+CMP_000910,"Fisher, Payne and Thompson",Finance,Small Business,SMB,Mexico,North America,LinkedIn Ads,Starter,Monthly,49.00,539.00,247.83,11,0,2263,Low Value
+CMP_000912,Matthews Inc,Technology,Startup,SMB,Germany,Europe,Organic Search,Starter,Monthly,49.00,588.00,270.36,12,0,658,Low Value
+CMP_000915,"Wang, Henderson and Morales",Finance,Startup,SMB,United States,North America,Organic Search,Professional,Monthly,199.00,1990.00,1430.30,10,0,1254,Low Value
+CMP_000917,Miller-Mccall,Manufacturing,Small Business,SMB,Kenya,Africa,Organic Search,Professional,Annual,2149.20,21492.00,20347.20,10,0,931,High Value
+CMP_000919,"Walters, Davenport and Becker",Finance,Mid-Market,SMB,South Africa,Africa,Organic Search,Professional,Monthly,199.00,1791.00,1287.27,9,0,1909,Low Value
+CMP_000920,Collins Group,Healthcare,Mid-Market,SMB,Kenya,Africa,Google Ads,Starter,Annual,529.20,6350.40,5859.84,12,0,843,Medium Value
+CMP_000921,"Ashley, Allen and Sanchez",Manufacturing,Startup,SMB,United Kingdom,Europe,Google Ads,Starter,Monthly,49.00,539.00,247.83,11,0,1966,Low Value
+CMP_000922,Wilson-Salazar,Technology,Enterprise,SMB,United Kingdom,Europe,Partner,Professional,Monthly,199.00,2189.00,1573.33,11,0,1033,Low Value
+CMP_000923,Parker Ltd,Technology,Small Business,SMB,Canada,North America,Organic Search,Business,Monthly,499.00,4491.00,4131.27,9,0,1533,Medium Value
+CMP_000925,"Smith, Crawford and Reed",Technology,Startup,Mid-Market,Mexico,North America,Google Ads,Business,Monthly,499.00,5489.00,5049.33,11,0,1930,Medium Value
+CMP_000927,Brady LLC,Technology,Startup,SMB,Tanzania,Africa,Referral,Professional,Monthly,199.00,2189.00,1573.33,11,0,2222,Low Value
+CMP_000929,Nelson-Brown,Retail,Startup,SMB,United Kingdom,Europe,LinkedIn Ads,Professional,Monthly,199.00,398.00,286.06,2,1,270,Low Value
+CMP_000930,"Proctor, Burton and Crawford",Education,Small Business,Mid-Market,Spain,Europe,Google Ads,Starter,Monthly,49.00,490.00,225.30,10,0,1821,Low Value
+CMP_000932,Moore-Ayala,Healthcare,Startup,SMB,Japan,Asia-Pacific,Content Marketing,Business,Monthly,499.00,4491.00,4131.27,9,0,967,Medium Value
+CMP_000933,"Craig, Wilson and Yang",Manufacturing,Small Business,Mid-Market,Tanzania,Africa,Organic Search,Starter,Monthly,49.00,539.00,247.83,11,0,1796,Low Value
+CMP_000934,Williams Inc,Technology,Small Business,Mid-Market,Spain,Europe,Google Ads,Starter,Monthly,49.00,539.00,247.83,11,0,1572,Low Value
+CMP_000935,Williams LLC,Retail,Startup,SMB,France,Europe,Referral,Starter,Monthly,49.00,539.00,247.83,11,0,640,Low Value
+CMP_000937,Tran Ltd,Technology,Enterprise,Mid-Market,United Kingdom,Europe,LinkedIn Ads,Starter,Monthly,49.00,0,0,0,1,122,Low Value
+CMP_000940,Shaw Inc,Finance,Enterprise,SMB,Japan,Asia-Pacific,Content Marketing,Business,Monthly,499.00,4990.00,4590.30,10,0,1929,Medium Value
+CMP_000942,Finley Inc,Manufacturing,Enterprise,Enterprise,Singapore,Asia-Pacific,Organic Search,Starter,Monthly,49.00,490.00,225.30,10,0,1297,Low Value
+CMP_000943,Cline-Ayala,Professional Services,Small Business,SMB,Spain,Europe,LinkedIn Ads,Starter,Monthly,49.00,0,0,0,1,226,Low Value
+CMP_000946,"Mueller, Stevenson and Sanchez",Professional Services,Mid-Market,Mid-Market,Singapore,Asia-Pacific,Referral,Starter,Monthly,49.00,539.00,247.83,11,0,1462,Low Value
+CMP_000947,Vargas-Snyder,Professional Services,Small Business,SMB,Canada,North America,Referral,Starter,Monthly,49.00,539.00,247.83,11,0,636,Low Value
+CMP_000948,Oconnor PLC,Retail,Mid-Market,SMB,Nigeria,Africa,Organic Search,Starter,Annual,529.20,5821.20,5371.52,11,0,533,Medium Value
+CMP_000950,Hall LLC,Finance,Enterprise,SMB,Argentina,Latin America,Partner,Professional,Monthly,199.00,1990.00,1430.30,10,0,780,Low Value
+CMP_000951,"Franco, Wiley and Tapia",Retail,Small Business,SMB,Chile,Latin America,Organic Search,Starter,Annual,529.20,6350.40,5859.84,12,0,1389,Medium Value
+CMP_000954,Barnes Inc,Education,Startup,SMB,Argentina,Latin America,LinkedIn Ads,Business,Annual,5389.20,53892.00,52025.20,10,0,1676,High Value
+CMP_000955,Dawson Inc,Professional Services,Mid-Market,Mid-Market,United Kingdom,Europe,Referral,Starter,Monthly,49.00,588.00,270.36,12,0,908,Low Value
+CMP_000957,Haynes-Watson,Finance,Startup,SMB,Mexico,North America,Google Ads,Professional,Annual,2149.20,25790.40,24416.64,12,0,1423,High Value
+CMP_000960,Bates-Anderson,Manufacturing,Startup,Mid-Market,Tanzania,Africa,Organic Search,Starter,Monthly,49.00,539.00,247.83,11,0,1690,Low Value
+CMP_000962,Haynes-Moss,Technology,Mid-Market,SMB,Tanzania,Africa,Organic Search,Business,Monthly,499.00,5988.00,5508.36,12,0,1067,Medium Value
+CMP_000963,Chavez-Hall,Finance,Mid-Market,SMB,India,Asia-Pacific,Organic Search,Professional,Monthly,199.00,2388.00,1716.36,12,0,1944,Low Value
+CMP_000965,Moore and Sons,Finance,Mid-Market,Mid-Market,United Kingdom,Europe,Google Ads,Business,Monthly,499.00,5988.00,5508.36,12,0,2345,Medium Value
+CMP_000966,Owens-Russell,Education,Small Business,SMB,India,Asia-Pacific,Organic Search,Professional,Monthly,199.00,2388.00,1716.36,12,0,1970,Low Value
+CMP_000967,"Howard, Townsend and Hayes",Healthcare,Startup,SMB,Nigeria,Africa,Google Ads,Starter,Annual,529.20,6350.40,5859.84,12,0,1257,Medium Value
+CMP_000968,Baker-Wilson,Manufacturing,Startup,SMB,Nigeria,Africa,Google Ads,Enterprise,Monthly,1500.00,0,0,0,1,378,Low Value
+CMP_000969,Aguirre LLC,Healthcare,Startup,SMB,United Kingdom,Europe,Partner,Business,Monthly,499.00,4990.00,4590.30,10,0,682,Medium Value
+CMP_000970,"Terry, Williams and Huff",Finance,Mid-Market,SMB,Canada,North America,LinkedIn Ads,Professional,Monthly,199.00,0,0,0,1,320,Low Value
+CMP_000973,Green-Ewing,Technology,Enterprise,SMB,Singapore,Asia-Pacific,LinkedIn Ads,Starter,Annual,529.20,5821.20,5371.52,11,0,1148,Medium Value
+CMP_000975,"Adkins, Wright and Murray",Retail,Mid-Market,SMB,South Africa,Africa,LinkedIn Ads,Business,Monthly,499.00,4491.00,4131.27,9,0,1612,Medium Value
+CMP_000976,Martinez Inc,Manufacturing,Startup,SMB,Tanzania,Africa,Referral,Professional,Monthly,199.00,1990.00,1430.30,10,0,2145,Low Value
+CMP_000977,Anderson Group,Technology,Mid-Market,SMB,Japan,Asia-Pacific,LinkedIn Ads,Professional,Monthly,199.00,0,0,0,1,312,Low Value
+CMP_000978,Parks-Pace,Manufacturing,Mid-Market,SMB,Mexico,North America,LinkedIn Ads,Professional,Monthly,199.00,2189.00,1573.33,11,0,585,Low Value
+CMP_000980,Johnson Inc,Technology,Mid-Market,Mid-Market,Brazil,Latin America,Organic Search,Professional,Monthly,199.00,1990.00,1430.30,10,0,1107,Low Value
+CMP_000981,Orr Group,Technology,Mid-Market,Mid-Market,Mexico,North America,Organic Search,Business,Monthly,499.00,2994.00,2754.18,6,1,277,Low Value
+CMP_000982,Davis LLC,Technology,Startup,SMB,Canada,North America,Referral,Starter,Annual,529.20,5821.20,5371.52,11,0,1789,Medium Value
+CMP_000984,Jackson PLC,Retail,Startup,SMB,Kenya,Africa,Email Marketing,Starter,Monthly,49.00,539.00,247.83,11,0,1160,Low Value
+CMP_000985,Underwood-Foster,Technology,Small Business,SMB,Japan,Asia-Pacific,Google Ads,Enterprise,Monthly,1500.00,0,0,0,1,214,Low Value
+CMP_000986,Reyes Group,Professional Services,Small Business,SMB,India,Asia-Pacific,Organic Search,Starter,Annual,529.20,0,0,0,1,60,Low Value
+CMP_000989,Mendez PLC,Retail,Startup,Enterprise,Japan,Asia-Pacific,Organic Search,Professional,Annual,2149.20,23641.20,22381.92,11,0,2040,High Value
+CMP_000990,Holland Group,Healthcare,Small Business,SMB,Spain,Europe,Partner,Business,Annual,5389.20,48502.80,46822.68,9,0,1184,High Value
+CMP_000991,Andrade-Mendoza,Healthcare,Startup,SMB,Tanzania,Africa,Organic Search,Professional,Monthly,199.00,1592.00,1144.24,8,0,825,Low Value
+CMP_000997,Durham-Shaw,Technology,Mid-Market,SMB,United Kingdom,Europe,Email Marketing,Starter,Monthly,49.00,441.00,202.77,9,0,1609,Low Value
+CMP_000998,Nelson-Johnson,Technology,Startup,SMB,Canada,North America,Google Ads,Professional,Monthly,199.00,1791.00,1287.27,9,0,990,Low Value
+CMP_000999,"Robinson, Huang and Osborne",Finance,Mid-Market,Enterprise,United States,North America,Partner,Starter,Monthly,49.00,539.00,247.83,11,0,1931,Low Value
